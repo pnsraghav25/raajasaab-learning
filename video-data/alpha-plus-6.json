@@ -1,0 +1,4316 @@
+{
+  "id": "alpha-plus-6",
+  "title": "Alpha Plus Batch 6.0",
+  "description": "Complete Java + Data Structures &amp; Algorithms with Quant-Aptitude.",
+  "sections": [
+    {
+      "id": "alpha_welcome_alphaits__6894b334ee1e3",
+      "title": "Welcome to Alpha Plus 6.0 (Java)!",
+      "isAvailable": true,
+      "lessons": []
+    },
+    {
+      "id": "sigma_important__68ab5005f3f9e",
+      "title": "Important - Join Telegram!",
+      "isAvailable": true,
+      "lessons": []
+    },
+    {
+      "id": "alpha_mentorship_sessions",
+      "title": "Mentorship Sessions",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ad08b7fe87df53b603f5ec",
+          "title": "Orientation Session (recording)",
+          "type": "video",
+          "duration": 6761,
+          "url": "https://fast.wistia.com/embed/medias/w8zv5ziyzl.m3u8"
+        },
+        {
+          "id": "68b03d032a3774c01c01720d",
+          "title": "Live Practice Session 1 (Recording)",
+          "type": "video",
+          "duration": 4969,
+          "url": "https://fast.wistia.com/embed/medias/5yrjgp66pj.m3u8"
+        },
+        {
+          "id": "68b2dc94fd8b87dcbd0cadaa",
+          "title": "Live Practice Session 2 (Recording)",
+          "type": "video",
+          "duration": 5206,
+          "url": "https://fast.wistia.com/embed/medias/b9xo7zvleg.m3u8"
+        },
+        {
+          "id": "68c3ba3208b062d84e018958",
+          "title": "LinkedIn Mentorship Session by Aman Sir",
+          "type": "video",
+          "duration": 12004,
+          "url": "https://fast.wistia.com/embed/medias/etdujnbk6r.m3u8"
+        },
+        {
+          "id": "68dbe486b0d4c4bc37023905",
+          "title": "GSoC Mentorship Session",
+          "type": "video",
+          "duration": 10403,
+          "url": "https://fast.wistia.com/embed/medias/4kbuk83tpf.m3u8"
+        },
+        {
+          "id": "68ec9e1ee35ea2327c0045c5",
+          "title": "Resume Building Mentorship Session",
+          "type": "video",
+          "duration": 9171,
+          "url": "https://fast.wistia.com/embed/medias/sryy3fgk3x.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sigma_core_subjects_study_material__6908e48f3c7a7",
+      "title": "Core Subjects (Study Material)",
+      "isAvailable": true,
+      "lessons": []
+    },
+    {
+      "id": "sigma_upcoming_lectures__6894b3350072c",
+      "title": "Upcoming DSA Lectures",
+      "isAvailable": false,
+      "lessons": [
+        {
+          "id": "6894b335ce38c6c45301e54a",
+          "title": "Dynamic Programming",
+          "type": "video",
+          "duration": 0,
+          "url": "https://fast.wistia.com/embed/medias/.m3u8"
+        },
+        {
+          "id": "6894b335ce38c6c45301e54b",
+          "title": "Segment Trees",
+          "type": "video",
+          "duration": 0,
+          "url": "https://fast.wistia.com/embed/medias/.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "alpha_practice_session",
+      "title": "Practice Sessions",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68b70ca10ca7baaff70ee24a",
+          "title": "Practice Session 1 (Recording)",
+          "type": "video",
+          "duration": 6172,
+          "url": "https://fast.wistia.com/embed/medias/y4j352mdgt.m3u8"
+        },
+        {
+          "id": "68b9a0b55f1528678908bc25",
+          "title": "Practice Session 2 (Recording)",
+          "type": "video",
+          "duration": 5639,
+          "url": "https://fast.wistia.com/embed/medias/yto1kl0fef.m3u8"
+        },
+        {
+          "id": "68bafe437b42fde6a903baa5",
+          "title": "Practice Session 3 (Recording)",
+          "type": "video",
+          "duration": 4896,
+          "url": "https://fast.wistia.com/embed/medias/sounk0vb93.m3u8"
+        },
+        {
+          "id": "68bdd8c2a961d46c63012417",
+          "title": "Practice Session 4 (Recording)",
+          "type": "video",
+          "duration": 6076,
+          "url": "https://fast.wistia.com/embed/medias/25e0pf07pz.m3u8"
+        },
+        {
+          "id": "68c2ae8f93e04559660f3776",
+          "title": "Practice Session 5 (Recording)",
+          "type": "video",
+          "duration": 5344,
+          "url": "https://fast.wistia.com/embed/medias/gv3hwss6cz.m3u8"
+        },
+        {
+          "id": "68c2ae8f93e04559660f3777",
+          "title": "Practice Session 6 (Recording)",
+          "type": "video",
+          "duration": 6061,
+          "url": "https://fast.wistia.com/embed/medias/57tji7jdkf.m3u8"
+        },
+        {
+          "id": "68ca6d4eb4b2286a6405bf45",
+          "title": "Practice Session 7 (Recording)",
+          "type": "video",
+          "duration": 5877,
+          "url": "https://fast.wistia.com/embed/medias/86g75sxrsd.m3u8"
+        },
+        {
+          "id": "68ca6d4eb4b2286a6405bf46",
+          "title": "Practice Session 8 (Recording)",
+          "type": "video",
+          "duration": 5093,
+          "url": "https://fast.wistia.com/embed/medias/t87iplvjel.m3u8"
+        },
+        {
+          "id": "68cac5c0d738d672d40d5e50",
+          "title": "Practice Session 9 (Recording)",
+          "type": "video",
+          "duration": 6913,
+          "url": "https://fast.wistia.com/embed/medias/jgh5041asa.m3u8"
+        },
+        {
+          "id": "68cd66f023e8df2bfc02df86",
+          "title": "Practice Session 10 (Recording)",
+          "type": "video",
+          "duration": 5151,
+          "url": "https://fast.wistia.com/embed/medias/n2pzs3zeu7.m3u8"
+        },
+        {
+          "id": "68d015dedd0c340fda0e4946",
+          "title": "Practice Session 11 (Recording)",
+          "type": "video",
+          "duration": 6414,
+          "url": "https://fast.wistia.com/embed/medias/lxmqmv18qq.m3u8"
+        },
+        {
+          "id": "68d2a4298bc9c970150df2f7",
+          "title": "Practice Session 12 (Recording)",
+          "type": "video",
+          "duration": 5613,
+          "url": "https://fast.wistia.com/embed/medias/dd71k3w31k.m3u8"
+        },
+        {
+          "id": "68d6af8a93af5560440952db",
+          "title": "Practice Session 13 (Recording)",
+          "type": "video",
+          "duration": 5192,
+          "url": "https://fast.wistia.com/embed/medias/mrsmxqlzls.m3u8"
+        },
+        {
+          "id": "68da9b30aff872099b090437",
+          "title": "Practice Session 14 (Recording)",
+          "type": "video",
+          "duration": 5783,
+          "url": "https://fast.wistia.com/embed/medias/f89ab9l9d8.m3u8"
+        },
+        {
+          "id": "68dd48a357da7a741b065db8",
+          "title": "Practice Session 15 (Recording)",
+          "type": "video",
+          "duration": 5583,
+          "url": "https://fast.wistia.com/embed/medias/83kfa05cfb.m3u8"
+        },
+        {
+          "id": "68df7b1001f7b2bedd08caf5",
+          "title": "Practice Session 16 (Recording)",
+          "type": "video",
+          "duration": 4274,
+          "url": "https://fast.wistia.com/embed/medias/z2jkqj9i90.m3u8"
+        },
+        {
+          "id": "68e12647a5b2ba07100603b5",
+          "title": "Practice Session 17 (Recording)",
+          "type": "video",
+          "duration": 4875,
+          "url": "https://fast.wistia.com/embed/medias/29yq7wfc27.m3u8"
+        },
+        {
+          "id": "68e4eac965ec966e9509e195",
+          "title": "Practice Session 18 (Recording)",
+          "type": "video",
+          "duration": 5535,
+          "url": "https://fast.wistia.com/embed/medias/0v37215yep.m3u8"
+        },
+        {
+          "id": "68e7cdcde2a153c435044ed5",
+          "title": "Practice Session 19 (Recording)",
+          "type": "video",
+          "duration": 5826,
+          "url": "https://fast.wistia.com/embed/medias/y4oqs2jo9n.m3u8"
+        },
+        {
+          "id": "68ebc9b8a8097b9afb044375",
+          "title": "Practice Session 20 (Recording)",
+          "type": "video",
+          "duration": 5203,
+          "url": "https://fast.wistia.com/embed/medias/jqcd5kp5cb.m3u8"
+        },
+        {
+          "id": "68ee4f693a973af4eb0b0e87",
+          "title": "Practice Session 21 (Recording)",
+          "type": "video",
+          "duration": 6349,
+          "url": "https://fast.wistia.com/embed/medias/n401j0y6wu.m3u8"
+        },
+        {
+          "id": "68f0a183378d6031230dad26",
+          "title": "Practice Session 22 (Recording)",
+          "type": "video",
+          "duration": 6211,
+          "url": "https://fast.wistia.com/embed/medias/v1ukhoqiw0.m3u8"
+        },
+        {
+          "id": "68f223b077b8b6289e02f249",
+          "title": "Practice Session 23 (Recording)",
+          "type": "video",
+          "duration": 5223,
+          "url": "https://fast.wistia.com/embed/medias/dz74nthkof.m3u8"
+        },
+        {
+          "id": "68f745f25293126f590337b7",
+          "title": "Practice Session 24 (Recording)",
+          "type": "video",
+          "duration": 4771,
+          "url": "https://fast.wistia.com/embed/medias/cnsucshxrx.m3u8"
+        },
+        {
+          "id": "68f8a0ffe3c976663006fac5",
+          "title": "Practice Session 25 (Recording)",
+          "type": "video",
+          "duration": 4994,
+          "url": "https://fast.wistia.com/embed/medias/kbrlfpu2o9.m3u8"
+        },
+        {
+          "id": "68fb85de99dd551b510d09b5",
+          "title": "Practice Session 26 (Recording)",
+          "type": "video",
+          "duration": 4791,
+          "url": "https://fast.wistia.com/embed/medias/xd37xkc2fa.m3u8"
+        },
+        {
+          "id": "68fe2fbbeb7a753381097f85",
+          "title": "Practice Session 27 (Recording)",
+          "type": "video",
+          "duration": 5343,
+          "url": "https://fast.wistia.com/embed/medias/gspwlqn2el.m3u8"
+        },
+        {
+          "id": "6900d5b3a49bc40e55095b65",
+          "title": "Practice Session 28 (Recording)",
+          "type": "video",
+          "duration": 5166,
+          "url": "https://fast.wistia.com/embed/medias/kmay7z7w4o.m3u8"
+        },
+        {
+          "id": "690a3389c687485b09056e07",
+          "title": "Practice Session 29 (Recording)",
+          "type": "video",
+          "duration": 5120,
+          "url": "https://fast.wistia.com/embed/medias/oc01i5zysd.m3u8"
+        },
+        {
+          "id": "690a3389c687485b09056e08",
+          "title": "Practice Session 30 (Recording)",
+          "type": "video",
+          "duration": 5269,
+          "url": "https://fast.wistia.com/embed/medias/m2dtzjbih5.m3u8"
+        },
+        {
+          "id": "690df62525146ab804036ad3",
+          "title": "Practice Session 31 (Recording)",
+          "type": "video",
+          "duration": 5556,
+          "url": "https://fast.wistia.com/embed/medias/d2ezshkdo9.m3u8"
+        },
+        {
+          "id": "6913369d910c77a8be0ac675",
+          "title": "Practice Session 32 (Recording)",
+          "type": "video",
+          "duration": 5743,
+          "url": "https://fast.wistia.com/embed/medias/acm9de164y.m3u8"
+        },
+        {
+          "id": "6915eb1d636345d6f60f5a95",
+          "title": "Practice Session 33 (Recording)",
+          "type": "video",
+          "duration": 5126,
+          "url": "https://fast.wistia.com/embed/medias/y0d8fg2ef1.m3u8"
+        },
+        {
+          "id": "69177ee82f4be7966502b615",
+          "title": "Practice Session 34 (Recording)",
+          "type": "video",
+          "duration": 5497,
+          "url": "https://fast.wistia.com/embed/medias/i3p1s0wrxc.m3u8"
+        },
+        {
+          "id": "691a13dffe2ab9fabd066373",
+          "title": "Practice Session 35 (Recording)",
+          "type": "video",
+          "duration": 5548,
+          "url": "https://fast.wistia.com/embed/medias/l8gjvfx3g7.m3u8"
+        },
+        {
+          "id": "691de0b6d4c9f734eb0ce488",
+          "title": "Practice Session 36 (Recording)",
+          "type": "video",
+          "duration": 5081,
+          "url": "https://fast.wistia.com/embed/medias/a6c8hweqt2.m3u8"
+        },
+        {
+          "id": "6922f6e039d952886909fb07",
+          "title": "Practice Session 37 (Recording)",
+          "type": "video",
+          "duration": 5230,
+          "url": "https://fast.wistia.com/embed/medias/b4f4319g8j.m3u8"
+        },
+        {
+          "id": "6922f6e039d952886909fb08",
+          "title": "Practice Session 38 (Recording)",
+          "type": "video",
+          "duration": 4987,
+          "url": "https://fast.wistia.com/embed/medias/rt4dyhv0n2.m3u8"
+        },
+        {
+          "id": "6925b2003a96f293580f88b5",
+          "title": "Practice Session 39 (Recording)",
+          "type": "video",
+          "duration": 4668,
+          "url": "https://fast.wistia.com/embed/medias/9k0seghweo.m3u8"
+        },
+        {
+          "id": "69273a760b1b7742b401ab75",
+          "title": "Practice Session 40 (Recording)",
+          "type": "video",
+          "duration": 5238,
+          "url": "https://fast.wistia.com/embed/medias/mlpsf4afs5.m3u8"
+        },
+        {
+          "id": "692b0a48130d204f3c03b027",
+          "title": "Practice Session 41 (Recording)",
+          "type": "video",
+          "duration": 5122,
+          "url": "https://fast.wistia.com/embed/medias/wa8x6vvi4e.m3u8"
+        },
+        {
+          "id": "693172a3883dcaadfa05f797",
+          "title": "Practice Session 42 (Recording)",
+          "type": "video",
+          "duration": 4985,
+          "url": "https://fast.wistia.com/embed/medias/016gcdb3hy.m3u8"
+        },
+        {
+          "id": "693172a3883dcaadfa05f798",
+          "title": "Practice Session 43 (Recording)",
+          "type": "video",
+          "duration": 5238,
+          "url": "https://fast.wistia.com/embed/medias/z7bgd4x5lq.m3u8"
+        },
+        {
+          "id": "69340c7de88b1bf31e09d568",
+          "title": "Practice Session 44 (Recording)",
+          "type": "video",
+          "duration": 4900,
+          "url": "https://fast.wistia.com/embed/medias/wjw0z0pqgi.m3u8"
+        },
+        {
+          "id": "69358e5c8a86810e06054608",
+          "title": "Practice Session 45 (Recording)",
+          "type": "video",
+          "duration": 5693,
+          "url": "https://fast.wistia.com/embed/medias/saccmh9mxt.m3u8"
+        },
+        {
+          "id": "69399266b45054f41c08a056",
+          "title": "Practice Session 46 (Recording)",
+          "type": "video",
+          "duration": 5000,
+          "url": "https://fast.wistia.com/embed/medias/zguemtww6c.m3u8"
+        },
+        {
+          "id": "694122c6bb78e5a77a0b1667",
+          "title": "Practice Session 47 (Recording)",
+          "type": "video",
+          "duration": 5352,
+          "url": "https://fast.wistia.com/embed/medias/y4096ymkf8.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_course_introduction__68ac71f09c2c0",
+      "title": "Course Introduction",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f04105d518a4008204",
+          "title": "Path to Placement",
+          "type": "video",
+          "duration": 248,
+          "url": "https://fast.wistia.com/embed/medias/xuzb9xio1t.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a4008205",
+          "title": "What will you learn?",
+          "type": "video",
+          "duration": 60,
+          "url": "https://fast.wistia.com/embed/medias/cv5z9skt18.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a4008206",
+          "title": "Prerequisites",
+          "type": "video",
+          "duration": 308,
+          "url": "https://fast.wistia.com/embed/medias/l4cgrlbf60.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_installation_resources__68ac71f0b8802",
+      "title": "Prerequisites - Installation Resources",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f04105d518a4008207",
+          "title": "What to Install? (on your laptop/computer)",
+          "type": "video",
+          "duration": 205,
+          "url": "https://fast.wistia.com/embed/medias/au23x1utq4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_flowcharts__68ac71f0c0a4b",
+      "title": "Flowcharts & Pseudocodes",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f04105d518a4008209",
+          "title": "What are Flowcharts?",
+          "type": "video",
+          "duration": 253,
+          "url": "https://fast.wistia.com/embed/medias/mqmoqg93er.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820a",
+          "title": "Flowchart Components",
+          "type": "video",
+          "duration": 353,
+          "url": "https://fast.wistia.com/embed/medias/d3c9uzve18.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820b",
+          "title": "Sum of 2 Numbers",
+          "type": "video",
+          "duration": 211,
+          "url": "https://fast.wistia.com/embed/medias/kyi4sxcsv8.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820c",
+          "title": "Calculate Simple Interest",
+          "type": "video",
+          "duration": 296,
+          "url": "https://fast.wistia.com/embed/medias/i7imncqf0f.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820d",
+          "title": "Max of 3 Numbers",
+          "type": "video",
+          "duration": 506,
+          "url": "https://fast.wistia.com/embed/medias/j3gfbsw1fv.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820e",
+          "title": "Find if a Number is Prime or not",
+          "type": "video",
+          "duration": 633,
+          "url": "https://fast.wistia.com/embed/medias/m40g1utp4g.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a400820f",
+          "title": "Sum of first N natural numbers",
+          "type": "video",
+          "duration": 516,
+          "url": "https://fast.wistia.com/embed/medias/bi58ynt8gr.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_variables__68ac71f0e79b6",
+      "title": "Variables & Data Types",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f04105d518a4008212",
+          "title": "Creating a Java File",
+          "type": "video",
+          "duration": 214,
+          "url": "https://fast.wistia.com/embed/medias/8m3rmku0xo.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a4008213",
+          "title": "Boilerplate Code",
+          "type": "video",
+          "duration": 258,
+          "url": "https://fast.wistia.com/embed/medias/1htiwpm9eh.m3u8"
+        },
+        {
+          "id": "68ac71f04105d518a4008214",
+          "title": "Output in Java",
+          "type": "video",
+          "duration": 776,
+          "url": "https://fast.wistia.com/embed/medias/7aguoe0qbu.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008215",
+          "title": "Print a Pattern",
+          "type": "video",
+          "duration": 213,
+          "url": "https://fast.wistia.com/embed/medias/pkump2rrze.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008216",
+          "title": "Variables in Java",
+          "type": "video",
+          "duration": 610,
+          "url": "https://fast.wistia.com/embed/medias/6s3f80w608.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008217",
+          "title": "Data Types in Java",
+          "type": "video",
+          "duration": 605,
+          "url": "https://fast.wistia.com/embed/medias/cp81h30jrp.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008218",
+          "title": "Sum of a & b",
+          "type": "video",
+          "duration": 206,
+          "url": "https://fast.wistia.com/embed/medias/y1ggbsz245.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008219",
+          "title": "Comments in Java",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/aiawdxajt6.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821a",
+          "title": "Input in Java",
+          "type": "video",
+          "duration": 652,
+          "url": "https://fast.wistia.com/embed/medias/tz0rl3seid.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821b",
+          "title": "Sum of a & b (Input from User)",
+          "type": "video",
+          "duration": 216,
+          "url": "https://fast.wistia.com/embed/medias/epx38voeds.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821c",
+          "title": "Product of a & b",
+          "type": "video",
+          "duration": 122,
+          "url": "https://fast.wistia.com/embed/medias/cws13xn297.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821d",
+          "title": "Area of a Circle",
+          "type": "video",
+          "duration": 271,
+          "url": "https://fast.wistia.com/embed/medias/e8ljot0wzq.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821e",
+          "title": "Type Conversion",
+          "type": "video",
+          "duration": 396,
+          "url": "https://fast.wistia.com/embed/medias/pogczpszvy.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400821f",
+          "title": "Type Casting",
+          "type": "video",
+          "duration": 410,
+          "url": "https://fast.wistia.com/embed/medias/sup9x6x7mf.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008220",
+          "title": "Type Promotion in Expression",
+          "type": "video",
+          "duration": 664,
+          "url": "https://fast.wistia.com/embed/medias/cpq5ju6ssc.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008221",
+          "title": "How does Java code run?",
+          "type": "video",
+          "duration": 227,
+          "url": "https://fast.wistia.com/embed/medias/h5pk1t6pf4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_operators__68ac71f1358d0",
+      "title": "Operators",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f14105d518a4008224",
+          "title": "Types of Operators",
+          "type": "video",
+          "duration": 178,
+          "url": "https://fast.wistia.com/embed/medias/reom4d9rsz.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008225",
+          "title": "Arithmetic Operators",
+          "type": "video",
+          "duration": 325,
+          "url": "https://fast.wistia.com/embed/medias/5al3le0zps.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008226",
+          "title": "Unary Operators",
+          "type": "video",
+          "duration": 469,
+          "url": "https://fast.wistia.com/embed/medias/k8sq4jee9z.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008227",
+          "title": "Relational Operators",
+          "type": "video",
+          "duration": 391,
+          "url": "https://fast.wistia.com/embed/medias/y8jozrlvde.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008228",
+          "title": "Logical Operators",
+          "type": "video",
+          "duration": 555,
+          "url": "https://fast.wistia.com/embed/medias/3d55tk2loq.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008229",
+          "title": "Assignment Operators",
+          "type": "video",
+          "duration": 290,
+          "url": "https://fast.wistia.com/embed/medias/c75teso0j5.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_conditional_statements__68ac71f14fb88",
+      "title": "Conditional Statements",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f14105d518a400822d",
+          "title": "if else",
+          "type": "video",
+          "duration": 658,
+          "url": "https://fast.wistia.com/embed/medias/xelobnt8ck.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400822e",
+          "title": "Print the largest of 2 numbers",
+          "type": "video",
+          "duration": 296,
+          "url": "https://fast.wistia.com/embed/medias/n8kna1apb4.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400822f",
+          "title": "Print if number is Odd or Even",
+          "type": "video",
+          "duration": 263,
+          "url": "https://fast.wistia.com/embed/medias/oytaq3wvqd.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008230",
+          "title": "else if",
+          "type": "video",
+          "duration": 180,
+          "url": "https://fast.wistia.com/embed/medias/9b4kwg7c5h.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008231",
+          "title": "Income Tax Calculator",
+          "type": "video",
+          "duration": 416,
+          "url": "https://fast.wistia.com/embed/medias/134zvl89o4.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008232",
+          "title": "Print the largest of 3 numbers",
+          "type": "video",
+          "duration": 279,
+          "url": "https://fast.wistia.com/embed/medias/qxek4svbky.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008233",
+          "title": "Ternary Operator",
+          "type": "video",
+          "duration": 256,
+          "url": "https://fast.wistia.com/embed/medias/v4siweuu3m.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008234",
+          "title": "Check if a student will Pass or Fail",
+          "type": "video",
+          "duration": 115,
+          "url": "https://fast.wistia.com/embed/medias/x1djge2lzy.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008235",
+          "title": "Switch statement",
+          "type": "video",
+          "duration": 492,
+          "url": "https://fast.wistia.com/embed/medias/fvpya51mud.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008236",
+          "title": "Calculator",
+          "type": "video",
+          "duration": 373,
+          "url": "https://fast.wistia.com/embed/medias/7qe0hqxgsc.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_loops_flow_control__68ac71f176c10",
+      "title": "Loops (Flow Control)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f14105d518a4008239",
+          "title": "Loops Basics",
+          "type": "video",
+          "duration": 122,
+          "url": "https://fast.wistia.com/embed/medias/patiz896ql.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823a",
+          "title": "while Loop",
+          "type": "video",
+          "duration": 538,
+          "url": "https://fast.wistia.com/embed/medias/o3wvc7z40d.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823b",
+          "title": "Print numbers from 1 to 10",
+          "type": "video",
+          "duration": 302,
+          "url": "https://fast.wistia.com/embed/medias/uia5bqv19j.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823c",
+          "title": "Print numbers from 1 to n",
+          "type": "video",
+          "duration": 168,
+          "url": "https://fast.wistia.com/embed/medias/49ce69g4og.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823d",
+          "title": "Sum of first N natural numbers",
+          "type": "video",
+          "duration": 498,
+          "url": "https://fast.wistia.com/embed/medias/abqynd0wnl.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823e",
+          "title": "for Loop",
+          "type": "video",
+          "duration": 345,
+          "url": "https://fast.wistia.com/embed/medias/1hq1n32ksu.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400823f",
+          "title": "Print Square pattern",
+          "type": "video",
+          "duration": 197,
+          "url": "https://fast.wistia.com/embed/medias/20vmwi0hd3.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008240",
+          "title": "Print reverse of a number",
+          "type": "video",
+          "duration": 416,
+          "url": "https://fast.wistia.com/embed/medias/s777t2sgrb.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008241",
+          "title": "Reverse the given number",
+          "type": "video",
+          "duration": 409,
+          "url": "https://fast.wistia.com/embed/medias/2x7ji0yq1u.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008242",
+          "title": "do while Loop",
+          "type": "video",
+          "duration": 100,
+          "url": "https://fast.wistia.com/embed/medias/pjaajd3mhr.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008243",
+          "title": "Break statement",
+          "type": "video",
+          "duration": 114,
+          "url": "https://fast.wistia.com/embed/medias/7ixnwhysep.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008244",
+          "title": "Question - break keyword",
+          "type": "video",
+          "duration": 195,
+          "url": "https://fast.wistia.com/embed/medias/ygjjha2tpr.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008245",
+          "title": "Continue statement",
+          "type": "video",
+          "duration": 96,
+          "url": "https://fast.wistia.com/embed/medias/09zmb9wyko.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008246",
+          "title": "Question - continue keyword",
+          "type": "video",
+          "duration": 174,
+          "url": "https://fast.wistia.com/embed/medias/a2q04l3br3.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008247",
+          "title": "Check if a number is Prime or not",
+          "type": "video",
+          "duration": 1051,
+          "url": "https://fast.wistia.com/embed/medias/aka2266cy1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_patterns__68ac71f1acd2f",
+      "title": "Patterns (Part I)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f14105d518a400824a",
+          "title": "Intro to Nested Loops (Star Pattern)",
+          "type": "video",
+          "duration": 944,
+          "url": "https://fast.wistia.com/embed/medias/86c3r29yj9.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400824b",
+          "title": "Inverted Star Pattern",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/zzbiuk1siz.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400824c",
+          "title": "Half Pyramid Pattern",
+          "type": "video",
+          "duration": 501,
+          "url": "https://fast.wistia.com/embed/medias/wut18bxwce.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400824d",
+          "title": "Character Pattern",
+          "type": "video",
+          "duration": 617,
+          "url": "https://fast.wistia.com/embed/medias/x0nidy2ruw.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400824e",
+          "title": "Special Note",
+          "type": "video",
+          "duration": 76,
+          "url": "https://fast.wistia.com/embed/medias/q37p2sqmdt.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_functions__68ac71f1bbecd",
+      "title": "Functions & Methods",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f14105d518a4008250",
+          "title": "Introduction to Functions",
+          "type": "video",
+          "duration": 149,
+          "url": "https://fast.wistia.com/embed/medias/427fwnme12.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008251",
+          "title": "Syntax - Function Code Demo",
+          "type": "video",
+          "duration": 622,
+          "url": "https://fast.wistia.com/embed/medias/y47kmjc8hh.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008252",
+          "title": "Syntax with Parameters",
+          "type": "video",
+          "duration": 383,
+          "url": "https://fast.wistia.com/embed/medias/otcc1a2c0a.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008253",
+          "title": "Parameters v/s Arguments",
+          "type": "video",
+          "duration": 114,
+          "url": "https://fast.wistia.com/embed/medias/u55u9tgkrq.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008254",
+          "title": "What happens in memory? (Call Stack)",
+          "type": "video",
+          "duration": 310,
+          "url": "https://fast.wistia.com/embed/medias/gn90nx913w.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008255",
+          "title": "Call by Value (in Java)",
+          "type": "video",
+          "duration": 495,
+          "url": "https://fast.wistia.com/embed/medias/gkbmw36uqn.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008256",
+          "title": "Product of a & b",
+          "type": "video",
+          "duration": 221,
+          "url": "https://fast.wistia.com/embed/medias/owyk91pwuf.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008257",
+          "title": "Find Factorial",
+          "type": "video",
+          "duration": 408,
+          "url": "https://fast.wistia.com/embed/medias/1v8gapehya.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008258",
+          "title": "Find Binomial Coefficient",
+          "type": "video",
+          "duration": 404,
+          "url": "https://fast.wistia.com/embed/medias/okx53wlj9l.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008259",
+          "title": "Inbuilt v/s User defined Methods",
+          "type": "video",
+          "duration": 135,
+          "url": "https://fast.wistia.com/embed/medias/67p79q80u7.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825a",
+          "title": "Function Overloading",
+          "type": "video",
+          "duration": 243,
+          "url": "https://fast.wistia.com/embed/medias/pfwna0ldyh.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825b",
+          "title": "Overloading using Parameters",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/45nqj0b6ot.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825c",
+          "title": "Overloading using Data Types",
+          "type": "video",
+          "duration": 198,
+          "url": "https://fast.wistia.com/embed/medias/3et5h9ywdk.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825d",
+          "title": "Check if a number is Prime or not",
+          "type": "video",
+          "duration": 467,
+          "url": "https://fast.wistia.com/embed/medias/q4en1pju54.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825e",
+          "title": "Check Prime (Optimized)",
+          "type": "video",
+          "duration": 285,
+          "url": "https://fast.wistia.com/embed/medias/lwpf5gaxh2.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a400825f",
+          "title": "Primes in Range",
+          "type": "video",
+          "duration": 263,
+          "url": "https://fast.wistia.com/embed/medias/vvemh4p8nu.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008260",
+          "title": "Binary to Decimal",
+          "type": "video",
+          "duration": 867,
+          "url": "https://fast.wistia.com/embed/medias/anhtby677z.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008261",
+          "title": "Code - Binary to Decimal",
+          "type": "video",
+          "duration": 250,
+          "url": "https://fast.wistia.com/embed/medias/w6bm8n6znf.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008262",
+          "title": "Decimal to Binary",
+          "type": "video",
+          "duration": 439,
+          "url": "https://fast.wistia.com/embed/medias/tescgz3p60.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008263",
+          "title": "Code - Decimal to Binary",
+          "type": "video",
+          "duration": 226,
+          "url": "https://fast.wistia.com/embed/medias/ay2nuoh8lv.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008264",
+          "title": "Method Scope",
+          "type": "video",
+          "duration": 199,
+          "url": "https://fast.wistia.com/embed/medias/zzfxsuy64n.m3u8"
+        },
+        {
+          "id": "68ac71f14105d518a4008265",
+          "title": "Block Scope",
+          "type": "video",
+          "duration": 233,
+          "url": "https://fast.wistia.com/embed/medias/s0lyb9rk8z.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_advanced_patterns__68ac71f203655",
+      "title": "Patterns (Part II) - Advanced",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ac71f24105d518a4008268",
+          "title": "Hollow Rectangle Pattern",
+          "type": "video",
+          "duration": 686,
+          "url": "https://fast.wistia.com/embed/medias/0vtzqe25f3.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a4008269",
+          "title": "Dry Run - Hollow Rectangle Pattern",
+          "type": "video",
+          "duration": 933,
+          "url": "https://fast.wistia.com/embed/medias/kcdm8hu41c.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826a",
+          "title": "Inverted & Rotated Half Pyramid",
+          "type": "video",
+          "duration": 762,
+          "url": "https://fast.wistia.com/embed/medias/ti61ws8vou.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826b",
+          "title": "Inverted Half Pyramid Pattern with Numbers",
+          "type": "video",
+          "duration": 516,
+          "url": "https://fast.wistia.com/embed/medias/6mo5di7lu4.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826c",
+          "title": "Floyd's Triangle Pattern",
+          "type": "video",
+          "duration": 401,
+          "url": "https://fast.wistia.com/embed/medias/oo5xcymn1x.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826d",
+          "title": "0-1 Triangle Pattern",
+          "type": "video",
+          "duration": 565,
+          "url": "https://fast.wistia.com/embed/medias/tfdn9os4ar.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826e",
+          "title": "Butterfly Pattern",
+          "type": "video",
+          "duration": 444,
+          "url": "https://fast.wistia.com/embed/medias/53pbsjftb5.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a400826f",
+          "title": "Butterfly Pattern Code (explanation continued as well)",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/ugtotbbd98.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a4008270",
+          "title": "Solid Rhombus Pattern",
+          "type": "video",
+          "duration": 467,
+          "url": "https://fast.wistia.com/embed/medias/w7lthcz7we.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a4008271",
+          "title": "Hollow Rhombus Pattern",
+          "type": "video",
+          "duration": 471,
+          "url": "https://fast.wistia.com/embed/medias/mgrx47twr3.m3u8"
+        },
+        {
+          "id": "68ac71f24105d518a4008272",
+          "title": "Diamond Pattern",
+          "type": "video",
+          "duration": 596,
+          "url": "https://fast.wistia.com/embed/medias/z0lbhai43v.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_arrays__68bd946cc2830",
+      "title": "ARRAYS (Part I)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68bd946c169dae1d6906e1d4",
+          "title": "Introduction",
+          "type": "video",
+          "duration": 457,
+          "url": "https://fast.wistia.com/embed/medias/xtk8zzn1ze.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1d5",
+          "title": "Arrays - Creation",
+          "type": "video",
+          "duration": 299,
+          "url": "https://fast.wistia.com/embed/medias/di8xibo5im.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1d6",
+          "title": "Arrays - Input, Output & Update",
+          "type": "video",
+          "duration": 439,
+          "url": "https://fast.wistia.com/embed/medias/5zjweu16xb.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1d7",
+          "title": "Arrays as Function Arguments",
+          "type": "video",
+          "duration": 329,
+          "url": "https://fast.wistia.com/embed/medias/e6pk7o2l3t.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1d9",
+          "title": "Linear Search",
+          "type": "video",
+          "duration": 421,
+          "url": "https://fast.wistia.com/embed/medias/r2x2xat649.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1da",
+          "title": "Largest in Array",
+          "type": "video",
+          "duration": 425,
+          "url": "https://fast.wistia.com/embed/medias/6i9vj73dds.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1db",
+          "title": "Binary Search",
+          "type": "video",
+          "duration": 531,
+          "url": "https://fast.wistia.com/embed/medias/sxj18boh7u.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1dc",
+          "title": "Binary Search Code",
+          "type": "video",
+          "duration": 390,
+          "url": "https://fast.wistia.com/embed/medias/uusffgr23j.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1dd",
+          "title": "Reverse an Array",
+          "type": "video",
+          "duration": 538,
+          "url": "https://fast.wistia.com/embed/medias/ssayeq0oid.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1de",
+          "title": "Pairs in Array",
+          "type": "video",
+          "duration": 621,
+          "url": "https://fast.wistia.com/embed/medias/ln3nl6svm0.m3u8"
+        },
+        {
+          "id": "68bd946c169dae1d6906e1df",
+          "title": "Print Subarrays",
+          "type": "video",
+          "duration": 642,
+          "url": "https://fast.wistia.com/embed/medias/69yx8blznb.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_arrays__68bd946cf422e",
+      "title": "ARRAYS (Part II)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68bd946d169dae1d6906e1e0",
+          "title": "Max Subarray Sum - I (Brute Force)",
+          "type": "video",
+          "duration": 494,
+          "url": "https://fast.wistia.com/embed/medias/6nrxoa8q6u.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e1",
+          "title": "Max Subarray Sum - II (Prefix Sum)",
+          "type": "video",
+          "duration": 537,
+          "url": "https://fast.wistia.com/embed/medias/h2aokby4b9.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e2",
+          "title": "Max Subarray Sum - III (Kadane's Algorithm)",
+          "type": "video",
+          "duration": 736,
+          "url": "https://fast.wistia.com/embed/medias/mmczvo374m.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e3",
+          "title": "Trapping Rainwater",
+          "type": "video",
+          "duration": 1842,
+          "url": "https://fast.wistia.com/embed/medias/ysd8ib7qi0.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e4",
+          "title": "Trapping Rainwater - Code",
+          "type": "video",
+          "duration": 485,
+          "url": "https://fast.wistia.com/embed/medias/ncmeg9a3v5.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e5",
+          "title": "Best Time to Buy & Sell Stock",
+          "type": "video",
+          "duration": 1019,
+          "url": "https://fast.wistia.com/embed/medias/xkc4pfkopq.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_basic_sorting_algorithms__68bd946d16493",
+      "title": "Basic Sorting Algorithms",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68bd946d169dae1d6906e1e8",
+          "title": "What is sorting?",
+          "type": "video",
+          "duration": 124,
+          "url": "https://fast.wistia.com/embed/medias/w5g8czgv44.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1e9",
+          "title": "Bubble Sort",
+          "type": "video",
+          "duration": 526,
+          "url": "https://fast.wistia.com/embed/medias/9pkl16ybly.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1ea",
+          "title": "Bubble Sort Code",
+          "type": "video",
+          "duration": 374,
+          "url": "https://fast.wistia.com/embed/medias/v55mo46aal.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1eb",
+          "title": "Selection Sort",
+          "type": "video",
+          "duration": 239,
+          "url": "https://fast.wistia.com/embed/medias/xix1w0xif7.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1ec",
+          "title": "Selection Sort Code",
+          "type": "video",
+          "duration": 258,
+          "url": "https://fast.wistia.com/embed/medias/pu55yz8o8q.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1ed",
+          "title": "Insertion Sort",
+          "type": "video",
+          "duration": 260,
+          "url": "https://fast.wistia.com/embed/medias/pwlrtkxvcx.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1ee",
+          "title": "Insertion Sort Code",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/q0m7jhgw0v.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1ef",
+          "title": "Inbuilt Sort",
+          "type": "video",
+          "duration": 478,
+          "url": "https://fast.wistia.com/embed/medias/8i5z9r4dsg.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f0",
+          "title": "Counting Sort",
+          "type": "video",
+          "duration": 300,
+          "url": "https://fast.wistia.com/embed/medias/rbhlcdys7d.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f1",
+          "title": "Counting Sort Code",
+          "type": "video",
+          "duration": 312,
+          "url": "https://fast.wistia.com/embed/medias/oiipxqwbpw.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_strings__68bd946d36e55",
+      "title": "2D Arrays",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68bd946d169dae1d6906e1f4",
+          "title": "Introduction to 2D Arrays",
+          "type": "video",
+          "duration": 149,
+          "url": "https://fast.wistia.com/embed/medias/on3mu3ztgv.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f5",
+          "title": "Real life examples",
+          "type": "video",
+          "duration": 253,
+          "url": "https://fast.wistia.com/embed/medias/k542setq8e.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f6",
+          "title": "Representation of 2D Arrays",
+          "type": "video",
+          "duration": 127,
+          "url": "https://fast.wistia.com/embed/medias/bo8ct6s3oz.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f7",
+          "title": "Creation of 2D Arrays",
+          "type": "video",
+          "duration": 547,
+          "url": "https://fast.wistia.com/embed/medias/la1saphcla.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f8",
+          "title": "2D Arrays in Memory",
+          "type": "video",
+          "duration": 260,
+          "url": "https://fast.wistia.com/embed/medias/d9ug9wxgqx.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1f9",
+          "title": "Spiral Matrix",
+          "type": "video",
+          "duration": 454,
+          "url": "https://fast.wistia.com/embed/medias/o5eikpmn1o.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1fa",
+          "title": "Spiral Matrix Code",
+          "type": "video",
+          "duration": 775,
+          "url": "https://fast.wistia.com/embed/medias/z8yi9q0kba.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1fb",
+          "title": "Diagonal Sum",
+          "type": "video",
+          "duration": 618,
+          "url": "https://fast.wistia.com/embed/medias/c15evky2zc.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1fc",
+          "title": "Search in Sorted Matrix",
+          "type": "video",
+          "duration": 675,
+          "url": "https://fast.wistia.com/embed/medias/l6z18dplhy.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e1fd",
+          "title": "Search in Sorted Matrix Code",
+          "type": "video",
+          "duration": 368,
+          "url": "https://fast.wistia.com/embed/medias/n0q1gvvhys.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_2d_arrays__68bd946d56e0f",
+      "title": "Strings",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68bd946d169dae1d6906e200",
+          "title": "What are Strings?",
+          "type": "video",
+          "duration": 240,
+          "url": "https://fast.wistia.com/embed/medias/b4pxn8l6ax.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e201",
+          "title": "Input/Output",
+          "type": "video",
+          "duration": 142,
+          "url": "https://fast.wistia.com/embed/medias/tnrhmkdsa0.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e202",
+          "title": "String Length",
+          "type": "video",
+          "duration": 77,
+          "url": "https://fast.wistia.com/embed/medias/1pw2sg7qyo.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e203",
+          "title": "String Concatenate",
+          "type": "video",
+          "duration": 115,
+          "url": "https://fast.wistia.com/embed/medias/z5v2ul9ceg.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e204",
+          "title": "String charAt Method",
+          "type": "video",
+          "duration": 180,
+          "url": "https://fast.wistia.com/embed/medias/suc3f20qmp.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e205",
+          "title": "Check if a String is Palindrome",
+          "type": "video",
+          "duration": 418,
+          "url": "https://fast.wistia.com/embed/medias/giji813y48.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e206",
+          "title": "Question - Shortest Path",
+          "type": "video",
+          "duration": 557,
+          "url": "https://fast.wistia.com/embed/medias/xld05wwfvj.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e207",
+          "title": "String Functions - compare",
+          "type": "video",
+          "duration": 208,
+          "url": "https://fast.wistia.com/embed/medias/y3qg97bql5.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e208",
+          "title": "String Functions - substring",
+          "type": "video",
+          "duration": 310,
+          "url": "https://fast.wistia.com/embed/medias/d70rtvueoy.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e209",
+          "title": "Print Largest String",
+          "type": "video",
+          "duration": 283,
+          "url": "https://fast.wistia.com/embed/medias/rcovx1fx6p.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e20a",
+          "title": "Why Strings are Immutable?",
+          "type": "video",
+          "duration": 507,
+          "url": "https://fast.wistia.com/embed/medias/kyotb6cdd3.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e20b",
+          "title": "StringBuilder",
+          "type": "video",
+          "duration": 301,
+          "url": "https://fast.wistia.com/embed/medias/e2u2dbd3tg.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e20c",
+          "title": "Convert Letters to Uppercase",
+          "type": "video",
+          "duration": 499,
+          "url": "https://fast.wistia.com/embed/medias/lzdb51x1vp.m3u8"
+        },
+        {
+          "id": "68bd946d169dae1d6906e20d",
+          "title": "String Compression",
+          "type": "video",
+          "duration": 537,
+          "url": "https://fast.wistia.com/embed/medias/mq7jhmtzuv.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_bit_manipulation__68c7acc0b251d",
+      "title": "Bit Manipulation",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc0df205f8eb20942c4",
+          "title": "Introduction to Bit Manipulation",
+          "type": "video",
+          "duration": 124,
+          "url": "https://fast.wistia.com/embed/medias/9v36o7mkxw.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942c5",
+          "title": "Binary Number System",
+          "type": "video",
+          "duration": 230,
+          "url": "https://fast.wistia.com/embed/medias/f9d8qxe82w.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942c6",
+          "title": "Bitwise Operators",
+          "type": "video",
+          "duration": 92,
+          "url": "https://fast.wistia.com/embed/medias/nip4s6vhi0.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942c7",
+          "title": "Binary AND",
+          "type": "video",
+          "duration": 149,
+          "url": "https://fast.wistia.com/embed/medias/ss9yzuauy8.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942c8",
+          "title": "Binary OR",
+          "type": "video",
+          "duration": 96,
+          "url": "https://fast.wistia.com/embed/medias/jb65a1s8jt.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942c9",
+          "title": "Binary XOR",
+          "type": "video",
+          "duration": 76,
+          "url": "https://fast.wistia.com/embed/medias/xfvke2io86.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942ca",
+          "title": "Binary 1's Complement",
+          "type": "video",
+          "duration": 475,
+          "url": "https://fast.wistia.com/embed/medias/2b41y4c1s7.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942cb",
+          "title": "Binary Left Shift",
+          "type": "video",
+          "duration": 242,
+          "url": "https://fast.wistia.com/embed/medias/jz0dmy0ksb.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942cc",
+          "title": "Binary Right Shift",
+          "type": "video",
+          "duration": 159,
+          "url": "https://fast.wistia.com/embed/medias/xci2cmuq1s.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942cd",
+          "title": "Check if Odd or Even",
+          "type": "video",
+          "duration": 371,
+          "url": "https://fast.wistia.com/embed/medias/5x0mbksbwt.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942ce",
+          "title": "Get ith Bit",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/i7ocrvta54.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942cf",
+          "title": "Set ith Bit",
+          "type": "video",
+          "duration": 172,
+          "url": "https://fast.wistia.com/embed/medias/cr5u69itp5.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942d0",
+          "title": "Clear ith Bit",
+          "type": "video",
+          "duration": 177,
+          "url": "https://fast.wistia.com/embed/medias/3gaaw5pd75.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942d1",
+          "title": "Update ith bit",
+          "type": "video",
+          "duration": 292,
+          "url": "https://fast.wistia.com/embed/medias/b0obyv2h0a.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942d2",
+          "title": "Clear last i bits",
+          "type": "video",
+          "duration": 199,
+          "url": "https://fast.wistia.com/embed/medias/z3y8p4r0xi.m3u8"
+        },
+        {
+          "id": "68c7acc0df205f8eb20942d3",
+          "title": "Clear range of bits",
+          "type": "video",
+          "duration": 470,
+          "url": "https://fast.wistia.com/embed/medias/9qbs5d1u8r.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942d4",
+          "title": "Check if a number is power of 2 or not",
+          "type": "video",
+          "duration": 186,
+          "url": "https://fast.wistia.com/embed/medias/djio9998tg.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942d5",
+          "title": "Count set bits in a number",
+          "type": "video",
+          "duration": 320,
+          "url": "https://fast.wistia.com/embed/medias/0lneui6hg9.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942d6",
+          "title": "Fast Exponentiation",
+          "type": "video",
+          "duration": 295,
+          "url": "https://fast.wistia.com/embed/medias/uz8ev0dob4.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942d7",
+          "title": "Fast Exponentiation Code",
+          "type": "video",
+          "duration": 344,
+          "url": "https://fast.wistia.com/embed/medias/v71ttu0da6.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_object_oriented_programming_oops__68c7acc1159f1",
+      "title": "Object Oriented Programming (OOPs)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc1df205f8eb20942da",
+          "title": "Classes & Objects",
+          "type": "video",
+          "duration": 975,
+          "url": "https://fast.wistia.com/embed/medias/mmxakcbnxx.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942db",
+          "title": "Access Modifiers",
+          "type": "video",
+          "duration": 451,
+          "url": "https://fast.wistia.com/embed/medias/94zad5y2vk.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942dc",
+          "title": "Getters & Setters",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/7j62mj58fp.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942dd",
+          "title": "Encapsulation",
+          "type": "video",
+          "duration": 248,
+          "url": "https://fast.wistia.com/embed/medias/zvpnyex5ej.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942de",
+          "title": "Constructors",
+          "type": "video",
+          "duration": 300,
+          "url": "https://fast.wistia.com/embed/medias/cfkbsovkxk.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942df",
+          "title": "Type of Constructors",
+          "type": "video",
+          "duration": 238,
+          "url": "https://fast.wistia.com/embed/medias/amh7yx0vnq.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e0",
+          "title": "Copy Constructor",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/fbjrbey8w2.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e1",
+          "title": "Shallow & Deep Copy",
+          "type": "video",
+          "duration": 221,
+          "url": "https://fast.wistia.com/embed/medias/10elqo51u6.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e2",
+          "title": "Destructors",
+          "type": "video",
+          "duration": 133,
+          "url": "https://fast.wistia.com/embed/medias/ppwcynbyny.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e3",
+          "title": "Inheritance",
+          "type": "video",
+          "duration": 342,
+          "url": "https://fast.wistia.com/embed/medias/tg8i6sqiac.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e4",
+          "title": "Single level Inheritance",
+          "type": "video",
+          "duration": 71,
+          "url": "https://fast.wistia.com/embed/medias/1xhb4i4qey.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e5",
+          "title": "Multi level Inheritance",
+          "type": "video",
+          "duration": 180,
+          "url": "https://fast.wistia.com/embed/medias/jsbombv1m5.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e6",
+          "title": "Hierarchial Inheritance",
+          "type": "video",
+          "duration": 145,
+          "url": "https://fast.wistia.com/embed/medias/tbzkze5u3e.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e7",
+          "title": "Hybrid Inheritance",
+          "type": "video",
+          "duration": 125,
+          "url": "https://fast.wistia.com/embed/medias/gjk5ddvid7.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e8",
+          "title": "Polymorphism",
+          "type": "video",
+          "duration": 103,
+          "url": "https://fast.wistia.com/embed/medias/4zbde6k85s.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942e9",
+          "title": "Method Overloading",
+          "type": "video",
+          "duration": 280,
+          "url": "https://fast.wistia.com/embed/medias/q69mhts2q4.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ea",
+          "title": "Method Overriding",
+          "type": "video",
+          "duration": 164,
+          "url": "https://fast.wistia.com/embed/medias/0vc6ubqwrr.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942eb",
+          "title": "Packages in Java",
+          "type": "video",
+          "duration": 292,
+          "url": "https://fast.wistia.com/embed/medias/hhcue5w8bf.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ec",
+          "title": "Abstraction",
+          "type": "video",
+          "duration": 161,
+          "url": "https://fast.wistia.com/embed/medias/vlam6psdmg.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ed",
+          "title": "Abstract Classes",
+          "type": "video",
+          "duration": 675,
+          "url": "https://fast.wistia.com/embed/medias/hqjauqcm2p.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ee",
+          "title": "Interfaces",
+          "type": "video",
+          "duration": 687,
+          "url": "https://fast.wistia.com/embed/medias/u7q79c0bcq.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ef",
+          "title": "Static keyword",
+          "type": "video",
+          "duration": 609,
+          "url": "https://fast.wistia.com/embed/medias/jj38uxdxti.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f0",
+          "title": "Super keyword",
+          "type": "video",
+          "duration": 295,
+          "url": "https://fast.wistia.com/embed/medias/hff99jsj35.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f1",
+          "title": "Solved Questions Practice",
+          "type": "video",
+          "duration": 2005,
+          "url": "https://fast.wistia.com/embed/medias/09u4vawhqe.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_recursion_basics__68c7acc1664b1",
+      "title": "Recursion Basics (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc1df205f8eb20942f4",
+          "title": "What is Recursion?",
+          "type": "video",
+          "duration": 824,
+          "url": "https://fast.wistia.com/embed/medias/n7yiew84kz.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f5",
+          "title": "Print numbers in decreasing order",
+          "type": "video",
+          "duration": 679,
+          "url": "https://fast.wistia.com/embed/medias/adsl4106e2.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f6",
+          "title": "Stack overflow",
+          "type": "video",
+          "duration": 132,
+          "url": "https://fast.wistia.com/embed/medias/bhnydiye5e.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f7",
+          "title": "Print numbers in increasing order",
+          "type": "video",
+          "duration": 451,
+          "url": "https://fast.wistia.com/embed/medias/xkm01shwht.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f8",
+          "title": "Find Factorial of N",
+          "type": "video",
+          "duration": 557,
+          "url": "https://fast.wistia.com/embed/medias/c3p93xcdnh.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942f9",
+          "title": "Print sum of N natural numbers",
+          "type": "video",
+          "duration": 367,
+          "url": "https://fast.wistia.com/embed/medias/ciws43b2ai.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942fa",
+          "title": "Print Nth Fibonacci number",
+          "type": "video",
+          "duration": 1446,
+          "url": "https://fast.wistia.com/embed/medias/2dpf1l67rt.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942fb",
+          "title": "Check if array is sorted or not",
+          "type": "video",
+          "duration": 683,
+          "url": "https://fast.wistia.com/embed/medias/edcg3p8hwk.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942fc",
+          "title": "First Occurrence",
+          "type": "video",
+          "duration": 432,
+          "url": "https://fast.wistia.com/embed/medias/ap67srqaud.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942fd",
+          "title": "Last Occurrence",
+          "type": "video",
+          "duration": 318,
+          "url": "https://fast.wistia.com/embed/medias/vrbrp1y029.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942fe",
+          "title": "Print x to the power n",
+          "type": "video",
+          "duration": 535,
+          "url": "https://fast.wistia.com/embed/medias/y852al0i5b.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb20942ff",
+          "title": "Print x to the power n (Optimized)",
+          "type": "video",
+          "duration": 601,
+          "url": "https://fast.wistia.com/embed/medias/utpysm3fxv.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_recursion_basics__68c7acc1901b3",
+      "title": "Recursion Basics (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc1df205f8eb2094300",
+          "title": "Tiling Problem",
+          "type": "video",
+          "duration": 1128,
+          "url": "https://fast.wistia.com/embed/medias/ofoswsossu.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094301",
+          "title": "Tiling Problem Code",
+          "type": "video",
+          "duration": 312,
+          "url": "https://fast.wistia.com/embed/medias/7f0a9wu2mt.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094302",
+          "title": "Remove Duplicates in a String",
+          "type": "video",
+          "duration": 964,
+          "url": "https://fast.wistia.com/embed/medias/1jnrjlw2or.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094303",
+          "title": "Friends Pairing Problem",
+          "type": "video",
+          "duration": 965,
+          "url": "https://fast.wistia.com/embed/medias/2mcmxr8cen.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094304",
+          "title": "Binary Strings Problem",
+          "type": "video",
+          "duration": 532,
+          "url": "https://fast.wistia.com/embed/medias/j2dlknovwq.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094305",
+          "title": "Binary Strings Problem Code",
+          "type": "video",
+          "duration": 358,
+          "url": "https://fast.wistia.com/embed/medias/beieaybiyb.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094306",
+          "title": "Stack Analysis - Binary Strings",
+          "type": "video",
+          "duration": 433,
+          "url": "https://fast.wistia.com/embed/medias/aprgszmnvn.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_divide__68c7acc1b045b",
+      "title": "Divide & Conquer",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc1df205f8eb2094309",
+          "title": "What is Divide & Conquer?",
+          "type": "video",
+          "duration": 158,
+          "url": "https://fast.wistia.com/embed/medias/8edc9o7p58.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430a",
+          "title": "Merge Sort (Basic + Space Optimized)",
+          "type": "video",
+          "duration": 1136,
+          "url": "https://fast.wistia.com/embed/medias/sd34rvji0z.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430b",
+          "title": "Merge Sort Code",
+          "type": "video",
+          "duration": 815,
+          "url": "https://fast.wistia.com/embed/medias/gdn3d4b7uq.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430c",
+          "title": "Quick Sort",
+          "type": "video",
+          "duration": 658,
+          "url": "https://fast.wistia.com/embed/medias/ybmpav8eed.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430d",
+          "title": "Quick Sort Code",
+          "type": "video",
+          "duration": 383,
+          "url": "https://fast.wistia.com/embed/medias/mw21zj9dwb.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430e",
+          "title": "Worst Case in Quick Sort",
+          "type": "video",
+          "duration": 220,
+          "url": "https://fast.wistia.com/embed/medias/59iyo9y8g9.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209430f",
+          "title": "Sorted & Rotated Array Search",
+          "type": "video",
+          "duration": 828,
+          "url": "https://fast.wistia.com/embed/medias/9pgc0kwrlc.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094310",
+          "title": "Sorted & Rotated Array Code",
+          "type": "video",
+          "duration": 478,
+          "url": "https://fast.wistia.com/embed/medias/2tu7jelcs1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_time__68c7acc1ce3ba",
+      "title": "Time & Space Complexity",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68c7acc1df205f8eb2094313",
+          "title": "Introduction",
+          "type": "video",
+          "duration": 305,
+          "url": "https://fast.wistia.com/embed/medias/1soxzew1pd.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094314",
+          "title": "What is Time Complexity?",
+          "type": "video",
+          "duration": 1007,
+          "url": "https://fast.wistia.com/embed/medias/htodmkzs9m.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094315",
+          "title": "Constant Time Complexity",
+          "type": "video",
+          "duration": 201,
+          "url": "https://fast.wistia.com/embed/medias/92pg83iekb.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094316",
+          "title": "Big O Notation",
+          "type": "video",
+          "duration": 708,
+          "url": "https://fast.wistia.com/embed/medias/ou1gumnqbp.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094317",
+          "title": "Big Omega & Theta Notation",
+          "type": "video",
+          "duration": 369,
+          "url": "https://fast.wistia.com/embed/medias/zxxixlfuvh.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094318",
+          "title": "Common Complexities",
+          "type": "video",
+          "duration": 253,
+          "url": "https://fast.wistia.com/embed/medias/8nnp7epq4i.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb2094319",
+          "title": "Space Complexity",
+          "type": "video",
+          "duration": 324,
+          "url": "https://fast.wistia.com/embed/medias/kcuy8dk58e.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431a",
+          "title": "Simple Loop Analysis",
+          "type": "video",
+          "duration": 274,
+          "url": "https://fast.wistia.com/embed/medias/159soo7ba6.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431b",
+          "title": "Nested Loop 1 Analysis",
+          "type": "video",
+          "duration": 314,
+          "url": "https://fast.wistia.com/embed/medias/oy0oqqb1x3.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431c",
+          "title": "Nested Loop 2 Analysis",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/umksglv57v.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431d",
+          "title": "Nested Loop 3 Analysis",
+          "type": "video",
+          "duration": 365,
+          "url": "https://fast.wistia.com/embed/medias/138n68ytjm.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431e",
+          "title": "Bubble Sort Analysis",
+          "type": "video",
+          "duration": 730,
+          "url": "https://fast.wistia.com/embed/medias/7msauqcalp.m3u8"
+        },
+        {
+          "id": "68c7acc1df205f8eb209431f",
+          "title": "Binary Search Analysis",
+          "type": "video",
+          "duration": 762,
+          "url": "https://fast.wistia.com/embed/medias/vjolnmhq51.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094320",
+          "title": "Recursive Complexity Analysis (Factorial)",
+          "type": "video",
+          "duration": 732,
+          "url": "https://fast.wistia.com/embed/medias/d8ca7vm2yf.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094321",
+          "title": "Sum of N numbers Analysis",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/pszqp7j3vr.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094322",
+          "title": "Fibonacci Analysis",
+          "type": "video",
+          "duration": 791,
+          "url": "https://fast.wistia.com/embed/medias/wv4q5pxhrr.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094323",
+          "title": "Merge Sort Analysis",
+          "type": "video",
+          "duration": 594,
+          "url": "https://fast.wistia.com/embed/medias/gvdh0j790y.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094324",
+          "title": "Recurrence Relation - Merge Sort",
+          "type": "video",
+          "duration": 491,
+          "url": "https://fast.wistia.com/embed/medias/smvz60nomh.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094325",
+          "title": "Power Function I - Analysis",
+          "type": "video",
+          "duration": 395,
+          "url": "https://fast.wistia.com/embed/medias/se4p1c75u5.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094326",
+          "title": "Power Function II - Analysis",
+          "type": "video",
+          "duration": 700,
+          "url": "https://fast.wistia.com/embed/medias/35oariq0pz.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094327",
+          "title": "Power Function III - Analysis",
+          "type": "video",
+          "duration": 326,
+          "url": "https://fast.wistia.com/embed/medias/0dvn7eqrmw.m3u8"
+        },
+        {
+          "id": "68c7acc2df205f8eb2094328",
+          "title": "How to approach Coding Questions?",
+          "type": "video",
+          "duration": 343,
+          "url": "https://fast.wistia.com/embed/medias/yzkndz26oq.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_backtracking__68dbea2bc1ff5",
+      "title": "Backtracking",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68dbea2b4069da29a90e1894",
+          "title": "Introduction",
+          "type": "video",
+          "duration": 173,
+          "url": "https://fast.wistia.com/embed/medias/pjwf4d5md0.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e1895",
+          "title": "Types of Backtracking",
+          "type": "video",
+          "duration": 150,
+          "url": "https://fast.wistia.com/embed/medias/aak5txjusu.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e1896",
+          "title": "Backtracking on Arrays",
+          "type": "video",
+          "duration": 878,
+          "url": "https://fast.wistia.com/embed/medias/ovfux4c2st.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e1897",
+          "title": "Find Subsets",
+          "type": "video",
+          "duration": 782,
+          "url": "https://fast.wistia.com/embed/medias/a729nxoj8i.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e1898",
+          "title": "Find Subsets Code",
+          "type": "video",
+          "duration": 891,
+          "url": "https://fast.wistia.com/embed/medias/inv4m9aqcf.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e1899",
+          "title": "Find Permutations",
+          "type": "video",
+          "duration": 679,
+          "url": "https://fast.wistia.com/embed/medias/70lxagjbcr.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189a",
+          "title": "Find Permutations Code",
+          "type": "video",
+          "duration": 300,
+          "url": "https://fast.wistia.com/embed/medias/kkwb9euv6k.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189b",
+          "title": "N Queens - all ways",
+          "type": "video",
+          "duration": 1923,
+          "url": "https://fast.wistia.com/embed/medias/qk8t8l1or7.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189c",
+          "title": "N Queens - Time Complexity",
+          "type": "video",
+          "duration": 129,
+          "url": "https://fast.wistia.com/embed/medias/ot6m2bvjan.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189d",
+          "title": "N Queens - count ways",
+          "type": "video",
+          "duration": 161,
+          "url": "https://fast.wistia.com/embed/medias/zix7jyb5i3.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189e",
+          "title": "N Queens - print one solution",
+          "type": "video",
+          "duration": 288,
+          "url": "https://fast.wistia.com/embed/medias/eojembh46o.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e189f",
+          "title": "Grid Ways",
+          "type": "video",
+          "duration": 498,
+          "url": "https://fast.wistia.com/embed/medias/wmbipl3tgr.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e18a0",
+          "title": "Grid Ways Code",
+          "type": "video",
+          "duration": 451,
+          "url": "https://fast.wistia.com/embed/medias/ozwtg9dnry.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e18a1",
+          "title": "Grid Ways Trick",
+          "type": "video",
+          "duration": 275,
+          "url": "https://fast.wistia.com/embed/medias/l20wm6or0r.m3u8"
+        },
+        {
+          "id": "68dbea2b4069da29a90e18a2",
+          "title": "Sudoku",
+          "type": "video",
+          "duration": 542,
+          "url": "https://fast.wistia.com/embed/medias/gxdzgpcci9.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18a3",
+          "title": "Sudoku Code",
+          "type": "video",
+          "duration": 1500,
+          "url": "https://fast.wistia.com/embed/medias/y7bcc9gnas.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_arraylists__68dbea2c08d32",
+      "title": "ArrayLists",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68dbea2c4069da29a90e18a6",
+          "title": "Introduction to ArrayList",
+          "type": "video",
+          "duration": 605,
+          "url": "https://fast.wistia.com/embed/medias/29w5plqwow.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18a7",
+          "title": "Operations on ArrayList",
+          "type": "video",
+          "duration": 484,
+          "url": "https://fast.wistia.com/embed/medias/lxc4hq9lqc.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18a8",
+          "title": "Size of ArrayList",
+          "type": "video",
+          "duration": 134,
+          "url": "https://fast.wistia.com/embed/medias/hiucehyz3u.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18a9",
+          "title": "Print Reverse",
+          "type": "video",
+          "duration": 114,
+          "url": "https://fast.wistia.com/embed/medias/21dg331zn1.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18aa",
+          "title": "Find Maximum",
+          "type": "video",
+          "duration": 197,
+          "url": "https://fast.wistia.com/embed/medias/yd8pzoijly.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ab",
+          "title": "Swap 2 Numbers",
+          "type": "video",
+          "duration": 221,
+          "url": "https://fast.wistia.com/embed/medias/l08p8lymoh.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ac",
+          "title": "Sorting an ArrayList",
+          "type": "video",
+          "duration": 397,
+          "url": "https://fast.wistia.com/embed/medias/5o8qgfhyct.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ad",
+          "title": "ArrayList (Implementation in Java)",
+          "type": "video",
+          "duration": 245,
+          "url": "https://fast.wistia.com/embed/medias/ol9l91bnua.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ae",
+          "title": "Multi-dimensional ArrayLists",
+          "type": "video",
+          "duration": 698,
+          "url": "https://fast.wistia.com/embed/medias/w974u7hv0r.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18af",
+          "title": "Container with Most Water (Brute Force)",
+          "type": "video",
+          "duration": 1112,
+          "url": "https://fast.wistia.com/embed/medias/2wx9gqnrbx.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b0",
+          "title": "Container with Most Water (2 Pointer Approach)",
+          "type": "video",
+          "duration": 1043,
+          "url": "https://fast.wistia.com/embed/medias/bgtzwdw2mr.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b1",
+          "title": "Container wMW v/s Trapping Rainwater",
+          "type": "video",
+          "duration": 124,
+          "url": "https://fast.wistia.com/embed/medias/s2xfmkozf0.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b2",
+          "title": "Pair Sum - 1 (Brute Force)",
+          "type": "video",
+          "duration": 244,
+          "url": "https://fast.wistia.com/embed/medias/ua0qoptt5d.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b3",
+          "title": "Pair Sum - 1 (2 Pointer Approach)",
+          "type": "video",
+          "duration": 609,
+          "url": "https://fast.wistia.com/embed/medias/jr43iqw1ik.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b4",
+          "title": "Pair Sum - 2 ",
+          "type": "video",
+          "duration": 907,
+          "url": "https://fast.wistia.com/embed/medias/7jn34usetx.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b5",
+          "title": "Pair Sum - 2 (Code)",
+          "type": "video",
+          "duration": 257,
+          "url": "https://fast.wistia.com/embed/medias/y20b27yo45.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_linked_lists__68dbea2c34a8e",
+      "title": "Linked Lists (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68dbea2c4069da29a90e18b8",
+          "title": "Introduction to Linked List",
+          "type": "video",
+          "duration": 567,
+          "url": "https://fast.wistia.com/embed/medias/rdncq9xts2.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18b9",
+          "title": "Head & Tail in LL",
+          "type": "video",
+          "duration": 327,
+          "url": "https://fast.wistia.com/embed/medias/awbfpf5d19.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ba",
+          "title": "Add First in LL",
+          "type": "video",
+          "duration": 625,
+          "url": "https://fast.wistia.com/embed/medias/350nsrcxsd.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18bb",
+          "title": "Add Last in LL",
+          "type": "video",
+          "duration": 377,
+          "url": "https://fast.wistia.com/embed/medias/t4yzk9l1mw.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18bc",
+          "title": "Print a LL",
+          "type": "video",
+          "duration": 481,
+          "url": "https://fast.wistia.com/embed/medias/k6r0ubr03g.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18bd",
+          "title": "Add in the Middle of LL",
+          "type": "video",
+          "duration": 570,
+          "url": "https://fast.wistia.com/embed/medias/rn53jfc53u.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18be",
+          "title": "Size of a LL",
+          "type": "video",
+          "duration": 188,
+          "url": "https://fast.wistia.com/embed/medias/afutueot89.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18bf",
+          "title": "Remove First in LL",
+          "type": "video",
+          "duration": 332,
+          "url": "https://fast.wistia.com/embed/medias/fsrrerxnr3.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c0",
+          "title": "Remove Last in LL",
+          "type": "video",
+          "duration": 340,
+          "url": "https://fast.wistia.com/embed/medias/bs3hdf4fb7.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c1",
+          "title": "Iterative Search",
+          "type": "video",
+          "duration": 328,
+          "url": "https://fast.wistia.com/embed/medias/7afdvnzbh0.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c2",
+          "title": "Recursive Search",
+          "type": "video",
+          "duration": 548,
+          "url": "https://fast.wistia.com/embed/medias/0gyp784sjk.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c3",
+          "title": "Reverse a Linked List",
+          "type": "video",
+          "duration": 612,
+          "url": "https://fast.wistia.com/embed/medias/qih6bq7e8b.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c4",
+          "title": "Find and Remove Nth Node from End",
+          "type": "video",
+          "duration": 677,
+          "url": "https://fast.wistia.com/embed/medias/h2jo4tmlwd.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c5",
+          "title": "Check if LL is Palindrome",
+          "type": "video",
+          "duration": 1092,
+          "url": "https://fast.wistia.com/embed/medias/c73f8vowol.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c6",
+          "title": "Check if LL is Palindrome (Code)",
+          "type": "video",
+          "duration": 501,
+          "url": "https://fast.wistia.com/embed/medias/u9zllv83re.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_linked_lists_part_2__68dbea2c58efb",
+      "title": "Linked Lists (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68dbea2c4069da29a90e18c7",
+          "title": "Detecting Cycle in LL",
+          "type": "video",
+          "duration": 714,
+          "url": "https://fast.wistia.com/embed/medias/rj84twx43t.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c8",
+          "title": "Detecting Cycle Code",
+          "type": "video",
+          "duration": 196,
+          "url": "https://fast.wistia.com/embed/medias/2dk5rbjvct.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18c9",
+          "title": "Removing Cycle in LL",
+          "type": "video",
+          "duration": 562,
+          "url": "https://fast.wistia.com/embed/medias/w5jv799prc.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ca",
+          "title": "Removing Cycle Code",
+          "type": "video",
+          "duration": 474,
+          "url": "https://fast.wistia.com/embed/medias/e58z5dupr9.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18cb",
+          "title": "Removing Cycle Explanation (Math)",
+          "type": "video",
+          "duration": 431,
+          "url": "https://fast.wistia.com/embed/medias/nlaljf2iz5.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18cc",
+          "title": "Java Collections Framework",
+          "type": "video",
+          "duration": 289,
+          "url": "https://fast.wistia.com/embed/medias/cmxf476rrl.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18cd",
+          "title": "LL in Collections Framework",
+          "type": "video",
+          "duration": 260,
+          "url": "https://fast.wistia.com/embed/medias/jui45sil6n.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18ce",
+          "title": "Merge Sort on LL",
+          "type": "video",
+          "duration": 1129,
+          "url": "https://fast.wistia.com/embed/medias/7b69wqv3fk.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18cf",
+          "title": "Merge Sort on LL (Code)",
+          "type": "video",
+          "duration": 519,
+          "url": "https://fast.wistia.com/embed/medias/vzwijyf93o.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18d0",
+          "title": "Zig Zag Linked List ",
+          "type": "video",
+          "duration": 879,
+          "url": "https://fast.wistia.com/embed/medias/ggxfifvjcg.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18d1",
+          "title": "Zig Zag LL Code",
+          "type": "video",
+          "duration": 288,
+          "url": "https://fast.wistia.com/embed/medias/tlfc2yfdhi.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18d2",
+          "title": "Doubly LL",
+          "type": "video",
+          "duration": 873,
+          "url": "https://fast.wistia.com/embed/medias/1xv6su8usl.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18d3",
+          "title": "Reverse a Doubly LL",
+          "type": "video",
+          "duration": 283,
+          "url": "https://fast.wistia.com/embed/medias/mtcmv9dlwo.m3u8"
+        },
+        {
+          "id": "68dbea2c4069da29a90e18d4",
+          "title": "Circular LL (Approach)",
+          "type": "video",
+          "duration": 285,
+          "url": "https://fast.wistia.com/embed/medias/nlbkmwrck7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_stacks__68e676a1ec21f",
+      "title": "Stacks (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68e676a19fa8ec33830227e5",
+          "title": "Stack Introduction",
+          "type": "video",
+          "duration": 523,
+          "url": "https://fast.wistia.com/embed/medias/yfq55v0y1v.m3u8"
+        },
+        {
+          "id": "68e676a19fa8ec33830227e6",
+          "title": "Stack using ArrayList",
+          "type": "video",
+          "duration": 393,
+          "url": "https://fast.wistia.com/embed/medias/zhtuacbv53.m3u8"
+        },
+        {
+          "id": "68e676a19fa8ec33830227e7",
+          "title": "Stack using Linked List",
+          "type": "video",
+          "duration": 460,
+          "url": "https://fast.wistia.com/embed/medias/f2lzy1969u.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227e8",
+          "title": "Stack using Collections Framework",
+          "type": "video",
+          "duration": 100,
+          "url": "https://fast.wistia.com/embed/medias/rw7md2qftf.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227e9",
+          "title": "Push at Bottom of Stack",
+          "type": "video",
+          "duration": 471,
+          "url": "https://fast.wistia.com/embed/medias/bfgoxt0aje.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227ea",
+          "title": "Reverse a String using a Stack",
+          "type": "video",
+          "duration": 336,
+          "url": "https://fast.wistia.com/embed/medias/jhf22m553j.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227eb",
+          "title": "Reverse a Stack",
+          "type": "video",
+          "duration": 573,
+          "url": "https://fast.wistia.com/embed/medias/1q0vfqdter.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227ec",
+          "title": "Stock Span Problem",
+          "type": "video",
+          "duration": 917,
+          "url": "https://fast.wistia.com/embed/medias/iboytzsnwn.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227ed",
+          "title": "Next greater element",
+          "type": "video",
+          "duration": 1350,
+          "url": "https://fast.wistia.com/embed/medias/lqgk2uqn28.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227ee",
+          "title": "Next greater element Code",
+          "type": "video",
+          "duration": 461,
+          "url": "https://fast.wistia.com/embed/medias/2uisc35qvh.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_stacks__68e676a215b9e",
+      "title": "Stacks (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68e676a29fa8ec33830227ef",
+          "title": "Valid Parentheses",
+          "type": "video",
+          "duration": 865,
+          "url": "https://fast.wistia.com/embed/medias/i9j2b8h5fj.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227f0",
+          "title": "Valid Parentheses Code",
+          "type": "video",
+          "duration": 346,
+          "url": "https://fast.wistia.com/embed/medias/qqta0g48n6.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227f1",
+          "title": "Duplicate Parentheses",
+          "type": "video",
+          "duration": 1041,
+          "url": "https://fast.wistia.com/embed/medias/16nvseojdu.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227f2",
+          "title": "Duplicate Parentheses Code",
+          "type": "video",
+          "duration": 279,
+          "url": "https://fast.wistia.com/embed/medias/qnhuvxxobq.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227f3",
+          "title": "Maximum Rectangular Area in Histogram",
+          "type": "video",
+          "duration": 1468,
+          "url": "https://fast.wistia.com/embed/medias/vs0hhvxbmx.m3u8"
+        },
+        {
+          "id": "68e676a29fa8ec33830227f4",
+          "title": "Max Rectangular Area in Histogram (Code)",
+          "type": "video",
+          "duration": 535,
+          "url": "https://fast.wistia.com/embed/medias/gldlgkah47.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_queues__68ed0b94dd793",
+      "title": "Queues",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b945610bdff850e8974",
+          "title": "Introduction to Queues",
+          "type": "video",
+          "duration": 325,
+          "url": "https://fast.wistia.com/embed/medias/26negthcpo.m3u8"
+        },
+        {
+          "id": "68ed0b945610bdff850e8975",
+          "title": "Queues using Arrays",
+          "type": "video",
+          "duration": 644,
+          "url": "https://fast.wistia.com/embed/medias/ib7hm0e9ol.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8976",
+          "title": "Circular Queue using Arrays",
+          "type": "video",
+          "duration": 680,
+          "url": "https://fast.wistia.com/embed/medias/ginh3t87yn.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8977",
+          "title": "Queue using LL",
+          "type": "video",
+          "duration": 464,
+          "url": "https://fast.wistia.com/embed/medias/a9ao7g5d2e.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8978",
+          "title": "Queue using JCF",
+          "type": "video",
+          "duration": 223,
+          "url": "https://fast.wistia.com/embed/medias/m56ba1257v.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8979",
+          "title": "Queue using Two Stacks",
+          "type": "video",
+          "duration": 547,
+          "url": "https://fast.wistia.com/embed/medias/cscta15b3c.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897a",
+          "title": "Stack using 2 Queues",
+          "type": "video",
+          "duration": 643,
+          "url": "https://fast.wistia.com/embed/medias/ppy6fpogfc.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897b",
+          "title": "First Non-Repeating Letter",
+          "type": "video",
+          "duration": 1272,
+          "url": "https://fast.wistia.com/embed/medias/bdmks4kyrm.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897c",
+          "title": "Interleave two halves of a Queue",
+          "type": "video",
+          "duration": 857,
+          "url": "https://fast.wistia.com/embed/medias/50t9kuzqxo.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897d",
+          "title": "Queue Reversal",
+          "type": "video",
+          "duration": 389,
+          "url": "https://fast.wistia.com/embed/medias/au32f8jfjf.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897e",
+          "title": "Deque (Double Ended Queue)",
+          "type": "video",
+          "duration": 423,
+          "url": "https://fast.wistia.com/embed/medias/qmz7c0ruxl.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e897f",
+          "title": "Deque in JCF",
+          "type": "video",
+          "duration": 84,
+          "url": "https://fast.wistia.com/embed/medias/uyu57xcmxv.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8980",
+          "title": "Implement Stack using Deque",
+          "type": "video",
+          "duration": 407,
+          "url": "https://fast.wistia.com/embed/medias/gdaxj84jlc.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8981",
+          "title": "Implement Queue using Deque",
+          "type": "video",
+          "duration": 330,
+          "url": "https://fast.wistia.com/embed/medias/g3lt0b6sy4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_greedy_algorithms__68ed0b952ba2f",
+      "title": "Greedy Algorithms",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e8984",
+          "title": "Introduction to Greedy",
+          "type": "video",
+          "duration": 632,
+          "url": "https://fast.wistia.com/embed/medias/pt0oxgntqv.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8985",
+          "title": "Activity Selection",
+          "type": "video",
+          "duration": 922,
+          "url": "https://fast.wistia.com/embed/medias/uw7fir1wk8.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8986",
+          "title": "Activity Selection Code",
+          "type": "video",
+          "duration": 799,
+          "url": "https://fast.wistia.com/embed/medias/41l3xrwoou.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8987",
+          "title": "Activity Selection Explanation",
+          "type": "video",
+          "duration": 296,
+          "url": "https://fast.wistia.com/embed/medias/t8dvbufhgs.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8988",
+          "title": "Fractional Knapsack",
+          "type": "video",
+          "duration": 809,
+          "url": "https://fast.wistia.com/embed/medias/l63jl1th44.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8989",
+          "title": "Fractional Knapsack Code",
+          "type": "video",
+          "duration": 351,
+          "url": "https://fast.wistia.com/embed/medias/i7g54c82kq.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898a",
+          "title": "Minimum Sum absolute difference pairs",
+          "type": "video",
+          "duration": 654,
+          "url": "https://fast.wistia.com/embed/medias/y6z7s9144n.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898b",
+          "title": "Maximum length chain of pairs",
+          "type": "video",
+          "duration": 719,
+          "url": "https://fast.wistia.com/embed/medias/mnxaqfzj7l.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898c",
+          "title": "Indian Coins",
+          "type": "video",
+          "duration": 817,
+          "url": "https://fast.wistia.com/embed/medias/v981fbjq5a.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898d",
+          "title": "Job Sequencing Problem",
+          "type": "video",
+          "duration": 1156,
+          "url": "https://fast.wistia.com/embed/medias/0sev4t0nz0.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898e",
+          "title": "Chocola Problem",
+          "type": "video",
+          "duration": 1541,
+          "url": "https://fast.wistia.com/embed/medias/3799t9qkpt.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e898f",
+          "title": "Chocola Problem Code",
+          "type": "video",
+          "duration": 406,
+          "url": "https://fast.wistia.com/embed/medias/181ly46n1m.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_binary_trees_part1__68ed0b9559aa0",
+      "title": "Binary Trees (Part1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e8993",
+          "title": "Introduction to Binary Trees",
+          "type": "video",
+          "duration": 256,
+          "url": "https://fast.wistia.com/embed/medias/dokhwt7rrk.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8994",
+          "title": "Levels & Sub-trees in a Tree",
+          "type": "video",
+          "duration": 149,
+          "url": "https://fast.wistia.com/embed/medias/vzthmlfo5z.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8995",
+          "title": "Pop Quiz",
+          "type": "video",
+          "duration": 118,
+          "url": "https://fast.wistia.com/embed/medias/3hl53l4c8o.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8996",
+          "title": "Build Tree Preorder",
+          "type": "video",
+          "duration": 166,
+          "url": "https://fast.wistia.com/embed/medias/qb2jhhoeo3.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8997",
+          "title": "Build Tree Preorder Code",
+          "type": "video",
+          "duration": 285,
+          "url": "https://fast.wistia.com/embed/medias/yfvhgpq12h.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8998",
+          "title": "Preorder Traversal",
+          "type": "video",
+          "duration": 321,
+          "url": "https://fast.wistia.com/embed/medias/h8urmyqvbm.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e8999",
+          "title": "Inorder Traversal",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/ld6qc9exh4.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e899a",
+          "title": "Postorder Traversal",
+          "type": "video",
+          "duration": 277,
+          "url": "https://fast.wistia.com/embed/medias/srvbd79jrz.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e899b",
+          "title": "Level order Traversal",
+          "type": "video",
+          "duration": 596,
+          "url": "https://fast.wistia.com/embed/medias/nf9x1oaelx.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e899c",
+          "title": "Height of a Tree",
+          "type": "video",
+          "duration": 748,
+          "url": "https://fast.wistia.com/embed/medias/lnvpc2gkwg.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e899d",
+          "title": "Count of Nodes of a Tree",
+          "type": "video",
+          "duration": 382,
+          "url": "https://fast.wistia.com/embed/medias/ap1p0gq2us.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e899e",
+          "title": "Sum of Nodes",
+          "type": "video",
+          "duration": 321,
+          "url": "https://fast.wistia.com/embed/medias/dul55usmxw.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_binary_trees_part2__68ed0b957a957",
+      "title": "Binary Trees (Part2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e899f",
+          "title": "Diameter of a Tree (Approach1)",
+          "type": "video",
+          "duration": 1199,
+          "url": "https://fast.wistia.com/embed/medias/fzla6k0wrd.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a0",
+          "title": "Diameter of a Tree (Approach2)",
+          "type": "video",
+          "duration": 574,
+          "url": "https://fast.wistia.com/embed/medias/m3rllefwqo.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a1",
+          "title": "Subtree of another tree",
+          "type": "video",
+          "duration": 762,
+          "url": "https://fast.wistia.com/embed/medias/xzb9w1sfed.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a2",
+          "title": "Subtree of another tree Code",
+          "type": "video",
+          "duration": 554,
+          "url": "https://fast.wistia.com/embed/medias/vcyutq7pc2.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a3",
+          "title": "Top View of a Tree (Basics)",
+          "type": "video",
+          "duration": 1163,
+          "url": "https://fast.wistia.com/embed/medias/5eyo39jqjs.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a4",
+          "title": "Top View of a Tree (Approach)",
+          "type": "video",
+          "duration": 546,
+          "url": "https://fast.wistia.com/embed/medias/lxiz2ezjjl.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a5",
+          "title": "Top View of a Tree (Code)",
+          "type": "video",
+          "duration": 773,
+          "url": "https://fast.wistia.com/embed/medias/eze7f9nyz1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_binary_trees__68ed0b958e55f",
+      "title": "Binary Trees (Part3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e89a6",
+          "title": "Kth Level",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/0w5jsc0pph.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a7",
+          "title": "Lowest Common Ancestor (Approach1)",
+          "type": "video",
+          "duration": 1151,
+          "url": "https://fast.wistia.com/embed/medias/hztsctfgh2.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a8",
+          "title": "Lowest Common Ancestor (Approach2)",
+          "type": "video",
+          "duration": 713,
+          "url": "https://fast.wistia.com/embed/medias/9pwa3he6qj.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89a9",
+          "title": "Minimum Distance between 2 Nodes",
+          "type": "video",
+          "duration": 730,
+          "url": "https://fast.wistia.com/embed/medias/qpma0zs8pv.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89aa",
+          "title": "Kth ancestor of Node",
+          "type": "video",
+          "duration": 548,
+          "url": "https://fast.wistia.com/embed/medias/rrk8lggjgz.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89ab",
+          "title": "Transform to Sum Tree",
+          "type": "video",
+          "duration": 784,
+          "url": "https://fast.wistia.com/embed/medias/i8hlwy17s7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_binary_search_trees__68ed0b95a67cf",
+      "title": "Binary Search Trees(Part1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e89ae",
+          "title": "Introduction",
+          "type": "video",
+          "duration": 450,
+          "url": "https://fast.wistia.com/embed/medias/idwy0ia9ok.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89af",
+          "title": "Concept of Search in BST",
+          "type": "video",
+          "duration": 399,
+          "url": "https://fast.wistia.com/embed/medias/zx81fa7aoi.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b0",
+          "title": "Build a BST",
+          "type": "video",
+          "duration": 568,
+          "url": "https://fast.wistia.com/embed/medias/clzknh56jr.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b1",
+          "title": "Search in a BST",
+          "type": "video",
+          "duration": 423,
+          "url": "https://fast.wistia.com/embed/medias/9g6pkw0z3g.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b2",
+          "title": "Delete a Node",
+          "type": "video",
+          "duration": 1000,
+          "url": "https://fast.wistia.com/embed/medias/atu5d9msu6.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b3",
+          "title": "Print in Range",
+          "type": "video",
+          "duration": 276,
+          "url": "https://fast.wistia.com/embed/medias/67kwn7eb69.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b4",
+          "title": "Root to Leaf Path",
+          "type": "video",
+          "duration": 558,
+          "url": "https://fast.wistia.com/embed/medias/rfzhskrzc7.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b5",
+          "title": "Validate BST",
+          "type": "video",
+          "duration": 876,
+          "url": "https://fast.wistia.com/embed/medias/0q6qaa8hez.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89b6",
+          "title": "Mirror a BST",
+          "type": "video",
+          "duration": 958,
+          "url": "https://fast.wistia.com/embed/medias/zmt95f1qqm.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_binary_search_trees_part2__68ed0b95e0fa2",
+      "title": "Binary Search Trees (Part2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "68ed0b955610bdff850e89c1",
+          "title": "Sorted Array to Balanced BST",
+          "type": "video",
+          "duration": 951,
+          "url": "https://fast.wistia.com/embed/medias/pkb9t78ttj.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89c2",
+          "title": "Convert BST to Balanced BST",
+          "type": "video",
+          "duration": 676,
+          "url": "https://fast.wistia.com/embed/medias/lirapcun3q.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89c3",
+          "title": "Size of Largest BST in BT",
+          "type": "video",
+          "duration": 972,
+          "url": "https://fast.wistia.com/embed/medias/6eoyewks8z.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89c4",
+          "title": "Size of Largest BST in BT (Code)",
+          "type": "video",
+          "duration": 574,
+          "url": "https://fast.wistia.com/embed/medias/6yrgwflxjp.m3u8"
+        },
+        {
+          "id": "68ed0b955610bdff850e89c5",
+          "title": "AVL Trees",
+          "type": "video",
+          "duration": 3229,
+          "url": "https://fast.wistia.com/embed/medias/iq3wah85lt.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_heaps__690378bf61f8a",
+      "title": "Heaps",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378bf3defb5abac061a44",
+          "title": "Introduction to Priority Queues",
+          "type": "video",
+          "duration": 348,
+          "url": "https://fast.wistia.com/embed/medias/hvokiq7ddp.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a45",
+          "title": "PQ in JCF",
+          "type": "video",
+          "duration": 395,
+          "url": "https://fast.wistia.com/embed/medias/jam6w88enm.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a46",
+          "title": "PQ for Objects",
+          "type": "video",
+          "duration": 656,
+          "url": "https://fast.wistia.com/embed/medias/cetdd6hh54.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a47",
+          "title": "Introduction to Heaps",
+          "type": "video",
+          "duration": 512,
+          "url": "https://fast.wistia.com/embed/medias/lghbi73o5x.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a48",
+          "title": "Heap Implementation (using CBT)",
+          "type": "video",
+          "duration": 572,
+          "url": "https://fast.wistia.com/embed/medias/fk9ywycw12.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a49",
+          "title": "Insert in Heap",
+          "type": "video",
+          "duration": 647,
+          "url": "https://fast.wistia.com/embed/medias/y51ek315th.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4a",
+          "title": "Peek from Heap",
+          "type": "video",
+          "duration": 83,
+          "url": "https://fast.wistia.com/embed/medias/shbas8dz1b.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4b",
+          "title": "Remove from Heap",
+          "type": "video",
+          "duration": 1271,
+          "url": "https://fast.wistia.com/embed/medias/vvfv4a20y6.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4c",
+          "title": "Heap Sort",
+          "type": "video",
+          "duration": 1257,
+          "url": "https://fast.wistia.com/embed/medias/4ed5sijikm.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4d",
+          "title": "Nearby Cars",
+          "type": "video",
+          "duration": 676,
+          "url": "https://fast.wistia.com/embed/medias/jemloczxb0.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4e",
+          "title": "Connect N Ropes with Minimum Cost",
+          "type": "video",
+          "duration": 721,
+          "url": "https://fast.wistia.com/embed/medias/dhrgqjj6me.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a4f",
+          "title": "Weakest Soldier",
+          "type": "video",
+          "duration": 685,
+          "url": "https://fast.wistia.com/embed/medias/436yyhexzk.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a50",
+          "title": "Sliding Window Maximum",
+          "type": "video",
+          "duration": 1498,
+          "url": "https://fast.wistia.com/embed/medias/7qlg6wkthm.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_hashing__690378bfa106d",
+      "title": "Hashing",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378bf3defb5abac061a53",
+          "title": "Hashing Introduction",
+          "type": "video",
+          "duration": 158,
+          "url": "https://fast.wistia.com/embed/medias/km934vqthc.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a54",
+          "title": "HashMap",
+          "type": "video",
+          "duration": 328,
+          "url": "https://fast.wistia.com/embed/medias/5eyft8f2tl.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a55",
+          "title": "HashMap Operations",
+          "type": "video",
+          "duration": 770,
+          "url": "https://fast.wistia.com/embed/medias/wrcow5booe.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a56",
+          "title": "Iteration on HashMaps",
+          "type": "video",
+          "duration": 353,
+          "url": "https://fast.wistia.com/embed/medias/idjhfi4ie5.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a57",
+          "title": "HashMap Implementation",
+          "type": "video",
+          "duration": 1419,
+          "url": "https://fast.wistia.com/embed/medias/sqb43cpeiz.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a59",
+          "title": "HashMap Implementation Code",
+          "type": "video",
+          "duration": 2040,
+          "url": "https://fast.wistia.com/embed/medias/jxr3e9ysfq.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a5a",
+          "title": "Special Note",
+          "type": "video",
+          "duration": 106,
+          "url": "https://fast.wistia.com/embed/medias/3kmr4rq3s5.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a5b",
+          "title": "LinkedHashMap",
+          "type": "video",
+          "duration": 324,
+          "url": "https://fast.wistia.com/embed/medias/xfka6asz9g.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a5c",
+          "title": "TreeMap",
+          "type": "video",
+          "duration": 252,
+          "url": "https://fast.wistia.com/embed/medias/7313gp3rpg.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a5e",
+          "title": "Majority Element",
+          "type": "video",
+          "duration": 851,
+          "url": "https://fast.wistia.com/embed/medias/4dyk0kovam.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a5f",
+          "title": "Valid Anagram",
+          "type": "video",
+          "duration": 791,
+          "url": "https://fast.wistia.com/embed/medias/ibhwj9j9q7.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a60",
+          "title": "HashSet",
+          "type": "video",
+          "duration": 507,
+          "url": "https://fast.wistia.com/embed/medias/agzavr2t3k.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a61",
+          "title": "Iteration on HashSets",
+          "type": "video",
+          "duration": 503,
+          "url": "https://fast.wistia.com/embed/medias/k2n7fwfy1u.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a62",
+          "title": "LinkedHashSet",
+          "type": "video",
+          "duration": 229,
+          "url": "https://fast.wistia.com/embed/medias/rhwdpxg0pp.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a63",
+          "title": "TreeSet",
+          "type": "video",
+          "duration": 244,
+          "url": "https://fast.wistia.com/embed/medias/btzyl7r3q7.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a64",
+          "title": "Count Distinct Elements",
+          "type": "video",
+          "duration": 320,
+          "url": "https://fast.wistia.com/embed/medias/c3u4qg9cc5.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a65",
+          "title": "Union & Intersection",
+          "type": "video",
+          "duration": 712,
+          "url": "https://fast.wistia.com/embed/medias/v1afv1b9te.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a66",
+          "title": "Find Itinerary for Tickets",
+          "type": "video",
+          "duration": 912,
+          "url": "https://fast.wistia.com/embed/medias/s0oqgtjahq.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a67",
+          "title": "Largest Subarray with Sum 0",
+          "type": "video",
+          "duration": 1040,
+          "url": "https://fast.wistia.com/embed/medias/e8xn3u3oc4.m3u8"
+        },
+        {
+          "id": "690378bf3defb5abac061a68",
+          "title": "Subarray Sum Equal to K",
+          "type": "video",
+          "duration": 1027,
+          "url": "https://fast.wistia.com/embed/medias/6razm3v932.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_tries__690378c0084de",
+      "title": "Tries ",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a6b",
+          "title": "Tries Introduction",
+          "type": "video",
+          "duration": 177,
+          "url": "https://fast.wistia.com/embed/medias/aaj7y6swji.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a6c",
+          "title": "What is a Trie?",
+          "type": "video",
+          "duration": 328,
+          "url": "https://fast.wistia.com/embed/medias/8qvrfmbkrg.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a6d",
+          "title": "Creating a Trie",
+          "type": "video",
+          "duration": 494,
+          "url": "https://fast.wistia.com/embed/medias/3179w4y2oy.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a6e",
+          "title": "Insertion",
+          "type": "video",
+          "duration": 704,
+          "url": "https://fast.wistia.com/embed/medias/jg5guvwu7o.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a6f",
+          "title": "Searching",
+          "type": "video",
+          "duration": 371,
+          "url": "https://fast.wistia.com/embed/medias/bk5hk11rhc.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a70",
+          "title": "Word Break Problem",
+          "type": "video",
+          "duration": 879,
+          "url": "https://fast.wistia.com/embed/medias/qsnbn7enjz.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a71",
+          "title": "Prefix Problem",
+          "type": "video",
+          "duration": 1368,
+          "url": "https://fast.wistia.com/embed/medias/3yr5e9yypv.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a72",
+          "title": "startsWith Problem",
+          "type": "video",
+          "duration": 782,
+          "url": "https://fast.wistia.com/embed/medias/h39ftl5vma.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a73",
+          "title": "Unique Substrings",
+          "type": "video",
+          "duration": 1634,
+          "url": "https://fast.wistia.com/embed/medias/2l8f7w22ro.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a74",
+          "title": "Longest Word with all Prefixes",
+          "type": "video",
+          "duration": 1641,
+          "url": "https://fast.wistia.com/embed/medias/7304xbvm6i.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graphs_part1__690378c033a08",
+      "title": "Graphs (Part1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a77",
+          "title": "Introduction to Graphs",
+          "type": "video",
+          "duration": 251,
+          "url": "https://fast.wistia.com/embed/medias/0w5bxp70k0.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a78",
+          "title": "Types of Graphs (Based on Edge)",
+          "type": "video",
+          "duration": 274,
+          "url": "https://fast.wistia.com/embed/medias/27tfk99io1.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a79",
+          "title": "Graph Representations",
+          "type": "video",
+          "duration": 1421,
+          "url": "https://fast.wistia.com/embed/medias/ugu9a4b66z.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a7a",
+          "title": "Graph Applications",
+          "type": "video",
+          "duration": 687,
+          "url": "https://fast.wistia.com/embed/medias/9d9jf067nf.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a7b",
+          "title": "Creating a Graph (Adjacency List)",
+          "type": "video",
+          "duration": 837,
+          "url": "https://fast.wistia.com/embed/medias/3rokddt4mj.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a7c",
+          "title": "BFS (Breadth First Search)",
+          "type": "video",
+          "duration": 1257,
+          "url": "https://fast.wistia.com/embed/medias/2e3xcj3kp9.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a7d",
+          "title": "DFS (Depth First Search)",
+          "type": "video",
+          "duration": 769,
+          "url": "https://fast.wistia.com/embed/medias/8fn26j2b3a.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a7e",
+          "title": "Has Path? (using DFS)",
+          "type": "video",
+          "duration": 796,
+          "url": "https://fast.wistia.com/embed/medias/f0aocbg7ks.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graphs_part2__690378c04cf3c",
+      "title": "Graphs (Part2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a7f",
+          "title": "Connected Components",
+          "type": "video",
+          "duration": 635,
+          "url": "https://fast.wistia.com/embed/medias/t1xajlukye.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a80",
+          "title": "Cycle in Graphs",
+          "type": "video",
+          "duration": 148,
+          "url": "https://fast.wistia.com/embed/medias/l4msap2nzk.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a81",
+          "title": "Cycle Detection (Undirected Graph) - DFS",
+          "type": "video",
+          "duration": 1427,
+          "url": "https://fast.wistia.com/embed/medias/pesiopsvzp.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a82",
+          "title": "Bipartite Graph",
+          "type": "video",
+          "duration": 1756,
+          "url": "https://fast.wistia.com/embed/medias/50qwglnm1o.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a83",
+          "title": "Cycle Detection (Directed graph) - DFS",
+          "type": "video",
+          "duration": 1540,
+          "url": "https://fast.wistia.com/embed/medias/llmy4v5p2u.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a84",
+          "title": "Extra Read",
+          "type": "video",
+          "duration": 48,
+          "url": "https://fast.wistia.com/embed/medias/mjqsmv8ayw.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a85",
+          "title": "Topological Sorting (using DFS)",
+          "type": "video",
+          "duration": 1162,
+          "url": "https://fast.wistia.com/embed/medias/94r4x7yfuq.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graphs_part3__690378c06142e",
+      "title": "Graphs (Part3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a86",
+          "title": "Topological Sort using BFS (Kahn's Algorithm)",
+          "type": "video",
+          "duration": 919,
+          "url": "https://fast.wistia.com/embed/medias/oapos514me.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a87",
+          "title": "Topological Sort using BFS (Code)",
+          "type": "video",
+          "duration": 378,
+          "url": "https://fast.wistia.com/embed/medias/a8elae1xoa.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a88",
+          "title": "All Paths from Source to Target",
+          "type": "video",
+          "duration": 578,
+          "url": "https://fast.wistia.com/embed/medias/0i17sos4e3.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a89",
+          "title": "Dijkstra's Algorithm",
+          "type": "video",
+          "duration": 1056,
+          "url": "https://fast.wistia.com/embed/medias/v15vpx66ry.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a8a",
+          "title": "Dijkstra's Algorithm (Code)",
+          "type": "video",
+          "duration": 630,
+          "url": "https://fast.wistia.com/embed/medias/fb012xro1i.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graphs_part4__690378c076e4d",
+      "title": "Graphs (Part4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a8d",
+          "title": "Bellman Ford Algorithm",
+          "type": "video",
+          "duration": 1150,
+          "url": "https://fast.wistia.com/embed/medias/be2awt0nr8.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a8e",
+          "title": "Bellman Ford (Code)",
+          "type": "video",
+          "duration": 705,
+          "url": "https://fast.wistia.com/embed/medias/y2jn3tzpdm.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a8f",
+          "title": "What is MST?",
+          "type": "video",
+          "duration": 345,
+          "url": "https://fast.wistia.com/embed/medias/5e4psvxgjh.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a90",
+          "title": "Prim's Algorithm",
+          "type": "video",
+          "duration": 770,
+          "url": "https://fast.wistia.com/embed/medias/gfkj1l7n98.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a91",
+          "title": "Prim's Code",
+          "type": "video",
+          "duration": 448,
+          "url": "https://fast.wistia.com/embed/medias/smdqlhxlc0.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graph_part5__690378c08933e",
+      "title": "Graph (Part5)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "690378c03defb5abac061a92",
+          "title": "Cheapest Flights within K Stops",
+          "type": "video",
+          "duration": 1682,
+          "url": "https://fast.wistia.com/embed/medias/qq9qjedwrh.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a93",
+          "title": "Cheapest Flights within K Stops (Code)",
+          "type": "video",
+          "duration": 1084,
+          "url": "https://fast.wistia.com/embed/medias/wbzp2thlcf.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a94",
+          "title": "Connecting Cities",
+          "type": "video",
+          "duration": 614,
+          "url": "https://fast.wistia.com/embed/medias/3whf8xx7rj.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a95",
+          "title": "Connecting Cities (Code)",
+          "type": "video",
+          "duration": 374,
+          "url": "https://fast.wistia.com/embed/medias/w185ag94gw.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a96",
+          "title": "Disjoint Set Union",
+          "type": "video",
+          "duration": 1795,
+          "url": "https://fast.wistia.com/embed/medias/af4qltyjhs.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a97",
+          "title": "Kruskal's Algorithm",
+          "type": "video",
+          "duration": 790,
+          "url": "https://fast.wistia.com/embed/medias/82hq6izy7k.m3u8"
+        },
+        {
+          "id": "690378c03defb5abac061a98",
+          "title": "Flood Fill Algorithm",
+          "type": "video",
+          "duration": 745,
+          "url": "https://fast.wistia.com/embed/medias/dr1wngvmy9.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_graphs__69189cf4159c7",
+      "title": "Graphs - Supplemental",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d614",
+          "title": "Strongly Connected Components (Kosaraju's Algorithm)",
+          "type": "video",
+          "duration": 1651,
+          "url": "https://fast.wistia.com/embed/medias/r5bfstyapc.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d615",
+          "title": "Bridge in Graph (Tarjan's Algorithm)",
+          "type": "video",
+          "duration": 2591,
+          "url": "https://fast.wistia.com/embed/medias/ifuzhed48f.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d616",
+          "title": "Articulation Point (Tarjan's Algorithm)",
+          "type": "video",
+          "duration": 3218,
+          "url": "https://fast.wistia.com/embed/medias/6kvobhb3un.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part1__69189cf432859",
+      "title": "DP (Part1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d617",
+          "title": "Introduction to DP",
+          "type": "video",
+          "duration": 1152,
+          "url": "https://fast.wistia.com/embed/medias/xpt75q48sv.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d618",
+          "title": "What is DP? (Definition)",
+          "type": "video",
+          "duration": 487,
+          "url": "https://fast.wistia.com/embed/medias/1tl5iylg1e.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d619",
+          "title": "Ways of DP",
+          "type": "video",
+          "duration": 923,
+          "url": "https://fast.wistia.com/embed/medias/n1ulxrxe55.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d61a",
+          "title": "7 Important Concepts",
+          "type": "video",
+          "duration": 308,
+          "url": "https://fast.wistia.com/embed/medias/tcn9k6ajl5.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d61b",
+          "title": "Climbing Stairs (Recursion)",
+          "type": "video",
+          "duration": 1255,
+          "url": "https://fast.wistia.com/embed/medias/tjuwnu78d5.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d61c",
+          "title": "Climbing Stairs (Memoization DP)",
+          "type": "video",
+          "duration": 522,
+          "url": "https://fast.wistia.com/embed/medias/bvz11nwwmf.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d61d",
+          "title": "Climbing Stairs Variation",
+          "type": "video",
+          "duration": 336,
+          "url": "https://fast.wistia.com/embed/medias/xn0zelhi3h.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d61e",
+          "title": "Climbing Stairs (Tabulation DP)",
+          "type": "video",
+          "duration": 900,
+          "url": "https://fast.wistia.com/embed/medias/6lm0xf0jih.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part2__69189cf4493a9",
+      "title": "DP (Part2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d61f",
+          "title": "Types of Knapsack problems",
+          "type": "video",
+          "duration": 674,
+          "url": "https://fast.wistia.com/embed/medias/kdsd9a6tpc.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d620",
+          "title": "0-1 Knapsack (Recursion)",
+          "type": "video",
+          "duration": 1885,
+          "url": "https://fast.wistia.com/embed/medias/og5yj1lezj.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d621",
+          "title": "0-1 Knapsack (Memoization)",
+          "type": "video",
+          "duration": 693,
+          "url": "https://fast.wistia.com/embed/medias/jfec0ppp22.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d622",
+          "title": "0-1 Knapsack (Tabulation)",
+          "type": "video",
+          "duration": 1782,
+          "url": "https://fast.wistia.com/embed/medias/s7r55tbjak.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d623",
+          "title": "Target Sum Subset (Tabulation)",
+          "type": "video",
+          "duration": 1803,
+          "url": "https://fast.wistia.com/embed/medias/85qjbrana3.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d624",
+          "title": "Target Sum Subset (Code)",
+          "type": "video",
+          "duration": 599,
+          "url": "https://fast.wistia.com/embed/medias/u5y71epzud.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d625",
+          "title": "Unbounded Knapsack (Tabulation)",
+          "type": "video",
+          "duration": 1642,
+          "url": "https://fast.wistia.com/embed/medias/1dqdf1syzr.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part3__69189cf45e90e",
+      "title": "DP (Part3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d626",
+          "title": "Coin Change (Live Class)",
+          "type": "video",
+          "duration": 6466,
+          "url": "https://fast.wistia.com/embed/medias/jd4dfqq4yy.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d627",
+          "title": "Rod Cutting",
+          "type": "video",
+          "duration": 1640,
+          "url": "https://fast.wistia.com/embed/medias/knio8e51da.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d628",
+          "title": "Longest Common Subsequence (Recursion)",
+          "type": "video",
+          "duration": 1654,
+          "url": "https://fast.wistia.com/embed/medias/kagrflifws.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d629",
+          "title": "LCS (Memoization)",
+          "type": "video",
+          "duration": 746,
+          "url": "https://fast.wistia.com/embed/medias/apicp69489.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d62a",
+          "title": "LCS (Tabulation)",
+          "type": "video",
+          "duration": 1526,
+          "url": "https://fast.wistia.com/embed/medias/c5l744k7sh.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part4__69189cf470609",
+      "title": "DP (Part4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d62b",
+          "title": "Longest Common Substring",
+          "type": "video",
+          "duration": 1645,
+          "url": "https://fast.wistia.com/embed/medias/vd6tb862hi.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d62c",
+          "title": "Longest Increasing Subsequence",
+          "type": "video",
+          "duration": 1213,
+          "url": "https://fast.wistia.com/embed/medias/4m05o5rswb.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d62d",
+          "title": "Edit Distance (Explanation)",
+          "type": "video",
+          "duration": 1649,
+          "url": "https://fast.wistia.com/embed/medias/3i2pjgcfhj.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d62e",
+          "title": "Edit Distance (Code)",
+          "type": "video",
+          "duration": 654,
+          "url": "https://fast.wistia.com/embed/medias/ql2ljpufb9.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d62f",
+          "title": "String Conversion",
+          "type": "video",
+          "duration": 362,
+          "url": "https://fast.wistia.com/embed/medias/yc3utslssq.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part5__69189cf480d7a",
+      "title": "DP (Part5)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d630",
+          "title": "Wildcard Matching - Hard (Explanation)",
+          "type": "video",
+          "duration": 2200,
+          "url": "https://fast.wistia.com/embed/medias/awo0j1eky7.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d631",
+          "title": "Wildcard Matching (Code)",
+          "type": "video",
+          "duration": 616,
+          "url": "https://fast.wistia.com/embed/medias/b1z8pvbx8k.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d632",
+          "title": "Catalan's Number (Recursion + Memoization)",
+          "type": "video",
+          "duration": 1411,
+          "url": "https://fast.wistia.com/embed/medias/oi6qgi5t9g.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d633",
+          "title": "Catalan's Number (Tabulation)",
+          "type": "video",
+          "duration": 721,
+          "url": "https://fast.wistia.com/embed/medias/kyzl4cipo5.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d634",
+          "title": "Count BSTs",
+          "type": "video",
+          "duration": 1256,
+          "url": "https://fast.wistia.com/embed/medias/3vaaecrgds.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d635",
+          "title": "Mountain Ranges",
+          "type": "video",
+          "duration": 1293,
+          "url": "https://fast.wistia.com/embed/medias/qylroeauyq.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "place_dp_part6__69189cf4936ea",
+      "title": "DP (Part6)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf4809724fcb602d636",
+          "title": "Basics of Matrices (Math)",
+          "type": "video",
+          "duration": 442,
+          "url": "https://fast.wistia.com/embed/medias/uqtpolcqc4.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d637",
+          "title": "Matrix Chain Multiplication (Recursion)",
+          "type": "video",
+          "duration": 2570,
+          "url": "https://fast.wistia.com/embed/medias/ubc04b1zwh.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d638",
+          "title": "MCM (Memoization)",
+          "type": "video",
+          "duration": 1152,
+          "url": "https://fast.wistia.com/embed/medias/67wy651a4h.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d639",
+          "title": "MCM (Tabulation)",
+          "type": "video",
+          "duration": 2149,
+          "url": "https://fast.wistia.com/embed/medias/2x0o6w5rsk.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d63a",
+          "title": "Minimum Partitioning",
+          "type": "video",
+          "duration": 1812,
+          "url": "https://fast.wistia.com/embed/medias/cvby9tifk5.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d63b",
+          "title": "Minimum Array Jumps (Explanation)",
+          "type": "video",
+          "duration": 1223,
+          "url": "https://fast.wistia.com/embed/medias/xmourfhmd9.m3u8"
+        },
+        {
+          "id": "69189cf4809724fcb602d63c",
+          "title": "Minimum Array Jumps (Code)",
+          "type": "video",
+          "duration": 384,
+          "url": "https://fast.wistia.com/embed/medias/rifbeoqc3q.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "java-_segment_trees__69189cf5469ef",
+      "title": "Segment Trees",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69189cf5809724fcb602d641",
+          "title": "Segment Trees Introduction",
+          "type": "video",
+          "duration": 911,
+          "url": "https://fast.wistia.com/embed/medias/7n7qztg1bz.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d642",
+          "title": "Count & Meaning of Nodes",
+          "type": "video",
+          "duration": 1010,
+          "url": "https://fast.wistia.com/embed/medias/djna0m4lpo.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d643",
+          "title": "Creation of ST",
+          "type": "video",
+          "duration": 1065,
+          "url": "https://fast.wistia.com/embed/medias/uuuu8jsx9x.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d644",
+          "title": "Queries on ST",
+          "type": "video",
+          "duration": 1701,
+          "url": "https://fast.wistia.com/embed/medias/oj85oureth.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d645",
+          "title": "Update on ST",
+          "type": "video",
+          "duration": 1161,
+          "url": "https://fast.wistia.com/embed/medias/pl6qva4v7m.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d646",
+          "title": "Max/Min Segment Tree (Creation)",
+          "type": "video",
+          "duration": 958,
+          "url": "https://fast.wistia.com/embed/medias/2ivroeebje.m3u8"
+        },
+        {
+          "id": "69189cf5809724fcb602d647",
+          "title": "Max/Min Segment Tree (Query/Update)",
+          "type": "video",
+          "duration": 1476,
+          "url": "https://fast.wistia.com/embed/medias/k6ou7mpesi.m3u8"
+        }
+      ]
+    }
+  ]
+}

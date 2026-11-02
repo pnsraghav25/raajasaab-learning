@@ -1,0 +1,378 @@
+{
+    "id": "aptitude-qs-library",
+    "title": "Aptitude Preparation (English)",
+    "description": "This course contains Aptitude Preparation in English Language.",
+    "sections": [
+        {
+            "id": "aptit_mentorship_sessions",
+            "title": "Mentorship Sessions",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66bf310fa424f71fbc059477",
+                    "title": "Aptitude Preparation Live session by Aman sir",
+                    "type": "video",
+                    "duration": 3461,
+                    "url": "https://fast.wistia.com/embed/medias/a94t2ivslh.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "aptit_quantitative_aptitude",
+            "title": "Quantitative Aptitude (Teacher 1)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66979e8944e35db8730d8a65",
+                    "title": "Percentages",
+                    "type": "video",
+                    "duration": 3593,
+                    "url": "https://fast.wistia.com/embed/medias/vygc7pjjx6.m3u8"
+                },
+                {
+                    "id": "66bcbf2d132c1f10c0022625",
+                    "title": "Simplification",
+                    "type": "video",
+                    "duration": 3130,
+                    "url": "https://fast.wistia.com/embed/medias/d5t0d0xrw2.m3u8"
+                },
+                {
+                    "id": "6697a0999725739dd702e806",
+                    "title": "Ratio and Proportion",
+                    "type": "video",
+                    "duration": 3729,
+                    "url": "https://fast.wistia.com/embed/medias/is3i30iaxv.m3u8"
+                },
+                {
+                    "id": "6697a90e5ba68ca75c014546",
+                    "title": "Profit and Loss",
+                    "type": "video",
+                    "duration": 4142,
+                    "url": "https://fast.wistia.com/embed/medias/e5skzdfamz.m3u8"
+                },
+                {
+                    "id": "6697a93077d4037ca80f1a55",
+                    "title": "Partnership",
+                    "type": "video",
+                    "duration": 2634,
+                    "url": "https://fast.wistia.com/embed/medias/vqx67up2ni.m3u8"
+                },
+                {
+                    "id": "6697a9454c2c9fa9af0311d5",
+                    "title": "Simple Interest and Compound Interest",
+                    "type": "video",
+                    "duration": 5937,
+                    "url": "https://fast.wistia.com/embed/medias/w02yf4o5j4.m3u8"
+                },
+                {
+                    "id": "6697a9591427b52042028325",
+                    "title": "Averages",
+                    "type": "video",
+                    "duration": 3528,
+                    "url": "https://fast.wistia.com/embed/medias/2ybggowvjg.m3u8"
+                },
+                {
+                    "id": "6697a969293ef0a1f60c8c29",
+                    "title": "Mixture and Alligation",
+                    "type": "video",
+                    "duration": 2667,
+                    "url": "https://fast.wistia.com/embed/medias/mznhjowkhv.m3u8"
+                },
+                {
+                    "id": "6697a9a8e5f13bff840f5848",
+                    "title": "Time and Work",
+                    "type": "video",
+                    "duration": 3648,
+                    "url": "https://fast.wistia.com/embed/medias/lxywpq1zk0.m3u8"
+                },
+                {
+                    "id": "6697a9d16066a44c1600fa65",
+                    "title": "Trains, Boats and Streams",
+                    "type": "video",
+                    "duration": 3521,
+                    "url": "https://fast.wistia.com/embed/medias/69uxhw91me.m3u8"
+                },
+                {
+                    "id": "6697a9f4a5384b5f4508d8e5",
+                    "title": "Time, Speed and Distance",
+                    "type": "video",
+                    "duration": 4034,
+                    "url": "https://fast.wistia.com/embed/medias/ibc8uiqnjb.m3u8"
+                },
+                {
+                    "id": "6697aa190068438216088785",
+                    "title": "Ages",
+                    "type": "video",
+                    "duration": 2278,
+                    "url": "https://fast.wistia.com/embed/medias/msa8c3ko4v.m3u8"
+                },
+                {
+                    "id": "6697aaa51e09c3a53f0a2de5",
+                    "title": "Numbers, Divisibility, Remainders and Cyclicity",
+                    "type": "video",
+                    "duration": 4724,
+                    "url": "https://fast.wistia.com/embed/medias/8jaaqbl5d8.m3u8"
+                },
+                {
+                    "id": "6697ba0b95cabde13a02ef06",
+                    "title": "HCF and LCM",
+                    "type": "video",
+                    "duration": 2455,
+                    "url": "https://fast.wistia.com/embed/medias/qhhmj1wdig.m3u8"
+                },
+                {
+                    "id": "6697ba2bb796dd103b05d9a5",
+                    "title": "Geometry",
+                    "type": "video",
+                    "duration": 4204,
+                    "url": "https://fast.wistia.com/embed/medias/gmtq9gc0uz.m3u8"
+                },
+                {
+                    "id": "6697ba584cb138caa6011568",
+                    "title": "Mensuration",
+                    "type": "video",
+                    "duration": 3976,
+                    "url": "https://fast.wistia.com/embed/medias/eqbxg1clnr.m3u8"
+                },
+                {
+                    "id": "6697ba9509dbd00d930bfed6",
+                    "title": "Permutation and Combination",
+                    "type": "video",
+                    "duration": 4049,
+                    "url": "https://fast.wistia.com/embed/medias/lwqula89gi.m3u8"
+                },
+                {
+                    "id": "6697bb287570586d550a2bb7",
+                    "title": "Probability",
+                    "type": "video",
+                    "duration": 4171,
+                    "url": "https://fast.wistia.com/embed/medias/1c06gjenr2.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "aptit_data_interpretation",
+            "title": "Data Interpretation (Teacher 1)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6697bef327cc48c5600ffa29",
+                    "title": "Bar Charts",
+                    "type": "video",
+                    "duration": 3414,
+                    "url": "https://fast.wistia.com/embed/medias/uoyy8fjscz.m3u8"
+                },
+                {
+                    "id": "6697bf0527cc48c5600ffa2a",
+                    "title": "Pie Charts",
+                    "type": "video",
+                    "duration": 3312,
+                    "url": "https://fast.wistia.com/embed/medias/rcy7dnx3nz.m3u8"
+                },
+                {
+                    "id": "6697bf20361bac32330da0e4",
+                    "title": "Tables",
+                    "type": "video",
+                    "duration": 3770,
+                    "url": "https://fast.wistia.com/embed/medias/1ymkyxo4ir.m3u8"
+                },
+                {
+                    "id": "6697bf3315dd71709c00ddab",
+                    "title": "Mixed Charts",
+                    "type": "video",
+                    "duration": 3917,
+                    "url": "https://fast.wistia.com/embed/medias/bp75rgpeh4.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "aptit_logical_reasoning",
+            "title": "Logical Reasoning (Teacher 1)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6697bf8b6e4cc343dc08cf95",
+                    "title": "Series (Number Series)",
+                    "type": "video",
+                    "duration": 3204,
+                    "url": "https://fast.wistia.com/embed/medias/p447lbk7ca.m3u8"
+                },
+                {
+                    "id": "6698bcac03b4e03e95035697",
+                    "title": "Series (Letter and Mixed Series)",
+                    "type": "video",
+                    "duration": 2840,
+                    "url": "https://fast.wistia.com/embed/medias/twx3tagxvx.m3u8"
+                },
+                {
+                    "id": "6697bfa2190ed467ef017ba5",
+                    "title": "Coding Decoding",
+                    "type": "video",
+                    "duration": 4069,
+                    "url": "https://fast.wistia.com/embed/medias/nezx4xp7vg.m3u8"
+                },
+                {
+                    "id": "6697bfdefd64eea86b0a69c3",
+                    "title": "Clocks and Calendars",
+                    "type": "video",
+                    "duration": 3784,
+                    "url": "https://fast.wistia.com/embed/medias/sjj2k8969s.m3u8"
+                },
+                {
+                    "id": "6697bfef7dfb688fc101d9e5",
+                    "title": "Blood Relations",
+                    "type": "video",
+                    "duration": 3518,
+                    "url": "https://fast.wistia.com/embed/medias/pu29hteefb.m3u8"
+                },
+                {
+                    "id": "6697c0105e371e6070005316",
+                    "title": "Direction Sense",
+                    "type": "video",
+                    "duration": 2584,
+                    "url": "https://fast.wistia.com/embed/medias/92ql2el5aa.m3u8"
+                },
+                {
+                    "id": "6697c020ea72db49670feb53",
+                    "title": "Syllogism",
+                    "type": "video",
+                    "duration": 2234,
+                    "url": "https://fast.wistia.com/embed/medias/sj8syl0dj1.m3u8"
+                },
+                {
+                    "id": "6697c0353e457ae5e7075b76",
+                    "title": "Cubes and Dice",
+                    "type": "video",
+                    "duration": 2601,
+                    "url": "https://fast.wistia.com/embed/medias/mo1qep6qus.m3u8"
+                },
+                {
+                    "id": "6697c0473fbf60610d0c91d5",
+                    "title": "Linear Arrangements",
+                    "type": "video",
+                    "duration": 3163,
+                    "url": "https://fast.wistia.com/embed/medias/rpr4j3s5rv.m3u8"
+                },
+                {
+                    "id": "6697c056672da61e5503aafc",
+                    "title": "Circular Arrangements",
+                    "type": "video",
+                    "duration": 3474,
+                    "url": "https://fast.wistia.com/embed/medias/vop5i83izm.m3u8"
+                },
+                {
+                    "id": "6697c066d25125d9a1086cb3",
+                    "title": "Games",
+                    "type": "video",
+                    "duration": 2874,
+                    "url": "https://fast.wistia.com/embed/medias/ivfi679dzu.m3u8"
+                },
+                {
+                    "id": "6697c081f4a7a6697801c099",
+                    "title": "Ordering and Seq. Puzzles",
+                    "type": "video",
+                    "duration": 5225,
+                    "url": "https://fast.wistia.com/embed/medias/y8492gmj0o.m3u8"
+                },
+                {
+                    "id": "6697c0998eb723b40a05c113",
+                    "title": "MIsc Puzzles",
+                    "type": "video",
+                    "duration": 3529,
+                    "url": "https://fast.wistia.com/embed/medias/hnz4jm1p0b.m3u8"
+                },
+                {
+                    "id": "6697c0a88088a9f3370fbf77",
+                    "title": "Critical Reasoning",
+                    "type": "video",
+                    "duration": 5447,
+                    "url": "https://fast.wistia.com/embed/medias/8ncd8q1245.m3u8"
+                },
+                {
+                    "id": "6697c0bdfacd8ea158086306",
+                    "title": "Venn Diagrams",
+                    "type": "video",
+                    "duration": 2481,
+                    "url": "https://fast.wistia.com/embed/medias/8qdrl81ts4.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "aptit_verbal_ability",
+            "title": "Verbal Ability ",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6697c115d928217f5804a4c9",
+                    "title": "Spotting Errors",
+                    "type": "video",
+                    "duration": 1059,
+                    "url": "https://fast.wistia.com/embed/medias/9q71gdwtif.m3u8"
+                },
+                {
+                    "id": "6697c12baafa9c2f2c006a07",
+                    "title": "Synonyms",
+                    "type": "video",
+                    "duration": 488,
+                    "url": "https://fast.wistia.com/embed/medias/5ysnt3frtk.m3u8"
+                },
+                {
+                    "id": "6697c147a6515f92a700fe26",
+                    "title": "Antonyms",
+                    "type": "video",
+                    "duration": 680,
+                    "url": "https://fast.wistia.com/embed/medias/h3ola72nhz.m3u8"
+                },
+                {
+                    "id": "6697c15d908ac645b00b1b86",
+                    "title": "Direct Indirect Speech",
+                    "type": "video",
+                    "duration": 1353,
+                    "url": "https://fast.wistia.com/embed/medias/ol8y60xmj2.m3u8"
+                },
+                {
+                    "id": "6697c175ba55a1c89d0a4abc",
+                    "title": "Cloze Test",
+                    "type": "video",
+                    "duration": 1050,
+                    "url": "https://fast.wistia.com/embed/medias/imm6cs7ca0.m3u8"
+                },
+                {
+                    "id": "6697c1923cc6640a2c051c65",
+                    "title": "Sentence Improvement",
+                    "type": "video",
+                    "duration": 1763,
+                    "url": "https://fast.wistia.com/embed/medias/d1owwzf4i0.m3u8"
+                },
+                {
+                    "id": "6697c1ae133ce55f240acf15",
+                    "title": "Idioms and Phrases",
+                    "type": "video",
+                    "duration": 701,
+                    "url": "https://fast.wistia.com/embed/medias/wviaxmme1w.m3u8"
+                },
+                {
+                    "id": "6697c1c5bcbc29534c062537",
+                    "title": "Substitution",
+                    "type": "video",
+                    "duration": 713,
+                    "url": "https://fast.wistia.com/embed/medias/7po96djxgp.m3u8"
+                },
+                {
+                    "id": "6697c1d31c9103ed460366e9",
+                    "title": "Active Passive",
+                    "type": "video",
+                    "duration": 835,
+                    "url": "https://fast.wistia.com/embed/medias/fw2q8az0kg.m3u8"
+                },
+                {
+                    "id": "6697c1ea663376cc930001c6",
+                    "title": "Reading Comprehension",
+                    "type": "video",
+                    "duration": 1245,
+                    "url": "https://fast.wistia.com/embed/medias/pn00fkfndw.m3u8"
+                }
+            ]
+        }
+    ]
+}

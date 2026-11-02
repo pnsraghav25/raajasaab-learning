@@ -1,0 +1,173 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------- Theme tokens ---------- */
+/* Light: soft lavender canvas, violet primary, mint secondary */
+:root {
+  --background: #f6f6fb;
+  --foreground: #14162b;
+  --card: #ffffff;
+  --card-foreground: #14162b;
+  --popover: #ffffff;
+  --primary: #6d4fe8;
+  --primary-foreground: #ffffff;
+  --secondary: #e3f7f0;
+  --secondary-foreground: #0f6b52;
+  --accent: #12b386;
+  --muted: #eeeff6;
+  --muted-foreground: #5d6280;
+  --border: #e2e4ef;
+  --ring: #6d4fe8;
+}
+
+/* Dark: deep navy canvas, lavender primary, mint secondary */
+.dark {
+  --background: #080b16;
+  --foreground: #eceefb;
+  --card: #0f1428;
+  --card-foreground: #eceefb;
+  --popover: #131936;
+  --primary: #9b87ff;
+  --primary-foreground: #120d2e;
+  --secondary: #10302a;
+  --secondary-foreground: #7ee6c4;
+  --accent: #3ddbb0;
+  --muted: #161c36;
+  --muted-foreground: #98a0c3;
+  --border: #212846;
+  --ring: #9b87ff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  html {
+    color-scheme: dark;
+    -webkit-tap-highlight-color: transparent;
+  }
+  html:not(.dark) {
+    color-scheme: light;
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+  }
+  ::selection {
+    background: color-mix(in srgb, var(--primary) 35%, transparent);
+  }
+  button:not(:disabled),
+  [role="button"],
+  summary {
+    cursor: pointer;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+}
+
+/* ---------- Helpers ---------- */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}
+
+.dl-dots {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.35) 1px, transparent 1px);
+  background-size: 14px 14px;
+}
+
+/* Player volume slider */
+.dl-range {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 999px;
+  outline: none;
+  cursor: pointer;
+  background: linear-gradient(
+    to right,
+    #fff 0 var(--val, 0%),
+    rgba(255, 255, 255, 0.3) var(--val, 0%) 100%
+  );
+}
+.dl-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: #fff;
+  border: 0;
+}
+.dl-range::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: #fff;
+  border: 0;
+}
+.dl-range:focus-visible {
+  box-shadow: 0 0 0 2px var(--primary);
+}
+
+/* ---------- Motion ---------- */
+@keyframes dl-flash {
+  0% { opacity: 0; transform: scale(0.6); }
+  25% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(1.25); }
+}
+.dl-flash { animation: dl-flash 0.65s ease-out forwards; }
+
+@keyframes dl-pop-in {
+  from { opacity: 0; transform: translateY(6px) scale(0.98); }
+  to { opacity: 1; transform: none; }
+}
+.dl-pop-in { animation: dl-pop-in 0.16s ease-out; }
+
+@keyframes dl-fade-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.dl-fade-up { animation: dl-fade-up 0.45s ease-out both; }
+
+@keyframes dl-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.dl-fade { animation: dl-fade 0.25s ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

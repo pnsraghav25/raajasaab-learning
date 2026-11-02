@@ -1,0 +1,1862 @@
+{
+    "id": "delta-library",
+    "title": "DevHub Library",
+    "description": "This is the Library of Projects &amp; Advance Dev Modules for Full Stack Web Development.",
+    "sections": [
+        {
+            "id": "delta_introduction",
+            "title": "Important Note",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66743beb258f9f2b3e0e55e3",
+                    "title": "Welcome to DevHub Library!",
+                    "type": "video",
+                    "duration": 210,
+                    "url": "https://fast.wistia.com/embed/medias/y9vq324nox.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_01_building_zerodha",
+            "title": "(1) Building a Stock Trading Platform (Zerodha - Frontend)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6665d23d82be7d4a6a0bc3c5",
+                    "title": "Project Demo",
+                    "type": "video",
+                    "duration": 296,
+                    "url": "https://fast.wistia.com/embed/medias/ocl4ate6f4.m3u8"
+                },
+                {
+                    "id": "6665d2c01bd15cea8000eb29",
+                    "title": "Installing Basic Tools",
+                    "type": "video",
+                    "duration": 229,
+                    "url": "https://fast.wistia.com/embed/medias/yl02u9j22k.m3u8"
+                },
+                {
+                    "id": "6665d2e67b96f43b1f052b75",
+                    "title": "Project Overview",
+                    "type": "video",
+                    "duration": 634,
+                    "url": "https://fast.wistia.com/embed/medias/f43z8bnizp.m3u8"
+                },
+                {
+                    "id": "6665d49082e5b43a26091f75",
+                    "title": "Setting up our React Project",
+                    "type": "video",
+                    "duration": 606,
+                    "url": "https://fast.wistia.com/embed/medias/086xka6jpa.m3u8"
+                },
+                {
+                    "id": "6665d61f678a4f938908b6aa",
+                    "title": "Default Files & Folders",
+                    "type": "video",
+                    "duration": 989,
+                    "url": "https://fast.wistia.com/embed/medias/ng8lyeysno.m3u8"
+                },
+                {
+                    "id": "6665d670199776c2a90fbb65",
+                    "title": "Identifying Major Components",
+                    "type": "video",
+                    "duration": 930,
+                    "url": "https://fast.wistia.com/embed/medias/uii0xarv73.m3u8"
+                },
+                {
+                    "id": "6665d7480710e4685d0f5c06",
+                    "title": "Structuring Landing Page",
+                    "type": "video",
+                    "duration": 817,
+                    "url": "https://fast.wistia.com/embed/medias/0r0swr3h8u.m3u8"
+                },
+                {
+                    "id": "6665d75c8eff11dae8065888",
+                    "title": "Home Components (Part 1)",
+                    "type": "video",
+                    "duration": 600,
+                    "url": "https://fast.wistia.com/embed/medias/bwzzczq48w.m3u8"
+                },
+                {
+                    "id": "6665d774e1ac1512e102bfe5",
+                    "title": "Home Components (Part 2)",
+                    "type": "video",
+                    "duration": 661,
+                    "url": "https://fast.wistia.com/embed/medias/ftxlk9rh1k.m3u8"
+                },
+                {
+                    "id": "6665d778f596c4c3a909d0f5",
+                    "title": "Home Components (Part 3)",
+                    "type": "video",
+                    "duration": 1273,
+                    "url": "https://fast.wistia.com/embed/medias/syhs7ytyar.m3u8"
+                },
+                {
+                    "id": "6665d77c9ca83339420aabb6",
+                    "title": "Home Components (Part 4)",
+                    "type": "video",
+                    "duration": 1361,
+                    "url": "https://fast.wistia.com/embed/medias/ejmzs3xfbr.m3u8"
+                },
+                {
+                    "id": "6665d7a838412d8ef20a5997",
+                    "title": "Navbar, Footer & Open Account",
+                    "type": "video",
+                    "duration": 1534,
+                    "url": "https://fast.wistia.com/embed/medias/b2w6q15f97.m3u8"
+                },
+                {
+                    "id": "6665d7b6ff9f81d6840aec86",
+                    "title": "Setting up React Router",
+                    "type": "video",
+                    "duration": 818,
+                    "url": "https://fast.wistia.com/embed/medias/pauqgtjyl1.m3u8"
+                },
+                {
+                    "id": "6665d82cc9612ec0de0ff455",
+                    "title": "Implement \"About\" Component",
+                    "type": "video",
+                    "duration": 1133,
+                    "url": "https://fast.wistia.com/embed/medias/7hzpwnqznl.m3u8"
+                },
+                {
+                    "id": "6665d84056ea295624020e66",
+                    "title": "LeftSection in \"Product\" Component",
+                    "type": "video",
+                    "duration": 1355,
+                    "url": "https://fast.wistia.com/embed/medias/6agtc5hy0b.m3u8"
+                },
+                {
+                    "id": "6665d86d471f95acd108d595",
+                    "title": "RightSection in \"Product\" Component",
+                    "type": "video",
+                    "duration": 791,
+                    "url": "https://fast.wistia.com/embed/medias/nto0yagebn.m3u8"
+                },
+                {
+                    "id": "6665d8811ba00743790e24f5",
+                    "title": "Implement \"Pricing\" Component",
+                    "type": "video",
+                    "duration": 1006,
+                    "url": "https://fast.wistia.com/embed/medias/p86ohstwgd.m3u8"
+                },
+                {
+                    "id": "6665d8be0226293e08018985",
+                    "title": "\"Support\" Component (Part 1)",
+                    "type": "video",
+                    "duration": 528,
+                    "url": "https://fast.wistia.com/embed/medias/p2el0rrnam.m3u8"
+                },
+                {
+                    "id": "6665d8c3071f079547067ba6",
+                    "title": "\"Support\" Component (Part 2)",
+                    "type": "video",
+                    "duration": 1448,
+                    "url": "https://fast.wistia.com/embed/medias/huyhidzq27.m3u8"
+                },
+                {
+                    "id": "6665d8d0dfce3a95d2063e76",
+                    "title": "Exploring the Dashboard",
+                    "type": "video",
+                    "duration": 973,
+                    "url": "https://fast.wistia.com/embed/medias/8zzt9gjy7u.m3u8"
+                },
+                {
+                    "id": "6665d8e08e6e45c0060478b5",
+                    "title": "Creating Dashboard Components",
+                    "type": "video",
+                    "duration": 509,
+                    "url": "https://fast.wistia.com/embed/medias/9k3efd3yr5.m3u8"
+                },
+                {
+                    "id": "6665d8ef5c98a8c5fe088b46",
+                    "title": "Setup Dashboard Menu",
+                    "type": "video",
+                    "duration": 878,
+                    "url": "https://fast.wistia.com/embed/medias/jhgpkx1wca.m3u8"
+                },
+                {
+                    "id": "6665d90a16e5fa4df90320e5",
+                    "title": "Add Data to Holdings & Positions",
+                    "type": "video",
+                    "duration": 1009,
+                    "url": "https://fast.wistia.com/embed/medias/jf53fi99ll.m3u8"
+                },
+                {
+                    "id": "6665d925f8440fe3a70d3b55",
+                    "title": "\"WatchList\" Component (Part 1)",
+                    "type": "video",
+                    "duration": 612,
+                    "url": "https://fast.wistia.com/embed/medias/j74fsqnfhj.m3u8"
+                },
+                {
+                    "id": "6665d9290cf60e3e2e06bb55",
+                    "title": "\"WatchList\" Component (Part 2)",
+                    "type": "video",
+                    "duration": 696,
+                    "url": "https://fast.wistia.com/embed/medias/t4bokziuej.m3u8"
+                },
+                {
+                    "id": "6665d9337e8a5afb41013c35",
+                    "title": "\"WatchList\" Component (Part 3)",
+                    "type": "video",
+                    "duration": 719,
+                    "url": "https://fast.wistia.com/embed/medias/dc642quorc.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_1_building_zerodha_backend",
+            "title": "(1) Building a Stock Trading Platform (Zerodha - Backend)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6665d96a70bcd64d2b079495",
+                    "title": "Setting up MongoDB",
+                    "type": "video",
+                    "duration": 664,
+                    "url": "https://fast.wistia.com/embed/medias/0i5k2anyvp.m3u8"
+                },
+                {
+                    "id": "6665d97fd54c25d7ff06b435",
+                    "title": "Connect MongoDB with Express (Part a)",
+                    "type": "video",
+                    "duration": 606,
+                    "url": "https://fast.wistia.com/embed/medias/09ei101dsr.m3u8"
+                },
+                {
+                    "id": "6665dabfe6d63393c40037b5",
+                    "title": "Connect MongoDB with Express (Part b)",
+                    "type": "video",
+                    "duration": 841,
+                    "url": "https://fast.wistia.com/embed/medias/7fsfpewrv0.m3u8"
+                },
+                {
+                    "id": "6665dacb4e065fed440daf39",
+                    "title": "Creating Schemas & Models",
+                    "type": "video",
+                    "duration": 453,
+                    "url": "https://fast.wistia.com/embed/medias/3ur3yldyfh.m3u8"
+                },
+                {
+                    "id": "6665dad982eb37c815060de7",
+                    "title": "Holdings Starter Data",
+                    "type": "video",
+                    "duration": 720,
+                    "url": "https://fast.wistia.com/embed/medias/ofb9fzdtl8.m3u8"
+                },
+                {
+                    "id": "6665db10bc22afb858045825",
+                    "title": "Testing API Endpoints",
+                    "type": "video",
+                    "duration": 497,
+                    "url": "https://fast.wistia.com/embed/medias/767hjhuqdv.m3u8"
+                },
+                {
+                    "id": "6665db2416a95bf247015289",
+                    "title": "Fetch Data from Dashboard",
+                    "type": "video",
+                    "duration": 1030,
+                    "url": "https://fast.wistia.com/embed/medias/00yedhc51k.m3u8"
+                },
+                {
+                    "id": "66d06da6864f11eaf806b8a8",
+                    "title": "CRUD from the dashboard",
+                    "type": "video",
+                    "duration": 1169,
+                    "url": "https://fast.wistia.com/embed/medias/1mrx1ourla.m3u8"
+                },
+                {
+                    "id": "6665dc7243bcd13eba0b81a7",
+                    "title": "Implement User Authentication",
+                    "type": "video",
+                    "duration": 418,
+                    "url": "https://fast.wistia.com/embed/medias/y6ricgwwhr.m3u8"
+                },
+                {
+                    "id": "6665dd43ef1f87bd3907aeb9",
+                    "title": "Plotting Graphs with chart.js",
+                    "type": "video",
+                    "duration": 922,
+                    "url": "https://fast.wistia.com/embed/medias/99w4wh51jr.m3u8"
+                },
+                {
+                    "id": "6665ddb48b7c0b511b0aefd7",
+                    "title": "Exploring Stock Market Live APIs",
+                    "type": "video",
+                    "duration": 474,
+                    "url": "https://fast.wistia.com/embed/medias/uwbd3x4tl0.m3u8"
+                },
+                {
+                    "id": "6673f1320a0958318f03fc95",
+                    "title": "How does Testing work?",
+                    "type": "video",
+                    "duration": 475,
+                    "url": "https://fast.wistia.com/embed/medias/hqky7twj8g.m3u8"
+                },
+                {
+                    "id": "6665de6be7591898520deee6",
+                    "title": "Unit Testing with JEST",
+                    "type": "video",
+                    "duration": 738,
+                    "url": "https://fast.wistia.com/embed/medias/bz4xdutrf0.m3u8"
+                },
+                {
+                    "id": "6665e0227617f237160945cb",
+                    "title": "Deployment on AWS",
+                    "type": "video",
+                    "duration": 790,
+                    "url": "https://fast.wistia.com/embed/medias/q400hm473y.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_building_zoom",
+            "title": "(2) Building a Video Conferencing Platform (Zoom)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66815922def20a4baf004897",
+                    "title": "Covering Fundamentals",
+                    "type": "video",
+                    "duration": 696,
+                    "url": "https://fast.wistia.com/embed/medias/8z8ciezhuy.m3u8"
+                },
+                {
+                    "id": "6681592c91934e6ec509b145",
+                    "title": "What is WebRTC?",
+                    "type": "video",
+                    "duration": 871,
+                    "url": "https://fast.wistia.com/embed/medias/70fvc14ua8.m3u8"
+                },
+                {
+                    "id": "66815937831c81a006033003",
+                    "title": "WebRTC Architectures",
+                    "type": "video",
+                    "duration": 932,
+                    "url": "https://fast.wistia.com/embed/medias/1eyf84l2fm.m3u8"
+                },
+                {
+                    "id": "6681594080f5800c68055e57",
+                    "title": "Project Demo",
+                    "type": "video",
+                    "duration": 303,
+                    "url": "https://fast.wistia.com/embed/medias/kpf708jik0.m3u8"
+                },
+                {
+                    "id": "66800599c9b93f0a71017e15",
+                    "title": "Project Introduction",
+                    "type": "video",
+                    "duration": 86,
+                    "url": "https://fast.wistia.com/embed/medias/0mzjitmrgi.m3u8"
+                },
+                {
+                    "id": "668006a107ea02ca950fce55",
+                    "title": "Project Planning",
+                    "type": "video",
+                    "duration": 675,
+                    "url": "https://fast.wistia.com/embed/medias/47kk63wf8s.m3u8"
+                },
+                {
+                    "id": "668006cdf30f4f7f0b09e216",
+                    "title": "Technologies used",
+                    "type": "video",
+                    "duration": 554,
+                    "url": "https://fast.wistia.com/embed/medias/82qwopwd4b.m3u8"
+                },
+                {
+                    "id": "6680071cf84989ef42030d73",
+                    "title": "Setting up Backend Structure",
+                    "type": "video",
+                    "duration": 1230,
+                    "url": "https://fast.wistia.com/embed/medias/ch5a8nyzc7.m3u8"
+                },
+                {
+                    "id": "668007430f14290e900db706",
+                    "title": "Creating DB Models",
+                    "type": "video",
+                    "duration": 204,
+                    "url": "https://fast.wistia.com/embed/medias/3y4wxtukqx.m3u8"
+                },
+                {
+                    "id": "6680076225cb1731120a4445",
+                    "title": "Authentication Routes",
+                    "type": "video",
+                    "duration": 1305,
+                    "url": "https://fast.wistia.com/embed/medias/mhzv0dg9a4.m3u8"
+                },
+                {
+                    "id": "6680079ecaf2aee2270d9385",
+                    "title": "Socket for Live Interaction",
+                    "type": "video",
+                    "duration": 1465,
+                    "url": "https://fast.wistia.com/embed/medias/3mmtk8qmg3.m3u8"
+                },
+                {
+                    "id": "668007c1163c0959e103da6a",
+                    "title": "Merging Socket & Express Server",
+                    "type": "video",
+                    "duration": 145,
+                    "url": "https://fast.wistia.com/embed/medias/xhyjinyydz.m3u8"
+                },
+                {
+                    "id": "668007d678786ffc1a049013",
+                    "title": "Setting up Frontend Structure",
+                    "type": "video",
+                    "duration": 113,
+                    "url": "https://fast.wistia.com/embed/medias/n61fftuwid.m3u8"
+                },
+                {
+                    "id": "66800800f2899b17b30c62d5",
+                    "title": "Setting up the Router",
+                    "type": "video",
+                    "duration": 439,
+                    "url": "https://fast.wistia.com/embed/medias/0c7c619424.m3u8"
+                },
+                {
+                    "id": "6680081988c60efe2e095075",
+                    "title": "Creating Landing Page",
+                    "type": "video",
+                    "duration": 1246,
+                    "url": "https://fast.wistia.com/embed/medias/5ocqhlgoyh.m3u8"
+                },
+                {
+                    "id": "668008330aecdeca40046343",
+                    "title": "Creating Authentication Page",
+                    "type": "video",
+                    "duration": 959,
+                    "url": "https://fast.wistia.com/embed/medias/aumx7agkbf.m3u8"
+                },
+                {
+                    "id": "66800863e940e12680002bc3",
+                    "title": "Context API and Creating Auth Flow",
+                    "type": "video",
+                    "duration": 1442,
+                    "url": "https://fast.wistia.com/embed/medias/ubd9uq2sp0.m3u8"
+                },
+                {
+                    "id": "668009123172bda47d013409",
+                    "title": "Activating the STUN Server",
+                    "type": "video",
+                    "duration": 1011,
+                    "url": "https://fast.wistia.com/embed/medias/sbsgb7zdfz.m3u8"
+                },
+                {
+                    "id": "668021ed266cc0f2870f6715",
+                    "title": "Video and Audio Controls",
+                    "type": "video",
+                    "duration": 1033,
+                    "url": "https://fast.wistia.com/embed/medias/7fbto4g90i.m3u8"
+                },
+                {
+                    "id": "6680229d4c9b972ba209b118",
+                    "title": "Connection through WebRTC",
+                    "type": "video",
+                    "duration": 1558,
+                    "url": "https://fast.wistia.com/embed/medias/9vhktwmex2.m3u8"
+                },
+                {
+                    "id": "668022d522eae96bef02ade3",
+                    "title": "Stream Offers as Video",
+                    "type": "video",
+                    "duration": 1691,
+                    "url": "https://fast.wistia.com/embed/medias/vm438rhya2.m3u8"
+                },
+                {
+                    "id": "6680236612865ee64d0282b6",
+                    "title": "Resolving Errors",
+                    "type": "video",
+                    "duration": 109,
+                    "url": "https://fast.wistia.com/embed/medias/4pu2faz41s.m3u8"
+                },
+                {
+                    "id": "668024adeb056624720e4cd3",
+                    "title": "Showing ID for videos",
+                    "type": "video",
+                    "duration": 480,
+                    "url": "https://fast.wistia.com/embed/medias/1j5p6fcpa1.m3u8"
+                },
+                {
+                    "id": "668024d468fe8c84d805fc95",
+                    "title": "Improving Meet UI",
+                    "type": "video",
+                    "duration": 1608,
+                    "url": "https://fast.wistia.com/embed/medias/co0yt6m0p9.m3u8"
+                },
+                {
+                    "id": "6680250dcdab8e3962027945",
+                    "title": "Screen Share Feature",
+                    "type": "video",
+                    "duration": 653,
+                    "url": "https://fast.wistia.com/embed/medias/ctqnxvbfw6.m3u8"
+                },
+                {
+                    "id": "6680254520e89674cf066a07",
+                    "title": "Chat window UI",
+                    "type": "video",
+                    "duration": 593,
+                    "url": "https://fast.wistia.com/embed/medias/ji3i5jw5i8.m3u8"
+                },
+                {
+                    "id": "6680257b13ee08813601b016",
+                    "title": "Real-time messages using Sockets",
+                    "type": "video",
+                    "duration": 1042,
+                    "url": "https://fast.wistia.com/embed/medias/ri6uqqqq7y.m3u8"
+                },
+                {
+                    "id": "6680260c46f9692cfc0f812e",
+                    "title": "HOF for Auth Guard",
+                    "type": "video",
+                    "duration": 259,
+                    "url": "https://fast.wistia.com/embed/medias/zra8qi59m5.m3u8"
+                },
+                {
+                    "id": "6680268fb6599f170d0def35",
+                    "title": "Home Component",
+                    "type": "video",
+                    "duration": 1380,
+                    "url": "https://fast.wistia.com/embed/medias/vuez6wqxte.m3u8"
+                },
+                {
+                    "id": "668026b85ff8fef92607d1b3",
+                    "title": "Implementing History feature",
+                    "type": "video",
+                    "duration": 1262,
+                    "url": "https://fast.wistia.com/embed/medias/ysszqlgd1j.m3u8"
+                },
+                {
+                    "id": "66802a7114c81a9eea0c1f63",
+                    "title": "Deployment",
+                    "type": "video",
+                    "duration": 1708,
+                    "url": "https://fast.wistia.com/embed/medias/h39kruzolq.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_github_backend",
+            "title": "(3) Building a Version Control System (Github - Backend)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66aa0bb4bc0e3d8d16092f68",
+                    "title": "Project Walkthrough",
+                    "type": "video",
+                    "duration": 825,
+                    "url": "https://fast.wistia.com/embed/medias/2olyqvxs60.m3u8"
+                },
+                {
+                    "id": "66aa0ca4f720529a2f000016",
+                    "title": "Index - Agenda Video",
+                    "type": "video",
+                    "duration": 1017,
+                    "url": "https://fast.wistia.com/embed/medias/bf23j1az41.m3u8"
+                },
+                {
+                    "id": "66aa1b3ffdbd9387e8049426",
+                    "title": "Planning the Project Structure - Console Commands",
+                    "type": "video",
+                    "duration": 734,
+                    "url": "https://fast.wistia.com/embed/medias/okv9zh1h6d.m3u8"
+                },
+                {
+                    "id": "66aa1b742f47607f79024a57",
+                    "title": "Planning the Project Structures - Frontend Components",
+                    "type": "video",
+                    "duration": 255,
+                    "url": "https://fast.wistia.com/embed/medias/7i8u42xqxg.m3u8"
+                },
+                {
+                    "id": "66aa1bfc4d86e6cf1400f2c5",
+                    "title": "Planning the Project Structures - Database Schema and Models",
+                    "type": "video",
+                    "duration": 298,
+                    "url": "https://fast.wistia.com/embed/medias/rv4o4d6he9.m3u8"
+                },
+                {
+                    "id": "66aa1c7f38945472610f5fff",
+                    "title": "Planning the Project Structures - API Endpoints",
+                    "type": "video",
+                    "duration": 335,
+                    "url": "https://fast.wistia.com/embed/medias/1ytk2bu54s.m3u8"
+                },
+                {
+                    "id": "66aa1cbcd3fd79cc7e0aad06",
+                    "title": "Creating the folder structure",
+                    "type": "video",
+                    "duration": 409,
+                    "url": "https://fast.wistia.com/embed/medias/6jpe3lx94v.m3u8"
+                },
+                {
+                    "id": "66aa1cde7157907d5902c2cd",
+                    "title": "Reading Terminal Commands from the users",
+                    "type": "video",
+                    "duration": 878,
+                    "url": "https://fast.wistia.com/embed/medias/3gqznjorkg.m3u8"
+                },
+                {
+                    "id": "66aa1d38e68e4bf8b4060d38",
+                    "title": "Working on the initRepo Logic",
+                    "type": "video",
+                    "duration": 766,
+                    "url": "https://fast.wistia.com/embed/medias/v0hyc5i0yn.m3u8"
+                },
+                {
+                    "id": "66aa1e1b34bee5a0b70e2f46",
+                    "title": "Working on the addFile logic",
+                    "type": "video",
+                    "duration": 652,
+                    "url": "https://fast.wistia.com/embed/medias/sj3ev4m24p.m3u8"
+                },
+                {
+                    "id": "66aa1e3ea1a33979140c7af6",
+                    "title": "Working on the commitChanges logic",
+                    "type": "video",
+                    "duration": 1097,
+                    "url": "https://fast.wistia.com/embed/medias/v5wngty51c.m3u8"
+                },
+                {
+                    "id": "66aa1e6a4ae887dc76001d13",
+                    "title": "Setting up and Configuring AWS",
+                    "type": "video",
+                    "duration": 936,
+                    "url": "https://fast.wistia.com/embed/medias/i24bdxegzn.m3u8"
+                },
+                {
+                    "id": "66aa1eaa2251805b9f0853c5",
+                    "title": "Working on the pushChanges Logic",
+                    "type": "video",
+                    "duration": 827,
+                    "url": "https://fast.wistia.com/embed/medias/31foia8lkj.m3u8"
+                },
+                {
+                    "id": "66aa1ed18015337ee00c32a6",
+                    "title": "Working on the pullChanges Logic",
+                    "type": "video",
+                    "duration": 632,
+                    "url": "https://fast.wistia.com/embed/medias/uokdbelrjg.m3u8"
+                },
+                {
+                    "id": "66aa1f936cbba83d96041f7b",
+                    "title": "Working on the revertChanges Logic",
+                    "type": "video",
+                    "duration": 557,
+                    "url": "https://fast.wistia.com/embed/medias/6tfn0282dx.m3u8"
+                },
+                {
+                    "id": "66aa1fc885bc04a3fd060566",
+                    "title": "Creating the Backend folder structure",
+                    "type": "video",
+                    "duration": 666,
+                    "url": "https://fast.wistia.com/embed/medias/4xyhkzufue.m3u8"
+                },
+                {
+                    "id": "66aa20106286aa03d10c2038",
+                    "title": "Setting up MongoDB database",
+                    "type": "video",
+                    "duration": 776,
+                    "url": "https://fast.wistia.com/embed/medias/hf99hek2ae.m3u8"
+                },
+                {
+                    "id": "66aa2067f312fd131f03c887",
+                    "title": "Writing the Server Creation Logic (Stitched Clip)",
+                    "type": "video",
+                    "duration": 701,
+                    "url": "https://fast.wistia.com/embed/medias/r0ntbch0ho.m3u8"
+                },
+                {
+                    "id": "66aa20b0d4c340a2b4050d76",
+                    "title": "Writing the Server Creation Logic",
+                    "type": "video",
+                    "duration": 724,
+                    "url": "https://fast.wistia.com/embed/medias/glzcxkczjv.m3u8"
+                },
+                {
+                    "id": "66aa20d2ff8988b10e0b4b25",
+                    "title": "Creating Schemas and Models",
+                    "type": "video",
+                    "duration": 870,
+                    "url": "https://fast.wistia.com/embed/medias/kh0wspwyfv.m3u8"
+                },
+                {
+                    "id": "66aa22f67fca2c77570672f8",
+                    "title": "Setting up User Functionality",
+                    "type": "video",
+                    "duration": 907,
+                    "url": "https://fast.wistia.com/embed/medias/5pcirfoq3u.m3u8"
+                },
+                {
+                    "id": "66aa2316b54d590c9103cb15",
+                    "title": "Setting up Repository Functionality",
+                    "type": "video",
+                    "duration": 607,
+                    "url": "https://fast.wistia.com/embed/medias/sn5e6gulov.m3u8"
+                },
+                {
+                    "id": "66aa23596d405b93620a9cc5",
+                    "title": "Setting up Issue Functionality",
+                    "type": "video",
+                    "duration": 414,
+                    "url": "https://fast.wistia.com/embed/medias/jrj6b0twyi.m3u8"
+                },
+                {
+                    "id": "66aa238b235960cf37084933",
+                    "title": "User Signup",
+                    "type": "video",
+                    "duration": 1289,
+                    "url": "https://fast.wistia.com/embed/medias/vsxmecf57m.m3u8"
+                },
+                {
+                    "id": "66aa2397794fce5d9d0e8e85",
+                    "title": "User Login",
+                    "type": "video",
+                    "duration": 481,
+                    "url": "https://fast.wistia.com/embed/medias/prkgdxrzxn.m3u8"
+                },
+                {
+                    "id": "66aa23c1a6ae388efe012bf8",
+                    "title": "Fetching User Profile",
+                    "type": "video",
+                    "duration": 819,
+                    "url": "https://fast.wistia.com/embed/medias/otge6ud0gj.m3u8"
+                },
+                {
+                    "id": "66aa240e1bc20e20730d6745",
+                    "title": "Updating and Deleting User Profile",
+                    "type": "video",
+                    "duration": 737,
+                    "url": "https://fast.wistia.com/embed/medias/wtuses0a5m.m3u8"
+                },
+                {
+                    "id": "66aa24937ee72fae81048ce5",
+                    "title": "Creating a new Repository",
+                    "type": "video",
+                    "duration": 980,
+                    "url": "https://fast.wistia.com/embed/medias/niey9pbbnn.m3u8"
+                },
+                {
+                    "id": "66aa24bf1db16932140b2d75",
+                    "title": "Fetching Repository details",
+                    "type": "video",
+                    "duration": 936,
+                    "url": "https://fast.wistia.com/embed/medias/kvmmg2gv3g.m3u8"
+                },
+                {
+                    "id": "66aa24d7eea969b7fc007646",
+                    "title": "Updating and Deleting Repository",
+                    "type": "video",
+                    "duration": 666,
+                    "url": "https://fast.wistia.com/embed/medias/4w6v4pez67.m3u8"
+                },
+                {
+                    "id": "66aa24f02f4afd45f20c4227",
+                    "title": "Working on Issue Controller",
+                    "type": "video",
+                    "duration": 632,
+                    "url": "https://fast.wistia.com/embed/medias/e12q9ffgtm.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_github_frontend",
+            "title": "(3) Building a Version Control System (Github - Frontend)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66b1e9d178390fec850ad495",
+                    "title": "Setting up the FrontEnd React App",
+                    "type": "video",
+                    "duration": 663,
+                    "url": "https://fast.wistia.com/embed/medias/ugectk5pbi.m3u8"
+                },
+                {
+                    "id": "66b1e9d934465659c40449d5",
+                    "title": "Creating Folder Structure and Auth Context",
+                    "type": "video",
+                    "duration": 819,
+                    "url": "https://fast.wistia.com/embed/medias/cfjge59s1q.m3u8"
+                },
+                {
+                    "id": "66b1e9e1778fa9f9830bb0b5",
+                    "title": "Working on the FrontEnd Router",
+                    "type": "video",
+                    "duration": 856,
+                    "url": "https://fast.wistia.com/embed/medias/0vv9cb8wp3.m3u8"
+                },
+                {
+                    "id": "66b1e9e7007af5c0f90f6ce6",
+                    "title": "Building the Signup Functionality",
+                    "type": "video",
+                    "duration": 1005,
+                    "url": "https://fast.wistia.com/embed/medias/hx64dbvfz7.m3u8"
+                },
+                {
+                    "id": "66b1ea7ba05540eb2206ea6e",
+                    "title": "Building the Login Functionality",
+                    "type": "video",
+                    "duration": 489,
+                    "url": "https://fast.wistia.com/embed/medias/1vo6ycl41d.m3u8"
+                },
+                {
+                    "id": "66b1ea8aa011774475034285",
+                    "title": "Testing Signup and Login Functionality",
+                    "type": "video",
+                    "duration": 652,
+                    "url": "https://fast.wistia.com/embed/medias/2xondx0fgc.m3u8"
+                },
+                {
+                    "id": "66b1ea9cc462b5ffb709dc7a",
+                    "title": "Building the Dashboard - 1",
+                    "type": "video",
+                    "duration": 1029,
+                    "url": "https://fast.wistia.com/embed/medias/th6dhfdejm.m3u8"
+                },
+                {
+                    "id": "66b1eab1eca83e33680044a5",
+                    "title": "Building the Dashboard - 2",
+                    "type": "video",
+                    "duration": 775,
+                    "url": "https://fast.wistia.com/embed/medias/ujolow2onz.m3u8"
+                },
+                {
+                    "id": "66b1eac2da1aa4c4da0920a5",
+                    "title": "Building the Dashboard - 3",
+                    "type": "video",
+                    "duration": 430,
+                    "url": "https://fast.wistia.com/embed/medias/9c2xmil4m4.m3u8"
+                },
+                {
+                    "id": "66b1eade201f83134f02ed67",
+                    "title": "Building the Navbar",
+                    "type": "video",
+                    "duration": 818,
+                    "url": "https://fast.wistia.com/embed/medias/72dt6c1rrm.m3u8"
+                },
+                {
+                    "id": "66b1eaed4eae42c7ea094bb3",
+                    "title": "Building the User Profile",
+                    "type": "video",
+                    "duration": 703,
+                    "url": "https://fast.wistia.com/embed/medias/vfx5kp9fby.m3u8"
+                },
+                {
+                    "id": "66b1eafc8400b3040805c9dc",
+                    "title": "Building the Contributions HeatMap",
+                    "type": "video",
+                    "duration": 1494,
+                    "url": "https://fast.wistia.com/embed/medias/qo39dzz7co.m3u8"
+                },
+                {
+                    "id": "66b1eb0a201f83134f02ed68",
+                    "title": "Building the Logout Functionality",
+                    "type": "video",
+                    "duration": 663,
+                    "url": "https://fast.wistia.com/embed/medias/mkhbh63e49.m3u8"
+                },
+                {
+                    "id": "66b1eb1af1e39412540d7eb5",
+                    "title": "Deploying the Frontend",
+                    "type": "video",
+                    "duration": 557,
+                    "url": "https://fast.wistia.com/embed/medias/yjtrmenm62.m3u8"
+                },
+                {
+                    "id": "66b1eb3344ba3c5f1406c4d8",
+                    "title": "Deploying the Backend - 1",
+                    "type": "video",
+                    "duration": 649,
+                    "url": "https://fast.wistia.com/embed/medias/fmsq8buw5k.m3u8"
+                },
+                {
+                    "id": "66b1eb4361a21ded9c00ae8c",
+                    "title": "Deploying the Backend - 2",
+                    "type": "video",
+                    "duration": 820,
+                    "url": "https://fast.wistia.com/embed/medias/d1bzmy6kw8.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_4_building_linkedin",
+            "title": "(4) Building a Social Media Platform (Linkedin - Part A)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66e91cf0d735a15b110e7ac9",
+                    "title": "Introduction to Project and Overview",
+                    "type": "video",
+                    "duration": 299,
+                    "url": "https://fast.wistia.com/embed/medias/t4kkwlyf04.m3u8"
+                },
+                {
+                    "id": "66e91d0ad6119cf335029108",
+                    "title": "Introduction to NextJS, SSR and SSG",
+                    "type": "video",
+                    "duration": 455,
+                    "url": "https://fast.wistia.com/embed/medias/80snjtrhcl.m3u8"
+                },
+                {
+                    "id": "66e91d35d2060c6bd103df6a",
+                    "title": "Setting up the Project",
+                    "type": "video",
+                    "duration": 372,
+                    "url": "https://fast.wistia.com/embed/medias/oa9b3di88e.m3u8"
+                },
+                {
+                    "id": "66e91d44f6f9ade08e069453",
+                    "title": "Creating Models for Mongoose",
+                    "type": "video",
+                    "duration": 1371,
+                    "url": "https://fast.wistia.com/embed/medias/2r6mczde84.m3u8"
+                },
+                {
+                    "id": "66e91d53760ae80cf20c8d95",
+                    "title": "Registration & Setting up the Routes",
+                    "type": "video",
+                    "duration": 426,
+                    "url": "https://fast.wistia.com/embed/medias/bip1ejowkc.m3u8"
+                },
+                {
+                    "id": "66e91d634e84adbd50050923",
+                    "title": "Testing with HTTP & Login",
+                    "type": "video",
+                    "duration": 539,
+                    "url": "https://fast.wistia.com/embed/medias/r9ztvk8nsh.m3u8"
+                },
+                {
+                    "id": "66e91d78c68eeab05b0b18b7",
+                    "title": "Setting up Multer and Updating Profile Picture",
+                    "type": "video",
+                    "duration": 613,
+                    "url": "https://fast.wistia.com/embed/medias/i4bfeccate.m3u8"
+                },
+                {
+                    "id": "66e91d8be7763a29050d89d6",
+                    "title": "Updating and Getting User Profile",
+                    "type": "video",
+                    "duration": 697,
+                    "url": "https://fast.wistia.com/embed/medias/oxitc1c8px.m3u8"
+                },
+                {
+                    "id": "66e91d9ad5443de54b019946",
+                    "title": "Exploring PDF Download option",
+                    "type": "video",
+                    "duration": 1116,
+                    "url": "https://fast.wistia.com/embed/medias/7ybz5sawt0.m3u8"
+                },
+                {
+                    "id": "66e91da9111b0eb31b02e03c",
+                    "title": "Implementing the Download Profile Functionality",
+                    "type": "video",
+                    "duration": 655,
+                    "url": "https://fast.wistia.com/embed/medias/4o8g0wo2ld.m3u8"
+                },
+                {
+                    "id": "66e91dbe8e94e38230094fd6",
+                    "title": "Connection Request Functionality",
+                    "type": "video",
+                    "duration": 857,
+                    "url": "https://fast.wistia.com/embed/medias/v8um9xpf2j.m3u8"
+                },
+                {
+                    "id": "66e91dd271e24dc9cd0fbe18",
+                    "title": "Using Multer to Implement Post Functionality by User",
+                    "type": "video",
+                    "duration": 494,
+                    "url": "https://fast.wistia.com/embed/medias/i0dhpm4mbg.m3u8"
+                },
+                {
+                    "id": "66e91de24ebbae772606a9d7",
+                    "title": "Delete flag concept and Implementing the Delete functionality",
+                    "type": "video",
+                    "duration": 556,
+                    "url": "https://fast.wistia.com/embed/medias/vtaj5lh3ow.m3u8"
+                },
+                {
+                    "id": "66e91df261652470eb04d709",
+                    "title": "Implementing CRUD Functionality for Comments",
+                    "type": "video",
+                    "duration": 720,
+                    "url": "https://fast.wistia.com/embed/medias/tqk02gogs4.m3u8"
+                },
+                {
+                    "id": "66e91e028fb89ad7b000b399",
+                    "title": "Starting with Frontend, Redux, BundlePhobia",
+                    "type": "video",
+                    "duration": 338,
+                    "url": "https://fast.wistia.com/embed/medias/5cd55gme27.m3u8"
+                },
+                {
+                    "id": "66e91e1450d73ddbc90f3c19",
+                    "title": "Setting Up Config for API Connection",
+                    "type": "video",
+                    "duration": 255,
+                    "url": "https://fast.wistia.com/embed/medias/bo48uly0dc.m3u8"
+                },
+                {
+                    "id": "66e91e225c9bb61c5603f066",
+                    "title": "Setting Up Redux and Authentication",
+                    "type": "video",
+                    "duration": 1504,
+                    "url": "https://fast.wistia.com/embed/medias/ztdt15c3gx.m3u8"
+                },
+                {
+                    "id": "66e91e3304d61830b10e22a5",
+                    "title": "Designing the Home / Landing Page",
+                    "type": "video",
+                    "duration": 351,
+                    "url": "https://fast.wistia.com/embed/medias/mjj31bfgij.m3u8"
+                },
+                {
+                    "id": "66e91e44fbeec75226064996",
+                    "title": "Understanding the Styling system in Reactjs",
+                    "type": "video",
+                    "duration": 257,
+                    "url": "https://fast.wistia.com/embed/medias/fshu0ybgno.m3u8"
+                },
+                {
+                    "id": "66e91e548ea90757db0b6c26",
+                    "title": "Implementing Landing Page UI",
+                    "type": "video",
+                    "duration": 1253,
+                    "url": "https://fast.wistia.com/embed/medias/jeq8ztdeoe.m3u8"
+                },
+                {
+                    "id": "66e91e611e82e300ab00b779",
+                    "title": "Creating the Authentication Component - UI",
+                    "type": "video",
+                    "duration": 1143,
+                    "url": "https://fast.wistia.com/embed/medias/y15oovon3p.m3u8"
+                },
+                {
+                    "id": "66e91e72bdb2639c3a0f1d63",
+                    "title": "Connecting the Auth with Backend",
+                    "type": "video",
+                    "duration": 1315,
+                    "url": "https://fast.wistia.com/embed/medias/x9um2jikt8.m3u8"
+                },
+                {
+                    "id": "66e91e81409e1771820dacfb",
+                    "title": "Creating the Dashboard - Posts Reducer",
+                    "type": "video",
+                    "duration": 969,
+                    "url": "https://fast.wistia.com/embed/medias/c2ut3901nf.m3u8"
+                },
+                {
+                    "id": "66e91e95582821f1de07da67",
+                    "title": "Connecting Dashboard Component with Reducer",
+                    "type": "video",
+                    "duration": 991,
+                    "url": "https://fast.wistia.com/embed/medias/26xq22nj7x.m3u8"
+                },
+                {
+                    "id": "66e91ea70189a452370cae96",
+                    "title": "Pure CSS Techniques - Creating Layout for Dashboard",
+                    "type": "video",
+                    "duration": 1149,
+                    "url": "https://fast.wistia.com/embed/medias/7b28nd14lx.m3u8"
+                },
+                {
+                    "id": "66e91eb9d6959c4e9e0223cb",
+                    "title": "Styling UI for Getting All Posts in The Dashboard",
+                    "type": "video",
+                    "duration": 1439,
+                    "url": "https://fast.wistia.com/embed/medias/pu3hft2z8b.m3u8"
+                },
+                {
+                    "id": "66e91ecb9ada02ec180fb2e3",
+                    "title": "Integrating the backend -  Getting and Posting  the posts",
+                    "type": "video",
+                    "duration": 1299,
+                    "url": "https://fast.wistia.com/embed/medias/x3jjc0zjxk.m3u8"
+                },
+                {
+                    "id": "66e91edaf5a51271360b6326",
+                    "title": "Creating the post feed functionality",
+                    "type": "video",
+                    "duration": 657,
+                    "url": "https://fast.wistia.com/embed/medias/5rmq28fs3r.m3u8"
+                },
+                {
+                    "id": "66e91ee7caba036d8f08fee8",
+                    "title": "Fetching posts from API and Showing it in a Card View",
+                    "type": "video",
+                    "duration": 1133,
+                    "url": "https://fast.wistia.com/embed/medias/1cn7r03d0y.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_4_linkedin_clone",
+            "title": "(4) Building a Social Media Platform (Linkedin - Part B)",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "66e91ef47b80a9ad7d02f9c5",
+                    "title": "Implementing Post Options - Share Functionality",
+                    "type": "video",
+                    "duration": 467,
+                    "url": "https://fast.wistia.com/embed/medias/divvvrga97.m3u8"
+                },
+                {
+                    "id": "66f536386449df77c9063e33",
+                    "title": "Implementing Post Options - Share Functionality - 2",
+                    "type": "video",
+                    "duration": 137,
+                    "url": "https://fast.wistia.com/embed/medias/wvpwh9ueps.m3u8"
+                },
+                {
+                    "id": "66e91f104e6ce3b8ac0cd687",
+                    "title": "Comment Functionality UI",
+                    "type": "video",
+                    "duration": 860,
+                    "url": "https://fast.wistia.com/embed/medias/uig35gkt9a.m3u8"
+                },
+                {
+                    "id": "66e91f1f565938c560050121",
+                    "title": "Implementing Comment Get and Post Functionality",
+                    "type": "video",
+                    "duration": 1257,
+                    "url": "https://fast.wistia.com/embed/medias/kgtj9756q2.m3u8"
+                },
+                {
+                    "id": "66e91f2e76f562c8910b3d78",
+                    "title": "Creating the Discover users functionality",
+                    "type": "video",
+                    "duration": 387,
+                    "url": "https://fast.wistia.com/embed/medias/5d9p3pgf6g.m3u8"
+                },
+                {
+                    "id": "66e91f677442905d3209b305",
+                    "title": "Navigating to a particular User Profile using SSR",
+                    "type": "video",
+                    "duration": 689,
+                    "url": "https://fast.wistia.com/embed/medias/1iunlokuxh.m3u8"
+                },
+                {
+                    "id": "66e91f76fd6cb646d803d925",
+                    "title": "Creating the User Profile page",
+                    "type": "video",
+                    "duration": 707,
+                    "url": "https://fast.wistia.com/embed/medias/6xctooio3i.m3u8"
+                },
+                {
+                    "id": "66f536a7041e11e2cd04c125",
+                    "title": "Creating the User Profile Page - 2",
+                    "type": "video",
+                    "duration": 451,
+                    "url": "https://fast.wistia.com/embed/medias/7zunifltyd.m3u8"
+                },
+                {
+                    "id": "66e91fa1ac26e4cffd0ae4cd",
+                    "title": "Creating the Connection Functionality - Sending Connection Request",
+                    "type": "video",
+                    "duration": 874,
+                    "url": "https://fast.wistia.com/embed/medias/zotl01i344.m3u8"
+                },
+                {
+                    "id": "66e91fb81a19794eab07b9f5",
+                    "title": "Implementing User Work History on Profile Page",
+                    "type": "video",
+                    "duration": 165,
+                    "url": "https://fast.wistia.com/embed/medias/w6pnfs49sw.m3u8"
+                },
+                {
+                    "id": "66e91fc8c08be6dab20be9f5",
+                    "title": "Creating resume download functionality",
+                    "type": "video",
+                    "duration": 485,
+                    "url": "https://fast.wistia.com/embed/medias/96dmwp5myv.m3u8"
+                },
+                {
+                    "id": "66e91fd788fac865dd0f74ff",
+                    "title": "Seeing My Connection Request and Accepting it",
+                    "type": "video",
+                    "duration": 1617,
+                    "url": "https://fast.wistia.com/embed/medias/g8xzy0p1zd.m3u8"
+                },
+                {
+                    "id": "66e91fe764dcb1a77a0b1da3",
+                    "title": "Creating the Profile page Skeleton",
+                    "type": "video",
+                    "duration": 1309,
+                    "url": "https://fast.wistia.com/embed/medias/2w1pipsin1.m3u8"
+                },
+                {
+                    "id": "66e91ff5defcb842950c9935",
+                    "title": "Profile Page Update Functionality",
+                    "type": "video",
+                    "duration": 1004,
+                    "url": "https://fast.wistia.com/embed/medias/aepmc5u6f3.m3u8"
+                },
+                {
+                    "id": "66e9200343e49e1f59048845",
+                    "title": "Adding the Add work Functionality with Modal",
+                    "type": "video",
+                    "duration": 734,
+                    "url": "https://fast.wistia.com/embed/medias/b0dhtpj22l.m3u8"
+                },
+                {
+                    "id": "66e9201d316fd175cf0e9ca7",
+                    "title": "Finishing the App with Responsiveness - Media Queries",
+                    "type": "video",
+                    "duration": 1266,
+                    "url": "https://fast.wistia.com/embed/medias/mvo2acow91.m3u8"
+                },
+                {
+                    "id": "66f5297352d08e1c7c015863",
+                    "title": "Deploying our LinkedIn Clone",
+                    "type": "video",
+                    "duration": 913,
+                    "url": "https://fast.wistia.com/embed/medias/oe86laocdy.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_5_chatgpt_clone_coming_soon",
+            "title": "(5) Building SigmaGPT with OpenAI APIs",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "68698ff4b9bb7348300a9df7",
+                    "title": "Project Overview",
+                    "type": "video",
+                    "duration": 391,
+                    "url": "https://fast.wistia.com/embed/medias/isca1yt9z7.m3u8"
+                },
+                {
+                    "id": "68698fffbf1b1443a30fdc75",
+                    "title": "Setup & Explore OpenAI APIs",
+                    "type": "video",
+                    "duration": 330,
+                    "url": "https://fast.wistia.com/embed/medias/4p1rvc5czy.m3u8"
+                },
+                {
+                    "id": "6869900abd9ef38d300e9fc6",
+                    "title": "Using OpenAI with npm",
+                    "type": "video",
+                    "duration": 408,
+                    "url": "https://fast.wistia.com/embed/medias/t6taj5akcg.m3u8"
+                },
+                {
+                    "id": "6869901a15fd00f65c0856d5",
+                    "title": "Using OpenAI with API endpoints",
+                    "type": "video",
+                    "duration": 779,
+                    "url": "https://fast.wistia.com/embed/medias/qgt4z8smuh.m3u8"
+                },
+                {
+                    "id": "686990205cd55ac7bb023d36",
+                    "title": "Creating Models",
+                    "type": "video",
+                    "duration": 660,
+                    "url": "https://fast.wistia.com/embed/medias/vhkil4cr3e.m3u8"
+                },
+                {
+                    "id": "68699028ac93811478011b29",
+                    "title": "Setting up Utils",
+                    "type": "video",
+                    "duration": 169,
+                    "url": "https://fast.wistia.com/embed/medias/av3y5q2qpr.m3u8"
+                },
+                {
+                    "id": "68699033507f74a8590ee3e5",
+                    "title": "Connecting with Database",
+                    "type": "video",
+                    "duration": 439,
+                    "url": "https://fast.wistia.com/embed/medias/lczfufqbcs.m3u8"
+                },
+                {
+                    "id": "68725ff616a4e14dbf04d565",
+                    "title": "Setup \"test\" Route",
+                    "type": "video",
+                    "duration": 307,
+                    "url": "https://fast.wistia.com/embed/medias/9kv8tbueoh.m3u8"
+                },
+                {
+                    "id": "686990397f1d79b1ff041ae6",
+                    "title": "Setup Routes",
+                    "type": "video",
+                    "duration": 602,
+                    "url": "https://fast.wistia.com/embed/medias/qs6xd47iie.m3u8"
+                },
+                {
+                    "id": "6869904d7c63838bae0dd7a5",
+                    "title": "Setup \"chat\" Route",
+                    "type": "video",
+                    "duration": 1076,
+                    "url": "https://fast.wistia.com/embed/medias/vqkbdg91q9.m3u8"
+                },
+                {
+                    "id": "6869907d58a59a60e2044246",
+                    "title": "Starting with Frontend: Frontend setup",
+                    "type": "video",
+                    "duration": 767,
+                    "url": "https://fast.wistia.com/embed/medias/tk2y4wktdp.m3u8"
+                },
+                {
+                    "id": "6869908c6c98c3438a098cc5",
+                    "title": "Building the Sidebar",
+                    "type": "video",
+                    "duration": 246,
+                    "url": "https://fast.wistia.com/embed/medias/7ybx5goa98.m3u8"
+                },
+                {
+                    "id": "686990934f2d315472092b65",
+                    "title": "Styling Sidebar",
+                    "type": "video",
+                    "duration": 650,
+                    "url": "https://fast.wistia.com/embed/medias/y2genzjx3b.m3u8"
+                },
+                {
+                    "id": "6869909a7f080c9c5f0146f5",
+                    "title": "Building ChatWindow",
+                    "type": "video",
+                    "duration": 277,
+                    "url": "https://fast.wistia.com/embed/medias/ow1q2vvx61.m3u8"
+                },
+                {
+                    "id": "686990a106c7607dd1011eb5",
+                    "title": "Styling ChatWindow",
+                    "type": "video",
+                    "duration": 642,
+                    "url": "https://fast.wistia.com/embed/medias/l3zfef340i.m3u8"
+                },
+                {
+                    "id": "686990b2f19e8a54c601bf65",
+                    "title": "Functionality: Get Reply for Prompt",
+                    "type": "video",
+                    "duration": 774,
+                    "url": "https://fast.wistia.com/embed/medias/lvpmxxnkov.m3u8"
+                },
+                {
+                    "id": "686990ba0b5bdf27dd0e18a3",
+                    "title": "Adding Loader",
+                    "type": "video",
+                    "duration": 189,
+                    "url": "https://fast.wistia.com/embed/medias/2cep1a3ra4.m3u8"
+                },
+                {
+                    "id": "686990c8c9b4908d980fc956",
+                    "title": "Display Chats",
+                    "type": "video",
+                    "duration": 1074,
+                    "url": "https://fast.wistia.com/embed/medias/n56tudgh7r.m3u8"
+                },
+                {
+                    "id": "686990d0eda11c4b550a4be3",
+                    "title": "Format GPT Reply",
+                    "type": "video",
+                    "duration": 431,
+                    "url": "https://fast.wistia.com/embed/medias/qbirat5qe2.m3u8"
+                },
+                {
+                    "id": "686990d83c8929b22f0d9ab5",
+                    "title": "Add Typing Effect",
+                    "type": "video",
+                    "duration": 624,
+                    "url": "https://fast.wistia.com/embed/medias/pwn7x0s3hz.m3u8"
+                },
+                {
+                    "id": "686990e3fe8900a12d0546c5",
+                    "title": "Display Thread History",
+                    "type": "video",
+                    "duration": 583,
+                    "url": "https://fast.wistia.com/embed/medias/nb8mjqscjf.m3u8"
+                },
+                {
+                    "id": "686990ed627d70c9170349ab",
+                    "title": "Configure New Chat",
+                    "type": "video",
+                    "duration": 258,
+                    "url": "https://fast.wistia.com/embed/medias/70jisotd7z.m3u8"
+                },
+                {
+                    "id": "686990fc35d749a9150f04e5",
+                    "title": "Display chats in Thread",
+                    "type": "video",
+                    "duration": 772,
+                    "url": "https://fast.wistia.com/embed/medias/08do6o21jq.m3u8"
+                },
+                {
+                    "id": "68699106fae0a76d370552e5",
+                    "title": "Delete a Thread",
+                    "type": "video",
+                    "duration": 513,
+                    "url": "https://fast.wistia.com/embed/medias/qeycy97axn.m3u8"
+                },
+                {
+                    "id": "686991b0f9eb1f547a0f2ce6",
+                    "title": "Implement Dropdown & extra feature ideas",
+                    "type": "video",
+                    "duration": 856,
+                    "url": "https://fast.wistia.com/embed/medias/dso2nirg8o.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_docker__complete_tutorial",
+            "title": "Docker - Complete Tutorial",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "67bf0f80b92d9755cc0d9f5a",
+                    "title": "Why do we need Docker?",
+                    "type": "video",
+                    "duration": 264,
+                    "url": "https://fast.wistia.com/embed/medias/7vpyqdz9dx.m3u8"
+                },
+                {
+                    "id": "67bf0f8e865fd01db3092c25",
+                    "title": "What is Docker? [Container & Image]",
+                    "type": "video",
+                    "duration": 381,
+                    "url": "https://fast.wistia.com/embed/medias/2jk7f421rh.m3u8"
+                },
+                {
+                    "id": "67e2b1a910a3ca1f9d0c0255",
+                    "title": "Docker Installation (Windows OS)",
+                    "type": "video",
+                    "duration": 139,
+                    "url": "https://fast.wistia.com/embed/medias/ci8kfs9umk.m3u8"
+                },
+                {
+                    "id": "67e2b1138a91b8357e0cb546",
+                    "title": "Docker Installation (Mac OS)",
+                    "type": "video",
+                    "duration": 71,
+                    "url": "https://fast.wistia.com/embed/medias/zrlvbzoynf.m3u8"
+                },
+                {
+                    "id": "67bf0f9cb4245db78f055496",
+                    "title": "Important Docker Commands",
+                    "type": "video",
+                    "duration": 621,
+                    "url": "https://fast.wistia.com/embed/medias/sam73qkgl0.m3u8"
+                },
+                {
+                    "id": "67bf0fa6ca1ff6a812018b77",
+                    "title": "Docker vs Virtual Machine",
+                    "type": "video",
+                    "duration": 210,
+                    "url": "https://fast.wistia.com/embed/medias/hv3ili22cg.m3u8"
+                },
+                {
+                    "id": "67bf0fafc79a9df25606ee87",
+                    "title": "Image vs Container",
+                    "type": "video",
+                    "duration": 123,
+                    "url": "https://fast.wistia.com/embed/medias/n84rlgoksg.m3u8"
+                },
+                {
+                    "id": "67bf0fb8c17807b1dc0efc06",
+                    "title": "More Docker Commands",
+                    "type": "video",
+                    "duration": 457,
+                    "url": "https://fast.wistia.com/embed/medias/tqoa46nihz.m3u8"
+                },
+                {
+                    "id": "67bf117a3ddd9c4d7e041593",
+                    "title": "Port Binding",
+                    "type": "video",
+                    "duration": 316,
+                    "url": "https://fast.wistia.com/embed/medias/icaugvwo2f.m3u8"
+                },
+                {
+                    "id": "67bf11805f0961f8090c24b7",
+                    "title": "Troubleshoot Commands",
+                    "type": "video",
+                    "duration": 210,
+                    "url": "https://fast.wistia.com/embed/medias/h51ql4s0vk.m3u8"
+                },
+                {
+                    "id": "67bf11b0f2713374e305fcf5",
+                    "title": "Use Case: Use Docker with Development",
+                    "type": "video",
+                    "duration": 322,
+                    "url": "https://fast.wistia.com/embed/medias/aqr89ba4qm.m3u8"
+                },
+                {
+                    "id": "67bf11b8852741c74405cee5",
+                    "title": "Docker Network",
+                    "type": "video",
+                    "duration": 105,
+                    "url": "https://fast.wistia.com/embed/medias/abadx9bwp2.m3u8"
+                },
+                {
+                    "id": "67bf11c4210a8b25190873f6",
+                    "title": "Set up mongo & mongo-express",
+                    "type": "video",
+                    "duration": 512,
+                    "url": "https://fast.wistia.com/embed/medias/39j7ryydeu.m3u8"
+                },
+                {
+                    "id": "67bf11d381d626ac000902e5",
+                    "title": "Connect DB with Node App",
+                    "type": "video",
+                    "duration": 289,
+                    "url": "https://fast.wistia.com/embed/medias/bc8803mm0x.m3u8"
+                },
+                {
+                    "id": "67bf11dac00bbf101100fc25",
+                    "title": "Docker Compose",
+                    "type": "video",
+                    "duration": 912,
+                    "url": "https://fast.wistia.com/embed/medias/526kgluon7.m3u8"
+                },
+                {
+                    "id": "67bf11ee6429b6b2c90eedb6",
+                    "title": "Use Case: Dockerizing our App",
+                    "type": "video",
+                    "duration": 379,
+                    "url": "https://fast.wistia.com/embed/medias/p1z0fawqvn.m3u8"
+                },
+                {
+                    "id": "67bf11f70830aa058b024056",
+                    "title": "Creating Dockerfile",
+                    "type": "video",
+                    "duration": 537,
+                    "url": "https://fast.wistia.com/embed/medias/imlk7l45fv.m3u8"
+                },
+                {
+                    "id": "67bf120104f53d903c0d9f87",
+                    "title": "Publish Image on DockerHub",
+                    "type": "video",
+                    "duration": 240,
+                    "url": "https://fast.wistia.com/embed/medias/6mcugh2no5.m3u8"
+                },
+                {
+                    "id": "67bf1226e88bb1c7e501d137",
+                    "title": "Docker Volumes",
+                    "type": "video",
+                    "duration": 475,
+                    "url": "https://fast.wistia.com/embed/medias/dqfszben55.m3u8"
+                },
+                {
+                    "id": "67bf123a62cf231dfb0da075",
+                    "title": "Volumes Commands",
+                    "type": "video",
+                    "duration": 377,
+                    "url": "https://fast.wistia.com/embed/medias/59v6ylm5cy.m3u8"
+                },
+                {
+                    "id": "67bf124803456d28f7028545",
+                    "title": "Revisiting Docker Network",
+                    "type": "video",
+                    "duration": 382,
+                    "url": "https://fast.wistia.com/embed/medias/0bza8iuux5.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_cicd_continuous_integrationcontinuous_delivery",
+            "title": "CI/CD - Complete Tutorial",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "6886d00a5db0b936dc0bee18",
+                    "title": "Continuous Integration & Continuous Delivery",
+                    "type": "video",
+                    "duration": 358,
+                    "url": "https://fast.wistia.com/embed/medias/8crt8w2gsy.m3u8"
+                },
+                {
+                    "id": "6886d0131048867051008f5a",
+                    "title": "CI/CD Pipeline",
+                    "type": "video",
+                    "duration": 202,
+                    "url": "https://fast.wistia.com/embed/medias/w4z9tfosq8.m3u8"
+                },
+                {
+                    "id": "6886d0198481857699005859",
+                    "title": "CI/CD Tools",
+                    "type": "video",
+                    "duration": 107,
+                    "url": "https://fast.wistia.com/embed/medias/esisqwfffu.m3u8"
+                },
+                {
+                    "id": "6886d022feb3db86b2099625",
+                    "title": "Working with Github Actions",
+                    "type": "video",
+                    "duration": 377,
+                    "url": "https://fast.wistia.com/embed/medias/pav80274ep.m3u8"
+                },
+                {
+                    "id": "6886d02a042bd6d14a023cc6",
+                    "title": ".yaml for Automation",
+                    "type": "video",
+                    "duration": 370,
+                    "url": "https://fast.wistia.com/embed/medias/2kg1uc2kp1.m3u8"
+                },
+                {
+                    "id": "6886d032812bab63df091c75",
+                    "title": "Set up JS project with Jest",
+                    "type": "video",
+                    "duration": 699,
+                    "url": "https://fast.wistia.com/embed/medias/airtvqz0nl.m3u8"
+                },
+                {
+                    "id": "6886d039b928d4f2610d7a35",
+                    "title": "Our first CI setup",
+                    "type": "video",
+                    "duration": 601,
+                    "url": "https://fast.wistia.com/embed/medias/o9qadxn0b9.m3u8"
+                },
+                {
+                    "id": "6886d0407b41a58d81087cb5",
+                    "title": "CI/CD for MERN Project",
+                    "type": "video",
+                    "duration": 275,
+                    "url": "https://fast.wistia.com/embed/medias/zflmrxx4y1.m3u8"
+                },
+                {
+                    "id": "6886d047deb95b665f0c8126",
+                    "title": "Set up AWS EC2",
+                    "type": "video",
+                    "duration": 552,
+                    "url": "https://fast.wistia.com/embed/medias/6pmr00jpa5.m3u8"
+                },
+                {
+                    "id": "6886d056c4230b87bc0464e6",
+                    "title": "CI/CD for Backend Module",
+                    "type": "video",
+                    "duration": 942,
+                    "url": "https://fast.wistia.com/embed/medias/91wyv3zh0x.m3u8"
+                },
+                {
+                    "id": "6886d05d5e3846260404c9e3",
+                    "title": "Automate .env backup",
+                    "type": "video",
+                    "duration": 439,
+                    "url": "https://fast.wistia.com/embed/medias/503f3z0dun.m3u8"
+                },
+                {
+                    "id": "6886d0658577270465047075",
+                    "title": "CI/CD for Frontend Module",
+                    "type": "video",
+                    "duration": 1277,
+                    "url": "https://fast.wistia.com/embed/medias/tbrd2mf9qj.m3u8"
+                },
+                {
+                    "id": "6886d06f73496918840d3a25",
+                    "title": "Workflow Summary",
+                    "type": "video",
+                    "duration": 316,
+                    "url": "https://fast.wistia.com/embed/medias/rsuknoi6zi.m3u8"
+                }
+            ]
+        },
+        {
+            "id": "delta_kubernetes",
+            "title": "Kubernetes",
+            "isAvailable": true,
+            "lessons": [
+                {
+                    "id": "68c3e2c802914e588500e0f5",
+                    "title": "What is Kubernetes?",
+                    "type": "video",
+                    "duration": 518,
+                    "url": "https://fast.wistia.com/embed/medias/3mp70ohtzg.m3u8"
+                },
+                {
+                    "id": "68c3e2d9dd92d4b5cb0303a6",
+                    "title": "Components - Node & Pod",
+                    "type": "video",
+                    "duration": 288,
+                    "url": "https://fast.wistia.com/embed/medias/z631i4u1wf.m3u8"
+                },
+                {
+                    "id": "68c3e2dfefe54c8242082705",
+                    "title": "Service & Ingress",
+                    "type": "video",
+                    "duration": 256,
+                    "url": "https://fast.wistia.com/embed/medias/nwosss0ctg.m3u8"
+                },
+                {
+                    "id": "68c3e2e64f4a79770a056ac3",
+                    "title": "ConfigMap & Secret",
+                    "type": "video",
+                    "duration": 204,
+                    "url": "https://fast.wistia.com/embed/medias/1vec5rx518.m3u8"
+                },
+                {
+                    "id": "68c3e2ec67d2fc280e00b385",
+                    "title": "Volumes",
+                    "type": "video",
+                    "duration": 89,
+                    "url": "https://fast.wistia.com/embed/medias/n94jnm15z2.m3u8"
+                },
+                {
+                    "id": "68c3e2f2cf2bb8bc380e8d45",
+                    "title": "Deployment & StatefulSet",
+                    "type": "video",
+                    "duration": 354,
+                    "url": "https://fast.wistia.com/embed/medias/lv2a64o6ay.m3u8"
+                },
+                {
+                    "id": "68c3ea535a0dd43fe70b4365",
+                    "title": "Kubernetes Architecture",
+                    "type": "video",
+                    "duration": 753,
+                    "url": "https://fast.wistia.com/embed/medias/6t3v2v7yr8.m3u8"
+                },
+                {
+                    "id": "68c3ea5b195790ee3b0f2315",
+                    "title": "Summary",
+                    "type": "video",
+                    "duration": 157,
+                    "url": "https://fast.wistia.com/embed/medias/godcaqbpng.m3u8"
+                },
+                {
+                    "id": "68c3ea602ecc738ea30ef5c5",
+                    "title": "Local Setup - Minikube & Kubectl",
+                    "type": "video",
+                    "duration": 323,
+                    "url": "https://fast.wistia.com/embed/medias/z7axsskqcp.m3u8"
+                },
+                {
+                    "id": "68c3ea666dcbe169de0e8ab9",
+                    "title": "Installation",
+                    "type": "video",
+                    "duration": 87,
+                    "url": "https://fast.wistia.com/embed/medias/e6s5jtnt7k.m3u8"
+                },
+                {
+                    "id": "68cea4c11a7b0be613005247",
+                    "title": "Kubectl Commands [GET]",
+                    "type": "video",
+                    "duration": 336,
+                    "url": "https://fast.wistia.com/embed/medias/fft61hqxow.m3u8"
+                },
+                {
+                    "id": "68cea4c64068b25ad50eaa58",
+                    "title": "CREATE Command",
+                    "type": "video",
+                    "duration": 701,
+                    "url": "https://fast.wistia.com/embed/medias/qrxlnkafc8.m3u8"
+                },
+                {
+                    "id": "68cea4cc397b15a7dd03f395",
+                    "title": "Debugging Commands [LOGS & EXEC]",
+                    "type": "video",
+                    "duration": 566,
+                    "url": "https://fast.wistia.com/embed/medias/ehmihzztge.m3u8"
+                },
+                {
+                    "id": "68cea4d26ab19826aa09b267",
+                    "title": "APPLY Command",
+                    "type": "video",
+                    "duration": 278,
+                    "url": "https://fast.wistia.com/embed/medias/qk0y7ag0ar.m3u8"
+                },
+                {
+                    "id": "68cea4d9a7ec1d94d401e246",
+                    "title": "YAML Configurations",
+                    "type": "video",
+                    "duration": 1124,
+                    "url": "https://fast.wistia.com/embed/medias/ilv1peo7kb.m3u8"
+                },
+                {
+                    "id": "68cea4df9c440be2a90f6120",
+                    "title": "Status in Configuration",
+                    "type": "video",
+                    "duration": 175,
+                    "url": "https://fast.wistia.com/embed/medias/09g07byfcz.m3u8"
+                },
+                {
+                    "id": "68cea4e494631ac64b081f95",
+                    "title": "Deploying mongo-app in K8s",
+                    "type": "video",
+                    "duration": 414,
+                    "url": "https://fast.wistia.com/embed/medias/5n02a9q5ro.m3u8"
+                },
+                {
+                    "id": "68cea4eaa14d608a310b2c73",
+                    "title": "Configuring Mongodb",
+                    "type": "video",
+                    "duration": 900,
+                    "url": "https://fast.wistia.com/embed/medias/xtggxovf3w.m3u8"
+                },
+                {
+                    "id": "68cea4f0b2fb687dca095b93",
+                    "title": "Configuring Mongo Express",
+                    "type": "video",
+                    "duration": 792,
+                    "url": "https://fast.wistia.com/embed/medias/eor2s75hmg.m3u8"
+                },
+                {
+                    "id": "68ceba7b928b93ddce09d856",
+                    "title": "Namespace in K8s",
+                    "type": "video",
+                    "duration": 354,
+                    "url": "https://fast.wistia.com/embed/medias/wzsw7szp05.m3u8"
+                },
+                {
+                    "id": "68ceba831f344a0d0902e096",
+                    "title": "Namespace Use cases",
+                    "type": "video",
+                    "duration": 382,
+                    "url": "https://fast.wistia.com/embed/medias/yfkjvoxuvw.m3u8"
+                },
+                {
+                    "id": "68ceba8a928b93ddce09d858",
+                    "title": "Custom Namespaces",
+                    "type": "video",
+                    "duration": 246,
+                    "url": "https://fast.wistia.com/embed/medias/vbwb6jzsnw.m3u8"
+                },
+                {
+                    "id": "68ceba942f607c9afd04fb65",
+                    "title": "Scope",
+                    "type": "video",
+                    "duration": 205,
+                    "url": "https://fast.wistia.com/embed/medias/4isqcadhys.m3u8"
+                },
+                {
+                    "id": "68ceba97f451018f7e03afe7",
+                    "title": "Kubens Installation",
+                    "type": "video",
+                    "duration": 132,
+                    "url": "https://fast.wistia.com/embed/medias/stk2l4ehbs.m3u8"
+                },
+                {
+                    "id": "68ceba9dfdcd71d916038e6a",
+                    "title": "Ingress in K8s",
+                    "type": "video",
+                    "duration": 324,
+                    "url": "https://fast.wistia.com/embed/medias/c2flkbv4ec.m3u8"
+                },
+                {
+                    "id": "68cebaa3a0ea9c3ac206e7a3",
+                    "title": "Ingress Controller",
+                    "type": "video",
+                    "duration": 198,
+                    "url": "https://fast.wistia.com/embed/medias/p5ny8kj7bk.m3u8"
+                },
+                {
+                    "id": "68cebaaa7c311b72e301b597",
+                    "title": "Configure app with Ingress",
+                    "type": "video",
+                    "duration": 803,
+                    "url": "https://fast.wistia.com/embed/medias/nzpgn263ao.m3u8"
+                },
+                {
+                    "id": "68cebab11d3ed0936d0dad46",
+                    "title": "Helm - Package Manager",
+                    "type": "video",
+                    "duration": 565,
+                    "url": "https://fast.wistia.com/embed/medias/hvlkjssuvv.m3u8"
+                },
+                {
+                    "id": "68cebab76580337f6f0de33e",
+                    "title": "Helm chart structure",
+                    "type": "video",
+                    "duration": 359,
+                    "url": "https://fast.wistia.com/embed/medias/tzfb8qi3df.m3u8"
+                }
+            ]
+        }
+    ]
+}

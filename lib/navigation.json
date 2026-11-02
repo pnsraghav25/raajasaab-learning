@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "id": "alpha",
+      "title": "Alpha",
+      "description": "DSA only",
+      "items": [
+        "alpha-batch-3"
+      ]
+    },
+    {
+      "id": "delta",
+      "title": "Delta",
+      "description": "Web Development only",
+      "items": [
+        "delta-7",
+        "delta-6",
+        "delta-5",
+        "delta-feb-24"
+      ]
+    },
+    {
+      "id": "alpha-plus",
+      "title": "Alpha Plus",
+      "description": "DSA + Aptitude",
+      "items": [
+        "alpha-plus-6",
+        "alpha-plus-5-cpp"
+      ]
+    },
+    {
+      "id": "sigma",
+      "title": "Sigma",
+      "description": "DSA + Web Development + Aptitude",
+      "items": [
+        "sigma-10",
+        "sigma-9",
+        "sigma-8",
+        "sigma-7",
+        "sigma-6",
+        "sigma-5",
+        "sigma-4",
+        "delta-library",
+        "sigma-3",
+        "sigma-batch-development",
+        "sigma-feb24"
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "description": "AI/ML only",
+      "items": [
+        "prime-ai"
+      ]
+    },
+    {
+      "id": "sigma-prime",
+      "title": "Sigma Prime",
+      "description": "DSA + Web Development + Aptitude + AI/ML",
+      "items": []
+    },
+    {
+      "id": "aptitude",
+      "title": "Aptitude",
+      "description": "Aptitude preparation only",
+      "items": [
+        "aptitude-teacher2",
+        "aptitude-qs-library"
+      ]
+    },
+    {
+      "id": "others",
+      "title": "Others",
+      "description": "Libraries and more",
+      "items": [
+        "delta-library",
+        "plus-library"
+      ]
+    }
+  ],
+  "batches": {
+    "delta-7": [
+      "delta-7",
+      "delta-library"
+    ],
+    "delta-6": [
+      "delta-6-live-recordings",
+      "delta-6",
+      "delta-library"
+    ],
+    "delta-5": [
+      "delta-5",
+      "delta-library"
+    ],
+    "delta-feb-24": [
+      "delta-library",
+      "delta-feb-24"
+    ],
+    "alpha-plus-6": [
+      "alpha-plus-6",
+      "aptitude-teacher2",
+      "aptitude-qs-library"
+    ],
+    "alpha-plus-5-cpp": [
+      "alpha-plus-5-cpp",
+      "alpha-plus-5",
+      "aptitude-teacher2",
+      "aptitude-qs-library"
+    ],
+    "sigma-10": [
+      "sigma-10",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-9": [
+      "sigma-9-dev",
+      "sigma-9-live-recordings",
+      "sigma-9-cpp",
+      "sigma-9",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-8": [
+      "sigma-8-live-recordings",
+      "sigma-8-cpp-dsa",
+      "sigma-8-java-dsa",
+      "sigma-8",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-7": [
+      "sigma-7-dev",
+      "sigma-7-cpp",
+      "sigma-7-live-recordings",
+      "sigma-7",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-6": [
+      "sigma-6-dsa",
+      "sigma-6-live-recordings",
+      "sigma-6",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-5": [
+      "sigma-5-dev",
+      "sigma-5",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-4": [
+      "sigma-4-dsa",
+      "sigma-4",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-3": [
+      "sigma-3-development",
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library",
+      "sigma-3"
+    ],
+    "delta-library": [
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library"
+    ],
+    "sigma-batch-development": [
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library",
+      "sigma-batch-development",
+      "alpha-plus-combo-1"
+    ],
+    "sigma-feb24": [
+      "aptitude-teacher2",
+      "aptitude-qs-library",
+      "delta-library",
+      "cpp-dsa",
+      "sigma-feb24"
+    ]
+  },
+  "titles": {
+    "alpha-batch-3": "Alpha Batch 3.0",
+    "prime-ai": "Prime: AI/ML Batch",
+    "aptitude-teacher2": "Aptitude Preparation (Hinglish)",
+    "aptitude-qs-library": "Aptitude Preparation (English)",
+    "delta-library": "DevHub Library",
+    "plus-library": "Plus Library",
+    "delta-feb-24": "Delta Feb\u201924",
+    "sigma-feb24": "Sigma Feb\u201924 (Development)",
+    "sigma-batch-development": "Sigma Batch (Development)",
+    "alpha-plus-combo-1": "Sigma Batch (DSA)",
+    "cpp-dsa": "C++ DSA",
+    "alpha-plus-5-cpp": "Alpha Plus Batch 5.0 (C++)",
+    "alpha-plus-5": "Alpha Plus Batch 5.0",
+    "alpha-plus-6": "Alpha Plus Batch 6.0",
+    "sigma-3": "Sigma 3.0",
+    "sigma-4": "Sigma 4.0",
+    "sigma-5": "Sigma 5.0",
+    "sigma-6": "Sigma 6.0",
+    "sigma-7": "Sigma 7.0",
+    "sigma-8": "Sigma 8.0",
+    "sigma-9": "Sigma 9.0",
+    "sigma-10": "Sigma 10",
+    "delta-5": "Delta 5.0",
+    "delta-6": "Delta 6.0",
+    "delta-7": "Delta 7.0",
+    "delta-6-live-recordings": "Delta 6.0 (Live Session Recordings)",
+    "sigma-9-dev": "Sigma 9.0 (Web Development)",
+    "sigma-9-live-recordings": "Sigma 9.0 (Live Session Recordings)",
+    "sigma-9-cpp": "Sigma 9.0 (C++ DSA)",
+    "sigma-8-live-recordings": "Sigma 8.0 (Live Session Recordings)",
+    "sigma-8-cpp-dsa": "Sigma 8.0 (DSA with C++)",
+    "sigma-8-java-dsa": "Sigma 8.0 (DSA with Java)",
+    "sigma-7-dev": "Sigma 7.0 (Web Development)",
+    "sigma-7-cpp": "Sigma 7.0 (C++ DSA)",
+    "sigma-7-live-recordings": "Sigma 7.0 (Live Session Recordings)",
+    "sigma-6-dsa": "Sigma 6.0 (DSA)",
+    "sigma-6-live-recordings": "Sigma 6.0 (Live Session Recordings)",
+    "sigma-5-dev": "Sigma 5.0 (Web Development)",
+    "sigma-4-dsa": "Sigma 4.0 (DSA)",
+    "sigma-3-development": "Sigma 3.0 (Development)"
+  }
+}

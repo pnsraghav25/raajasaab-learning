@@ -1,0 +1,1127 @@
+{
+  "id": "plus-library",
+  "title": "Plus Library",
+  "description": "This Library is a collection of Previous Year Questions asked by companies like Google, Microsoft, Amazon, Atlassian &amp; many more. ",
+  "sections": [
+    {
+      "id": "plus-_amazon",
+      "title": "Amazon [Easy]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656c6fdb09d7fc71f302cd25",
+          "title": "Remove Duplicates from Sorted Array",
+          "type": "video",
+          "duration": 1113,
+          "url": "https://fast.wistia.com/embed/medias/sz83lzg6nl.m3u8"
+        },
+        {
+          "id": "656c704638347093660f5de8",
+          "title": "Merge Sorted Array",
+          "type": "video",
+          "duration": 1396,
+          "url": "https://fast.wistia.com/embed/medias/i5a4ve33k0.m3u8"
+        },
+        {
+          "id": "656c70588eda7d9419078933",
+          "title": "Pascal's Triangle",
+          "type": "video",
+          "duration": 962,
+          "url": "https://fast.wistia.com/embed/medias/sa4a9luq2j.m3u8"
+        },
+        {
+          "id": "656c707589e35cf3910784a5",
+          "title": "Missing Number",
+          "type": "video",
+          "duration": 603,
+          "url": "https://fast.wistia.com/embed/medias/ovf8exipjg.m3u8"
+        },
+        {
+          "id": "656c7542910a442b4f035305",
+          "title": "Merge Two Sorted Lists",
+          "type": "video",
+          "duration": 1293,
+          "url": "https://fast.wistia.com/embed/medias/pko3a3e6z9.m3u8"
+        },
+        {
+          "id": "656c75550039cfc50d0ed876",
+          "title": "Intersection of Two Linked Lists",
+          "type": "video",
+          "duration": 894,
+          "url": "https://fast.wistia.com/embed/medias/tor9bzna9s.m3u8"
+        },
+        {
+          "id": "656c756b48581d520a0db0c6",
+          "title": "Palindromic Linked List",
+          "type": "video",
+          "duration": 1210,
+          "url": "https://fast.wistia.com/embed/medias/xl61fn3jw5.m3u8"
+        },
+        {
+          "id": "656c757e96ae902cd40307c5",
+          "title": "Last Stone Weight",
+          "type": "video",
+          "duration": 1018,
+          "url": "https://fast.wistia.com/embed/medias/thpkxivhhh.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_amazon_medium",
+      "title": "Amazon [Medium]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656c75bdbd2426f4f802ee23",
+          "title": "Partition List",
+          "type": "video",
+          "duration": 609,
+          "url": "https://fast.wistia.com/embed/medias/kr924ixc2z.m3u8"
+        },
+        {
+          "id": "656c75d05b57a64b4c093465",
+          "title": "Sum of Subarray Ranges",
+          "type": "video",
+          "duration": 697,
+          "url": "https://fast.wistia.com/embed/medias/e0y84q767z.m3u8"
+        },
+        {
+          "id": "656c75e1b937c7f293074a75",
+          "title": "Car Pooling",
+          "type": "video",
+          "duration": 855,
+          "url": "https://fast.wistia.com/embed/medias/df7zxn3liz.m3u8"
+        },
+        {
+          "id": "656c75f303037bea430abb15",
+          "title": "Find K Closest Elements",
+          "type": "video",
+          "duration": 861,
+          "url": "https://fast.wistia.com/embed/medias/ixadlbevui.m3u8"
+        },
+        {
+          "id": "656c7601a1f32894740bc5f5",
+          "title": "Kth Largest Element in an Array",
+          "type": "video",
+          "duration": 596,
+          "url": "https://fast.wistia.com/embed/medias/quweqyv8f8.m3u8"
+        },
+        {
+          "id": "656c76152cc39c6b010a4895",
+          "title": "Meeting Rooms II",
+          "type": "video",
+          "duration": 761,
+          "url": "https://fast.wistia.com/embed/medias/3ahjjzu1na.m3u8"
+        },
+        {
+          "id": "656c762d1909284555064266",
+          "title": "Group Anagram",
+          "type": "video",
+          "duration": 1053,
+          "url": "https://fast.wistia.com/embed/medias/9dxyb1ttg8.m3u8"
+        },
+        {
+          "id": "656c7649e6ac3c58e200ba05",
+          "title": "All Nodes Distance K from Binary Tree",
+          "type": "video",
+          "duration": 962,
+          "url": "https://fast.wistia.com/embed/medias/683wmgm0g1.m3u8"
+        },
+        {
+          "id": "656c766dac67bc6bc20efa55",
+          "title": "Flatten Binary Tree to Linked List",
+          "type": "video",
+          "duration": 730,
+          "url": "https://fast.wistia.com/embed/medias/l06o9rb7ab.m3u8"
+        },
+        {
+          "id": "656c768f342d51e3d4055637",
+          "title": "Minimum No. of Swaps",
+          "type": "video",
+          "duration": 817,
+          "url": "https://fast.wistia.com/embed/medias/cw9knhss6u.m3u8"
+        },
+        {
+          "id": "656c76bca717739e4b0e80c5",
+          "title": "Rotting Oranges",
+          "type": "video",
+          "duration": 1231,
+          "url": "https://fast.wistia.com/embed/medias/bxhmppzmyl.m3u8"
+        },
+        {
+          "id": "656c76d97be873515604c747",
+          "title": "Number of Islands",
+          "type": "video",
+          "duration": 929,
+          "url": "https://fast.wistia.com/embed/medias/qq80i65jfg.m3u8"
+        },
+        {
+          "id": "656c76fe9dd6b884d7093383",
+          "title": "Course Schedule",
+          "type": "video",
+          "duration": 933,
+          "url": "https://fast.wistia.com/embed/medias/9wdvi4ze8v.m3u8"
+        },
+        {
+          "id": "656c7711f939158e4f037fd5",
+          "title": "Longest Palindromic Substring",
+          "type": "video",
+          "duration": 970,
+          "url": "https://fast.wistia.com/embed/medias/8fmte9oxy8.m3u8"
+        },
+        {
+          "id": "656c772c45f363067a06eb65",
+          "title": "Find Good Days to Rob the Bank",
+          "type": "video",
+          "duration": 1037,
+          "url": "https://fast.wistia.com/embed/medias/yjhs4thv1j.m3u8"
+        },
+        {
+          "id": "656c77437806e57d2801d6c5",
+          "title": "Jump Game",
+          "type": "video",
+          "duration": 894,
+          "url": "https://fast.wistia.com/embed/medias/o666dyg6wr.m3u8"
+        },
+        {
+          "id": "656c7753aee81e6db00ff035",
+          "title": "Unique Paths",
+          "type": "video",
+          "duration": 989,
+          "url": "https://fast.wistia.com/embed/medias/mgd2104ah4.m3u8"
+        },
+        {
+          "id": "656c77692555c9c12d0d96f3",
+          "title": "LRU Cache",
+          "type": "video",
+          "duration": 1539,
+          "url": "https://fast.wistia.com/embed/medias/zbemah3zgy.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_amazon_hard",
+      "title": "Amazon [Hard]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656c77db266c1e487b0aa875",
+          "title": "Kth Smallest Pair Distance",
+          "type": "video",
+          "duration": 869,
+          "url": "https://fast.wistia.com/embed/medias/eb6lyl2vey.m3u8"
+        },
+        {
+          "id": "656c77fba2917cafb2019e75",
+          "title": "Median of Two Sorted Arrays",
+          "type": "video",
+          "duration": 1355,
+          "url": "https://fast.wistia.com/embed/medias/0h7ql53fim.m3u8"
+        },
+        {
+          "id": "656c780e1d0fa904c700d9c5",
+          "title": "Merge K Sorted Lists",
+          "type": "video",
+          "duration": 1116,
+          "url": "https://fast.wistia.com/embed/medias/zsbgp7jtrz.m3u8"
+        },
+        {
+          "id": "656c78267f3aeab7f807cf85",
+          "title": "Find Median from Data Stream",
+          "type": "video",
+          "duration": 705,
+          "url": "https://fast.wistia.com/embed/medias/8mle4z25hs.m3u8"
+        },
+        {
+          "id": "656c783dcc381afe6a075256",
+          "title": "Race Car",
+          "type": "video",
+          "duration": 823,
+          "url": "https://fast.wistia.com/embed/medias/zyr13yz0l7.m3u8"
+        },
+        {
+          "id": "656c78546d5520ebd30b99f5",
+          "title": "Longest Valid Parantheses",
+          "type": "video",
+          "duration": 700,
+          "url": "https://fast.wistia.com/embed/medias/3g4zcyhtqn.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_microsoft__coming_soon",
+      "title": "Microsoft(Easy)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656ecd79814447443b0b9ca5",
+          "title": "Sign of the product of an array",
+          "type": "video",
+          "duration": 303,
+          "url": "https://fast.wistia.com/embed/medias/7tgiyvuety.m3u8"
+        },
+        {
+          "id": "656ecd8ba4bcb8aa6f0863e5",
+          "title": "Palindrome Number",
+          "type": "video",
+          "duration": 550,
+          "url": "https://fast.wistia.com/embed/medias/tjbat0axm2.m3u8"
+        },
+        {
+          "id": "656ece8b8d82c7226e05bf65",
+          "title": "Valid Palindrome",
+          "type": "video",
+          "duration": 700,
+          "url": "https://fast.wistia.com/embed/medias/6aoivvtr98.m3u8"
+        },
+        {
+          "id": "656eced62bf375c9730cb9a3",
+          "title": "Defanged IP Address",
+          "type": "video",
+          "duration": 366,
+          "url": "https://fast.wistia.com/embed/medias/pwdhphn9px.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_microsoft__656f2bc33d612",
+      "title": "Microsoft(Medium)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656f2bc37d024b839e03080b",
+          "title": "Number of Substrings with 1s",
+          "type": "video",
+          "duration": 701,
+          "url": "https://fast.wistia.com/embed/medias/ebic4pgqyk.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e03080c",
+          "title": "Next permutation",
+          "type": "video",
+          "duration": 1072,
+          "url": "https://fast.wistia.com/embed/medias/23021xymak.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e03080d",
+          "title": "Linked List Cycle",
+          "type": "video",
+          "duration": 510,
+          "url": "https://fast.wistia.com/embed/medias/acfvrgw2w5.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e03080e",
+          "title": "Number of 1 bits",
+          "type": "video",
+          "duration": 464,
+          "url": "https://fast.wistia.com/embed/medias/v6qzc50qhj.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e03080f",
+          "title": "Reverse a Linked List",
+          "type": "video",
+          "duration": 1026,
+          "url": "https://fast.wistia.com/embed/medias/oujqjiyggm.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030810",
+          "title": "Generate Parentheses",
+          "type": "video",
+          "duration": 1113,
+          "url": "https://fast.wistia.com/embed/medias/swh2lvl5je.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030811",
+          "title": "Delete a node Explanation",
+          "type": "video",
+          "duration": 497,
+          "url": "https://fast.wistia.com/embed/medias/45m7n773hw.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030812",
+          "title": "Longest Substring",
+          "type": "video",
+          "duration": 688,
+          "url": "https://fast.wistia.com/embed/medias/nmtydn66jv.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030813",
+          "title": "4 Sum",
+          "type": "video",
+          "duration": 1125,
+          "url": "https://fast.wistia.com/embed/medias/v4j50wotuk.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030814",
+          "title": "Valid Stack Sequence Explanation",
+          "type": "video",
+          "duration": 548,
+          "url": "https://fast.wistia.com/embed/medias/d6jmv0giqp.m3u8"
+        },
+        {
+          "id": "656f2bc37d024b839e030815",
+          "title": "Reorganize Strings",
+          "type": "video",
+          "duration": 1249,
+          "url": "https://fast.wistia.com/embed/medias/oxkwg9e1nc.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_microsoft__656f2c91484d3",
+      "title": "Microsoft(Hard)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656f2c91c31d15a52a015434",
+          "title": "Longest Increasing Subsequence",
+          "type": "video",
+          "duration": 787,
+          "url": "https://fast.wistia.com/embed/medias/gxo5le01kz.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_google__656f2bb3a91b3",
+      "title": "Google(Easy)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656f2bb3baea3758cb01b15b",
+          "title": "Kth row of Pascal's triangle",
+          "type": "video",
+          "duration": 595,
+          "url": "https://fast.wistia.com/embed/medias/u4n3nlnjcm.m3u8"
+        },
+        {
+          "id": "656f2bb3baea3758cb01b15d",
+          "title": "Invert Binary Tree",
+          "type": "video",
+          "duration": 657,
+          "url": "https://fast.wistia.com/embed/medias/gb26hhlvkd.m3u8"
+        },
+        {
+          "id": "656f2bb3baea3758cb01b160",
+          "title": "Longest Common Prefix",
+          "type": "video",
+          "duration": 558,
+          "url": "https://fast.wistia.com/embed/medias/ghd7dy75ba.m3u8"
+        },
+        {
+          "id": "656f2bb3baea3758cb01b162",
+          "title": "Greatest Common Divisor of Strings",
+          "type": "video",
+          "duration": 610,
+          "url": "https://fast.wistia.com/embed/medias/k1rwzpuose.m3u8"
+        },
+        {
+          "id": "65702f8ee9d8632154075285",
+          "title": "Climbing stairs",
+          "type": "video",
+          "duration": 354,
+          "url": "https://fast.wistia.com/embed/medias/ga3c1squ0q.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_google__656f2deee0728",
+      "title": "Google(Medium)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656f2dee618ea9bd3902e8d7",
+          "title": "Palindrome Partitioning",
+          "type": "video",
+          "duration": 1431,
+          "url": "https://fast.wistia.com/embed/medias/rp63lafil5.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8d8",
+          "title": "Rotate image-matrix",
+          "type": "video",
+          "duration": 451,
+          "url": "https://fast.wistia.com/embed/medias/9xfh8q07ld.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8d9",
+          "title": "Merge Intervals",
+          "type": "video",
+          "duration": 772,
+          "url": "https://fast.wistia.com/embed/medias/cwv3ohn5n8.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8da",
+          "title": "Word Search",
+          "type": "video",
+          "duration": 832,
+          "url": "https://fast.wistia.com/embed/medias/5c5d49dqj0.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8dc",
+          "title": "Permutations",
+          "type": "video",
+          "duration": 947,
+          "url": "https://fast.wistia.com/embed/medias/4w1w90jpe1.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8de",
+          "title": "Sum Root to Leaf Numbers",
+          "type": "video",
+          "duration": 697,
+          "url": "https://fast.wistia.com/embed/medias/21n47m2c9t.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8df",
+          "title": "Clone graph",
+          "type": "video",
+          "duration": 837,
+          "url": "https://fast.wistia.com/embed/medias/uvixrhy847.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8e1",
+          "title": "Sort list",
+          "type": "video",
+          "duration": 1059,
+          "url": "https://fast.wistia.com/embed/medias/bbp8dktmko.m3u8"
+        },
+        {
+          "id": "656f2dee618ea9bd3902e8e3",
+          "title": "Longest Consecutive Sequence",
+          "type": "video",
+          "duration": 558,
+          "url": "https://fast.wistia.com/embed/medias/ghd7dy75ba.m3u8"
+        },
+        {
+          "id": "65702d0a0715027f2b0a58f5",
+          "title": "Longest Increasing Path in a Matrix",
+          "type": "video",
+          "duration": 753,
+          "url": "https://fast.wistia.com/embed/medias/uznvndeh8s.m3u8"
+        },
+        {
+          "id": "65702fae10df62f31309e565",
+          "title": "String To Integer",
+          "type": "video",
+          "duration": 526,
+          "url": "https://fast.wistia.com/embed/medias/uw2na6ph1f.m3u8"
+        },
+        {
+          "id": "65702fc50883bd1fe20d8825",
+          "title": "Kth smallest element in a BST",
+          "type": "video",
+          "duration": 329,
+          "url": "https://fast.wistia.com/embed/medias/0l14epd4vz.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_google__coming_soon",
+      "title": "Google(Hard)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656ed7a26fb00091c50ce9e5",
+          "title": "Largest  Rectangle in Histogram",
+          "type": "video",
+          "duration": 812,
+          "url": "https://fast.wistia.com/embed/medias/u7gun1h5ju.m3u8"
+        },
+        {
+          "id": "656ed7b77da32838450164e8",
+          "title": "Maximal Rectangle",
+          "type": "video",
+          "duration": 433,
+          "url": "https://fast.wistia.com/embed/medias/h7hng6gip0.m3u8"
+        },
+        {
+          "id": "656ed80351d563d38102b945",
+          "title": "Find the Shortest Superstring",
+          "type": "video",
+          "duration": 931,
+          "url": "https://fast.wistia.com/embed/medias/lxlyv67xnq.m3u8"
+        },
+        {
+          "id": "656ed88cf8100d91e20f1bc5",
+          "title": "Wildcard matching",
+          "type": "video",
+          "duration": 1001,
+          "url": "https://fast.wistia.com/embed/medias/kqpl0yu3r7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_atlassian__coming_soon",
+      "title": "Atlassian (Easy)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656ee30f554b3ea1880eda16",
+          "title": "Logger Rate Limiter",
+          "type": "video",
+          "duration": 987,
+          "url": "https://fast.wistia.com/embed/medias/d90snw9k7n.m3u8"
+        },
+        {
+          "id": "656ee31ec66beb24d9031093",
+          "title": "Single Number",
+          "type": "video",
+          "duration": 1083,
+          "url": "https://fast.wistia.com/embed/medias/8jc4pft11f.m3u8"
+        },
+        {
+          "id": "656ee32fadb61015aa0dec45",
+          "title": "Arranging Coins",
+          "type": "video",
+          "duration": 1183,
+          "url": "https://fast.wistia.com/embed/medias/dw1axep7gj.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_atlassian__657027332edff",
+      "title": "Atlassian(Medium)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "65702733f12bb05fab0fa798",
+          "title": "Finding the Users Active Minutes",
+          "type": "video",
+          "duration": 1083,
+          "url": "https://fast.wistia.com/embed/medias/d99kvkpux5.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa799",
+          "title": "Design a Stack With Increment Operation",
+          "type": "video",
+          "duration": 1007,
+          "url": "https://fast.wistia.com/embed/medias/jzrdazjze7.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79a",
+          "title": "Design hit counter",
+          "type": "video",
+          "duration": 1396,
+          "url": "https://fast.wistia.com/embed/medias/o93evhbtfz.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79b",
+          "title": "Find the City with the Smallest Number of Neighbors at a Threshold Distance",
+          "type": "video",
+          "duration": 1314,
+          "url": "https://fast.wistia.com/embed/medias/rnq7umyl45.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79c",
+          "title": "Design File System",
+          "type": "video",
+          "duration": 1976,
+          "url": "https://fast.wistia.com/embed/medias/7p70oieeij.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa7ab",
+          "title": "Shortest bridge",
+          "type": "video",
+          "duration": 1991,
+          "url": "https://fast.wistia.com/embed/medias/3ekv8qly4u.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79d",
+          "title": "Rank Team By votes",
+          "type": "video",
+          "duration": 1600,
+          "url": "https://fast.wistia.com/embed/medias/gf5mdnje9z.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79e",
+          "title": "Top K frequent words",
+          "type": "video",
+          "duration": 2066,
+          "url": "https://fast.wistia.com/embed/medias/09rjmfvzho.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa79f",
+          "title": "Online election",
+          "type": "video",
+          "duration": 1893,
+          "url": "https://fast.wistia.com/embed/medias/iuqmo8t98s.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa7a0",
+          "title": "Maximum number of occurrences of a substring",
+          "type": "video",
+          "duration": 1541,
+          "url": "https://fast.wistia.com/embed/medias/qfmo79zwyz.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa7a1",
+          "title": "Find minimum in rotated sorted array",
+          "type": "video",
+          "duration": 897,
+          "url": "https://fast.wistia.com/embed/medias/k4lcz3lev1.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa7a2",
+          "title": "Unique Path II",
+          "type": "video",
+          "duration": 1212,
+          "url": "https://fast.wistia.com/embed/medias/jtkk33zog9.m3u8"
+        },
+        {
+          "id": "65702733f12bb05fab0fa7a3",
+          "title": "Smallest missing non-negative integer after operations",
+          "type": "video",
+          "duration": 1377,
+          "url": "https://fast.wistia.com/embed/medias/sivmb6df0m.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_atlassian__657027302daec",
+      "title": "Atlassian(Hard)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "657027303a4239ba8c037774",
+          "title": "Maximum profit in job scheduling",
+          "type": "video",
+          "duration": 1912,
+          "url": "https://fast.wistia.com/embed/medias/ye1i32qudy.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c037775",
+          "title": "Sliding window maximum",
+          "type": "video",
+          "duration": 1547,
+          "url": "https://fast.wistia.com/embed/medias/aavdphxbw5.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c037776",
+          "title": "Minimum time to visit a cell in a grid",
+          "type": "video",
+          "duration": 2003,
+          "url": "https://fast.wistia.com/embed/medias/hp9blk4gon.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c037777",
+          "title": "Number of ways to form a target string given a dictionary",
+          "type": "video",
+          "duration": 1695,
+          "url": "https://fast.wistia.com/embed/medias/tw7bt7kidr.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c037778",
+          "title": "Count Palindromic Subsequences",
+          "type": "video",
+          "duration": 1840,
+          "url": "https://fast.wistia.com/embed/medias/5tra6jjdiy.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c037779",
+          "title": "Count vowels permutation",
+          "type": "video",
+          "duration": 1192,
+          "url": "https://fast.wistia.com/embed/medias/5if1b3e0g2.m3u8"
+        },
+        {
+          "id": "657027303a4239ba8c03777a",
+          "title": "Consecutive numbers sum",
+          "type": "video",
+          "duration": 674,
+          "url": "https://fast.wistia.com/embed/medias/pkd8pw68c7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_goldman_sachs__coming_soon",
+      "title": "Goldman Sachs(Easy)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656ef1a67f5d414de40d96f5",
+          "title": "First Unique Character in String",
+          "type": "video",
+          "duration": 893,
+          "url": "https://fast.wistia.com/embed/medias/bbx7yet17u.m3u8"
+        },
+        {
+          "id": "656ef1b77b6576ead505b496",
+          "title": "Find Pivot Element",
+          "type": "video",
+          "duration": 1256,
+          "url": "https://fast.wistia.com/embed/medias/znm7s01qo4.m3u8"
+        },
+        {
+          "id": "656ef34e84533a40a907eb13",
+          "title": "Power of three",
+          "type": "video",
+          "duration": 1025,
+          "url": "https://fast.wistia.com/embed/medias/7g9z0psxe9.m3u8"
+        },
+        {
+          "id": "656ef36ba5e39598ad0f9096",
+          "title": "Move Zeroes",
+          "type": "video",
+          "duration": 1209,
+          "url": "https://fast.wistia.com/embed/medias/6ghasvjmj2.m3u8"
+        },
+        {
+          "id": "656ef3bd8fc640318300eed3",
+          "title": "Robot return to origin",
+          "type": "video",
+          "duration": 830,
+          "url": "https://fast.wistia.com/embed/medias/s3bzliaewt.m3u8"
+        },
+        {
+          "id": "656ef3f803c54fa5a502b286",
+          "title": "K-different pairs in an Array",
+          "type": "video",
+          "duration": 1962,
+          "url": "https://fast.wistia.com/embed/medias/hoz9ky5fcx.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_goldman_sachs__65703a3cbb35b",
+      "title": "Goldman Sachs(Medium)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "65703a3c1fab7fd1d9003bdf",
+          "title": "Beautiful Arrangement",
+          "type": "video",
+          "duration": 1443,
+          "url": "https://fast.wistia.com/embed/medias/hhllgvmla3.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003be4",
+          "title": "Minimum Area of Rectangle",
+          "type": "video",
+          "duration": 1414,
+          "url": "https://fast.wistia.com/embed/medias/wliuhvnh6e.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003be6",
+          "title": "Gas Station",
+          "type": "video",
+          "duration": 1460,
+          "url": "https://fast.wistia.com/embed/medias/fgedzpcee6.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003be7",
+          "title": "Minimum Path  Sum",
+          "type": "video",
+          "duration": 1245,
+          "url": "https://fast.wistia.com/embed/medias/at3kop68bz.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003be9",
+          "title": "Product of Array Except Self",
+          "type": "video",
+          "duration": 1303,
+          "url": "https://fast.wistia.com/embed/medias/pr3w38gber.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003beb",
+          "title": "Minimum Window Substring",
+          "type": "video",
+          "duration": 1351,
+          "url": "https://fast.wistia.com/embed/medias/gzo7ujb0uj.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bec",
+          "title": "Count Number of Teams",
+          "type": "video",
+          "duration": 883,
+          "url": "https://fast.wistia.com/embed/medias/0yr3jc7fqx.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bed",
+          "title": "Robot bounded in a circle",
+          "type": "video",
+          "duration": 1371,
+          "url": "https://fast.wistia.com/embed/medias/ydvg7588rv.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bee",
+          "title": "Spiral Matrix",
+          "type": "video",
+          "duration": 1309,
+          "url": "https://fast.wistia.com/embed/medias/w7qrjdtacs.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bf0",
+          "title": "Longest Word in Dictionary through Deleting",
+          "type": "video",
+          "duration": 903,
+          "url": "https://fast.wistia.com/embed/medias/tds296y5wi.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bf2",
+          "title": "Knight Probability in Chessboard",
+          "type": "video",
+          "duration": 1126,
+          "url": "https://fast.wistia.com/embed/medias/q3bpzag73m.m3u8"
+        },
+        {
+          "id": "65703a3c1fab7fd1d9003bf4",
+          "title": "Fraction to Recurring Decimal",
+          "type": "video",
+          "duration": 712,
+          "url": "https://fast.wistia.com/embed/medias/fo4zet3pom.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_goldman_sachs__65703a39a9c52",
+      "title": "Goldman Sachs(Hard)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "65703a39b72e49bc3d0940fb",
+          "title": "Shortest subarray with Sum at least K",
+          "type": "video",
+          "duration": 1672,
+          "url": "https://fast.wistia.com/embed/medias/vfnlzi096d.m3u8"
+        },
+        {
+          "id": "65703a39b72e49bc3d0940fd",
+          "title": "Reaching Points",
+          "type": "video",
+          "duration": 949,
+          "url": "https://fast.wistia.com/embed/medias/lhljf0wxkf.m3u8"
+        },
+        {
+          "id": "65703a39b72e49bc3d0940ff",
+          "title": "Last Substring in Lexicographical Order",
+          "type": "video",
+          "duration": 775,
+          "url": "https://fast.wistia.com/embed/medias/orjqlks39f.m3u8"
+        },
+        {
+          "id": "65703a39b72e49bc3d094101",
+          "title": "Super Egg Drop",
+          "type": "video",
+          "duration": 1707,
+          "url": "https://fast.wistia.com/embed/medias/8nvglfl7f6.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_adobe__coming_soon",
+      "title": "Adobe(Easy)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "656f00c1489b086ae70e9535",
+          "title": "Baseball Game",
+          "type": "video",
+          "duration": 694,
+          "url": "https://fast.wistia.com/embed/medias/w8trvsxt78.m3u8"
+        },
+        {
+          "id": "656f0dbc4ac4e2135b05a736",
+          "title": "Shortest Distance to a Character",
+          "type": "video",
+          "duration": 671,
+          "url": "https://fast.wistia.com/embed/medias/rkztyyn5cu.m3u8"
+        },
+        {
+          "id": "656f0e1058cbc3e9960a90a6",
+          "title": "To Lower Case",
+          "type": "video",
+          "duration": 389,
+          "url": "https://fast.wistia.com/embed/medias/gxjk8aytsw.m3u8"
+        },
+        {
+          "id": "656f0e4cb090d340510ffb38",
+          "title": "Toeplitz Matrix",
+          "type": "video",
+          "duration": 416,
+          "url": "https://fast.wistia.com/embed/medias/5ux89i7y8z.m3u8"
+        },
+        {
+          "id": "656f0daec658f104e20ce698",
+          "title": "Reverse String II",
+          "type": "video",
+          "duration": 511,
+          "url": "https://fast.wistia.com/embed/medias/5i9atczb1s.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddbd",
+          "title": "Minimum index sum of two lists",
+          "type": "video",
+          "duration": 770,
+          "url": "https://fast.wistia.com/embed/medias/vom6s6bvwo.m3u8"
+        },
+        {
+          "id": "656f0d992c85a0587d0bb3f5",
+          "title": "Remove Element",
+          "type": "video",
+          "duration": 357,
+          "url": "https://fast.wistia.com/embed/medias/lwljkrr6ws.m3u8"
+        },
+        {
+          "id": "656f014a96683d963002f3a5",
+          "title": "Length of last word",
+          "type": "video",
+          "duration": 417,
+          "url": "https://fast.wistia.com/embed/medias/42ctuazvpo.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_adobe__65704188664ec",
+      "title": "Adobe(Medium)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "65704188656b0258d00eddc6",
+          "title": "Subsets",
+          "type": "video",
+          "duration": 505,
+          "url": "https://fast.wistia.com/embed/medias/de67ze2pke.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddc7",
+          "title": "Sum of Square Numbers",
+          "type": "video",
+          "duration": 475,
+          "url": "https://fast.wistia.com/embed/medias/xt0w9hvxt8.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddb8",
+          "title": "Equal row and column pairs",
+          "type": "video",
+          "duration": 678,
+          "url": "https://fast.wistia.com/embed/medias/vnpomp4j5y.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddbf",
+          "title": "Number of laser beams in a bank",
+          "type": "video",
+          "duration": 571,
+          "url": "https://fast.wistia.com/embed/medias/o8bd36q8l1.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddb7",
+          "title": "Determine if two strings are close",
+          "type": "video",
+          "duration": 745,
+          "url": "https://fast.wistia.com/embed/medias/2urkrqo8co.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddb6",
+          "title": "Check If a String can break another String",
+          "type": "video",
+          "duration": 603,
+          "url": "https://fast.wistia.com/embed/medias/9t9y3a7755.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddd0",
+          "title": "Wiggle Sort II",
+          "type": "video",
+          "duration": 440,
+          "url": "https://fast.wistia.com/embed/medias/roxqi3jgm9.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddbc",
+          "title": "Minimize Maximum Pair Sum in Array",
+          "type": "video",
+          "duration": 437,
+          "url": "https://fast.wistia.com/embed/medias/pm53l1rvoc.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddbe",
+          "title": "Minimum Number of Swaps to Make The String Balanced",
+          "type": "video",
+          "duration": 460,
+          "url": "https://fast.wistia.com/embed/medias/udvo2s5rqm.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddca",
+          "title": "Triangle",
+          "type": "video",
+          "duration": 666,
+          "url": "https://fast.wistia.com/embed/medias/q39qrq8g5v.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddbb",
+          "title": "Maximum Area of a Piece of Cake After Horizontal And Vertical Cut",
+          "type": "video",
+          "duration": 806,
+          "url": "https://fast.wistia.com/embed/medias/34loehr87w.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddc5",
+          "title": "Sort Colors",
+          "type": "video",
+          "duration": 536,
+          "url": "https://fast.wistia.com/embed/medias/vrhi7xbkbi.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddcc",
+          "title": "Search a 2D Matrix",
+          "type": "video",
+          "duration": 582,
+          "url": "https://fast.wistia.com/embed/medias/3rp5w2rd8l.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddcd",
+          "title": "Sum in a Matrix",
+          "type": "video",
+          "duration": 570,
+          "url": "https://fast.wistia.com/embed/medias/2krkpo7bdp.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddcf",
+          "title": "Valid Sudoku",
+          "type": "video",
+          "duration": 879,
+          "url": "https://fast.wistia.com/embed/medias/qrul46cd1l.m3u8"
+        },
+        {
+          "id": "65704188656b0258d00eddcb",
+          "title": "Maximum Bags With Full Capacity of Rocks",
+          "type": "video",
+          "duration": 587,
+          "url": "https://fast.wistia.com/embed/medias/6yo1bqn7i7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plus-_adobe__6570418565ee3",
+      "title": "Adobe(Hard)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "65704185caacb2ebf20c8ee4",
+          "title": "Reducing dishes",
+          "type": "video",
+          "duration": 707,
+          "url": "https://fast.wistia.com/embed/medias/t2skahp1z6.m3u8"
+        },
+        {
+          "id": "65704185caacb2ebf20c8ef1",
+          "title": "Unique Paths III",
+          "type": "video",
+          "duration": 1095,
+          "url": "https://fast.wistia.com/embed/medias/1h8sr9wkmi.m3u8"
+        },
+        {
+          "id": "65704185caacb2ebf20c8edc",
+          "title": "First Missing Positive",
+          "type": "video",
+          "duration": 596,
+          "url": "https://fast.wistia.com/embed/medias/warpt0xf3x.m3u8"
+        },
+        {
+          "id": "65704185caacb2ebf20c8ee3",
+          "title": "Palindrome Partitioning II",
+          "type": "video",
+          "duration": 756,
+          "url": "https://fast.wistia.com/embed/medias/ozbf0imslx.m3u8"
+        }
+      ]
+    }
+  ]
+}

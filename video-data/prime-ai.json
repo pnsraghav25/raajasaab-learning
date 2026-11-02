@@ -1,0 +1,5446 @@
+{
+  "id": "prime-ai",
+  "title": "Prime: AI/ML Batch",
+  "description": "Complete AI/ML Batch to become job ready in ~4.5 months!",
+  "sections": [
+    {
+      "id": "prime_live_session_recordings",
+      "title": "Live Session (Recordings)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6919726be1db856c8e0f0625",
+          "title": "Orientation Session (Group1)",
+          "type": "video",
+          "duration": 5665,
+          "url": "https://fast.wistia.com/embed/medias/06tldonb8e.m3u8"
+        },
+        {
+          "id": "6919727736b2acbb330fce57",
+          "title": "Orientation Session (Group2)",
+          "type": "video",
+          "duration": 5977,
+          "url": "https://fast.wistia.com/embed/medias/2xknh67o6e.m3u8"
+        },
+        {
+          "id": "692859112ccdc4f76f0beaa6",
+          "title": "LinkedIn Mentorship Session by Aman Sir",
+          "type": "video",
+          "duration": 13198,
+          "url": "https://fast.wistia.com/embed/medias/9l3tty6mx1.m3u8"
+        },
+        {
+          "id": "695124b9c25919bbe60460b7",
+          "title": "GSoC Mentorship Session",
+          "type": "video",
+          "duration": 10432,
+          "url": "https://fast.wistia.com/embed/medias/o4febgf4go.m3u8"
+        },
+        {
+          "id": "69afd071df399d61450bbe56",
+          "title": "Resume Mentorship Session",
+          "type": "video",
+          "duration": 9191,
+          "url": "https://fast.wistia.com/embed/medias/3oqmndcqzf.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_course_introduction",
+      "title": "Course Introduction",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69184ab4e48c0ef59f06f8e5",
+          "title": "Course Objective",
+          "type": "video",
+          "duration": 437,
+          "url": "https://fast.wistia.com/embed/medias/wkujeejs3a.m3u8"
+        },
+        {
+          "id": "69184abe903c96608707ad45",
+          "title": "What will we Learn?",
+          "type": "video",
+          "duration": 231,
+          "url": "https://fast.wistia.com/embed/medias/rsniy0riw6.m3u8"
+        },
+        {
+          "id": "69184ac5f0591b38ef0dac25",
+          "title": "Schedule",
+          "type": "video",
+          "duration": 479,
+          "url": "https://fast.wistia.com/embed/medias/4i3oxtsq3k.m3u8"
+        },
+        {
+          "id": "69184ad385d4f5049a052209",
+          "title": "Why did we choose Python?",
+          "type": "video",
+          "duration": 243,
+          "url": "https://fast.wistia.com/embed/medias/855fmh02ab.m3u8"
+        },
+        {
+          "id": "69184ade3b6210b3090a364c",
+          "title": "Tools to Install",
+          "type": "video",
+          "duration": 211,
+          "url": "https://fast.wistia.com/embed/medias/cz0f5pamfs.m3u8"
+        },
+        {
+          "id": "69184af587e5447ee6038323",
+          "title": "Using Visual Studio Code",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/bq8e34txli.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_python_fundamentals_part_1",
+      "title": "Python Fundamentals (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69186b8147117c10c50be6b6",
+          "title": "Our First Program",
+          "type": "video",
+          "duration": 354,
+          "url": "https://fast.wistia.com/embed/medias/fpa8hfpqqg.m3u8"
+        },
+        {
+          "id": "69186ba1b228800dcf0b5545",
+          "title": "Variables in Python",
+          "type": "video",
+          "duration": 498,
+          "url": "https://fast.wistia.com/embed/medias/n8gqwiclkc.m3u8"
+        },
+        {
+          "id": "69186bb301d83e2d8f095e88",
+          "title": "Data Types in Python",
+          "type": "video",
+          "duration": 199,
+          "url": "https://fast.wistia.com/embed/medias/hlf54dd4xw.m3u8"
+        },
+        {
+          "id": "69186bc24d834440490456a5",
+          "title": "Keywords & Comments",
+          "type": "video",
+          "duration": 212,
+          "url": "https://fast.wistia.com/embed/medias/v1gbqf2yeg.m3u8"
+        },
+        {
+          "id": "69186bd17c724506130090c3",
+          "title": "Style Guide",
+          "type": "video",
+          "duration": 220,
+          "url": "https://fast.wistia.com/embed/medias/6nm3mlt9s8.m3u8"
+        },
+        {
+          "id": "69186beb75c4e292da092727",
+          "title": "Arithmetic Operators",
+          "type": "video",
+          "duration": 252,
+          "url": "https://fast.wistia.com/embed/medias/ovgnnzfio4.m3u8"
+        },
+        {
+          "id": "69186bf9a85e517184048405",
+          "title": "Relational Operators",
+          "type": "video",
+          "duration": 200,
+          "url": "https://fast.wistia.com/embed/medias/o1w2wu8se3.m3u8"
+        },
+        {
+          "id": "69186c0eae7b8c30890daa44",
+          "title": "Assignment Operators",
+          "type": "video",
+          "duration": 167,
+          "url": "https://fast.wistia.com/embed/medias/ioqw0jzmf3.m3u8"
+        },
+        {
+          "id": "69186c1cbd57cb171f08a5e6",
+          "title": "Logical Operators",
+          "type": "video",
+          "duration": 292,
+          "url": "https://fast.wistia.com/embed/medias/t994m2lbt5.m3u8"
+        },
+        {
+          "id": "69186c2ba39a053d3706d437",
+          "title": "Operator Precedence",
+          "type": "video",
+          "duration": 135,
+          "url": "https://fast.wistia.com/embed/medias/vwuhakkgkb.m3u8"
+        },
+        {
+          "id": "69186c3916948e54b00a657a",
+          "title": "Type Conversion & Casting",
+          "type": "video",
+          "duration": 385,
+          "url": "https://fast.wistia.com/embed/medias/f6coq9ckzz.m3u8"
+        },
+        {
+          "id": "69186c4883525de1cc02d53b",
+          "title": "Taking User Input",
+          "type": "video",
+          "duration": 327,
+          "url": "https://fast.wistia.com/embed/medias/v2k8lnbh2k.m3u8"
+        },
+        {
+          "id": "69186cfe4a52d4f0fe02c805",
+          "title": "Average of 2 Nums",
+          "type": "video",
+          "duration": 140,
+          "url": "https://fast.wistia.com/embed/medias/rfqo3lea0c.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_python_fundamentals_part_2",
+      "title": "Python Fundamentals (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6919cd44bfa0cd380d013a18",
+          "title": "Conditional Statements in Python",
+          "type": "video",
+          "duration": 485,
+          "url": "https://fast.wistia.com/embed/medias/o6scziys0t.m3u8"
+        },
+        {
+          "id": "6919cd5bff8ec2a91500a36a",
+          "title": "Practice Examples (Conditionals)",
+          "type": "video",
+          "duration": 542,
+          "url": "https://fast.wistia.com/embed/medias/pz71ifiv96.m3u8"
+        },
+        {
+          "id": "6919cd69a3b79a62ca053045",
+          "title": "Odd or Even",
+          "type": "video",
+          "duration": 115,
+          "url": "https://fast.wistia.com/embed/medias/8f6i81islo.m3u8"
+        },
+        {
+          "id": "6919cd790492b2758c0b2a55",
+          "title": "Nesting",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/reulhpja6h.m3u8"
+        },
+        {
+          "id": "6919ce4f4bacc644330eaea3",
+          "title": "Match case in Python",
+          "type": "video",
+          "duration": 236,
+          "url": "https://fast.wistia.com/embed/medias/vn35pnfpve.m3u8"
+        },
+        {
+          "id": "6919cd8bfd9ace4d5c08c3a8",
+          "title": "Loops using while",
+          "type": "video",
+          "duration": 632,
+          "url": "https://fast.wistia.com/embed/medias/nf1j03perk.m3u8"
+        },
+        {
+          "id": "6919cd95ff8ec2a91500a36b",
+          "title": "Practice Examples (Loops)",
+          "type": "video",
+          "duration": 290,
+          "url": "https://fast.wistia.com/embed/medias/h5mm71ua4s.m3u8"
+        },
+        {
+          "id": "6919cda2959abfd16e0877b3",
+          "title": "Multiplication Table of N",
+          "type": "video",
+          "duration": 277,
+          "url": "https://fast.wistia.com/embed/medias/fbbn2l8qrp.m3u8"
+        },
+        {
+          "id": "6919cdb9eadf722ec2015cf5",
+          "title": "Break & Continue",
+          "type": "video",
+          "duration": 461,
+          "url": "https://fast.wistia.com/embed/medias/0lygufiv5g.m3u8"
+        },
+        {
+          "id": "6919cdc516d34dd1e604d715",
+          "title": "Loops using for",
+          "type": "video",
+          "duration": 562,
+          "url": "https://fast.wistia.com/embed/medias/6vbr73fwz0.m3u8"
+        },
+        {
+          "id": "6919cdd69eafcde0ff0b336c",
+          "title": "Vowel Count",
+          "type": "video",
+          "duration": 141,
+          "url": "https://fast.wistia.com/embed/medias/9rmrts6ezs.m3u8"
+        },
+        {
+          "id": "6919cde4581b2756f80b19a7",
+          "title": "range( ) Function",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/h88w7q8wx6.m3u8"
+        },
+        {
+          "id": "6919cdf3ec69d7812d04bb15",
+          "title": "Sum of N numbers",
+          "type": "video",
+          "duration": 233,
+          "url": "https://fast.wistia.com/embed/medias/a78py3keyr.m3u8"
+        },
+        {
+          "id": "6919cdfc3931202f56007d76",
+          "title": "Functions in Python",
+          "type": "video",
+          "duration": 531,
+          "url": "https://fast.wistia.com/embed/medias/7vxm4oef15.m3u8"
+        },
+        {
+          "id": "6919ce25c343e607c002cdb5",
+          "title": "Practice Examples (Functions)",
+          "type": "video",
+          "duration": 266,
+          "url": "https://fast.wistia.com/embed/medias/e2405u9l4v.m3u8"
+        },
+        {
+          "id": "6919ce3355e9ee0f230dba33",
+          "title": "Types of Functions",
+          "type": "video",
+          "duration": 109,
+          "url": "https://fast.wistia.com/embed/medias/0cb63612ru.m3u8"
+        },
+        {
+          "id": "6919ce5e6ef2437b8a0f9305",
+          "title": "Lambda Functions",
+          "type": "video",
+          "duration": 207,
+          "url": "https://fast.wistia.com/embed/medias/7t6crrtwod.m3u8"
+        },
+        {
+          "id": "6919ce3fa5727c2a54053fb5",
+          "title": "Factorial of N",
+          "type": "video",
+          "duration": 310,
+          "url": "https://fast.wistia.com/embed/medias/01eegarow9.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_python_fundamentals_part_3",
+      "title": "Python Fundamentals (Part 3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69202b1c2060c2e93f05e079",
+          "title": "Strings in Python",
+          "type": "video",
+          "duration": 322,
+          "url": "https://fast.wistia.com/embed/medias/6l88u1h9za.m3u8"
+        },
+        {
+          "id": "69202b2342d5b0b7df04a9e6",
+          "title": "Slicing in Strings",
+          "type": "video",
+          "duration": 306,
+          "url": "https://fast.wistia.com/embed/medias/4tk7gwi3at.m3u8"
+        },
+        {
+          "id": "69202be5da7517fcf906e1d5",
+          "title": "String Formatting - f-string & format( )",
+          "type": "video",
+          "duration": 419,
+          "url": "https://fast.wistia.com/embed/medias/8xfu1615xl.m3u8"
+        },
+        {
+          "id": "69202d4f3915210105009037",
+          "title": "Lists in Python",
+          "type": "video",
+          "duration": 430,
+          "url": "https://fast.wistia.com/embed/medias/lu1ewbnygw.m3u8"
+        },
+        {
+          "id": "69202e355e2774271b036555",
+          "title": "List Methods",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/xg4s5p42x4.m3u8"
+        },
+        {
+          "id": "69202edbb413b45ec00ea0f5",
+          "title": "Using Loops with Lists",
+          "type": "video",
+          "duration": 238,
+          "url": "https://fast.wistia.com/embed/medias/dqx8qp1vxn.m3u8"
+        },
+        {
+          "id": "69202f55f223d0774503b655",
+          "title": "Tuples in Python",
+          "type": "video",
+          "duration": 207,
+          "url": "https://fast.wistia.com/embed/medias/lgigl82p06.m3u8"
+        },
+        {
+          "id": "69202fec1f4030770a0e1a16",
+          "title": "Tuple Methods",
+          "type": "video",
+          "duration": 137,
+          "url": "https://fast.wistia.com/embed/medias/r01vaql6er.m3u8"
+        },
+        {
+          "id": "69203104ef03c14adc08bd45",
+          "title": "Dictionary in Python",
+          "type": "video",
+          "duration": 267,
+          "url": "https://fast.wistia.com/embed/medias/9kujh99adj.m3u8"
+        },
+        {
+          "id": "6920310b5fefe45c1508bd68",
+          "title": "Dictionary Methods",
+          "type": "video",
+          "duration": 289,
+          "url": "https://fast.wistia.com/embed/medias/54emumh5yf.m3u8"
+        },
+        {
+          "id": "692031d721932f5b080cf8c5",
+          "title": "Sets in Python",
+          "type": "video",
+          "duration": 205,
+          "url": "https://fast.wistia.com/embed/medias/v0xrrkefuz.m3u8"
+        },
+        {
+          "id": "6920325328dbc93c250cd497",
+          "title": "Set Methods",
+          "type": "video",
+          "duration": 172,
+          "url": "https://fast.wistia.com/embed/medias/mpsi6e41su.m3u8"
+        },
+        {
+          "id": "692032ca63aff98ce2065186",
+          "title": "Practice Problem (Part a & b)",
+          "type": "video",
+          "duration": 341,
+          "url": "https://fast.wistia.com/embed/medias/vce9s2rns9.m3u8"
+        },
+        {
+          "id": "692034eff76547eb560f2d55",
+          "title": "Practice Problem (Part c)",
+          "type": "video",
+          "duration": 423,
+          "url": "https://fast.wistia.com/embed/medias/m4qmhpnm1u.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_python_fundamentals_part_4",
+      "title": "Python Fundamentals (Part 4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "692177ff33a692d4f20832a5",
+          "title": "What is Object Oriented Programming?",
+          "type": "video",
+          "duration": 410,
+          "url": "https://fast.wistia.com/embed/medias/k39rkw3xp1.m3u8"
+        },
+        {
+          "id": "6921790d14b1e1ee45073717",
+          "title": "Classes & Objects",
+          "type": "video",
+          "duration": 417,
+          "url": "https://fast.wistia.com/embed/medias/vw3b286wyw.m3u8"
+        },
+        {
+          "id": "69217a9e0b10d1b14101ec25",
+          "title": "Attributes & Methods",
+          "type": "video",
+          "duration": 212,
+          "url": "https://fast.wistia.com/embed/medias/pjap31z8gw.m3u8"
+        },
+        {
+          "id": "69217bc0191e7ce1d906bed5",
+          "title": "Constructor - init( ) Method",
+          "type": "video",
+          "duration": 413,
+          "url": "https://fast.wistia.com/embed/medias/df6tlth3mb.m3u8"
+        },
+        {
+          "id": "69217d039f6b59cbea032a75",
+          "title": "Types of Constructors",
+          "type": "video",
+          "duration": 241,
+          "url": "https://fast.wistia.com/embed/medias/hxaqlsq524.m3u8"
+        },
+        {
+          "id": "69217d5817cca5b9fb024856",
+          "title": "Attributes - class & instance",
+          "type": "video",
+          "duration": 302,
+          "url": "https://fast.wistia.com/embed/medias/72osru30vz.m3u8"
+        },
+        {
+          "id": "69217e37423da3b64d08de56",
+          "title": "Instance Methods",
+          "type": "video",
+          "duration": 256,
+          "url": "https://fast.wistia.com/embed/medias/18a8djxwyo.m3u8"
+        },
+        {
+          "id": "692182322aa5775a490e35d6",
+          "title": "Class Methods",
+          "type": "video",
+          "duration": 222,
+          "url": "https://fast.wistia.com/embed/medias/5b3g65164h.m3u8"
+        },
+        {
+          "id": "69218239f90c8d98f9096967",
+          "title": "Static Methods",
+          "type": "video",
+          "duration": 273,
+          "url": "https://fast.wistia.com/embed/medias/8yrqih9g4h.m3u8"
+        },
+        {
+          "id": "692180a9fccd7001720a7353",
+          "title": "Practice Problem",
+          "type": "video",
+          "duration": 469,
+          "url": "https://fast.wistia.com/embed/medias/elrj0yduvu.m3u8"
+        },
+        {
+          "id": "692182ad4a262dfe3b02a449",
+          "title": "Encapsulation in OOPs",
+          "type": "video",
+          "duration": 682,
+          "url": "https://fast.wistia.com/embed/medias/jpyim7eo4j.m3u8"
+        },
+        {
+          "id": "692183e42c039234ef052fb6",
+          "title": "Inheritance in OOPs",
+          "type": "video",
+          "duration": 384,
+          "url": "https://fast.wistia.com/embed/medias/1bt77o9ytp.m3u8"
+        },
+        {
+          "id": "692184e80f76c5988e04aac8",
+          "title": "Types of Inheritance",
+          "type": "video",
+          "duration": 464,
+          "url": "https://fast.wistia.com/embed/medias/ezer7luj9u.m3u8"
+        },
+        {
+          "id": "692185e1fa0b57e2650abfc5",
+          "title": "Abstraction",
+          "type": "video",
+          "duration": 435,
+          "url": "https://fast.wistia.com/embed/medias/5nydgy6buu.m3u8"
+        },
+        {
+          "id": "692186f7ab4c1528bf08f67c",
+          "title": "Polymorphism (Function Overriding)",
+          "type": "video",
+          "duration": 225,
+          "url": "https://fast.wistia.com/embed/medias/5sj6a5f3cv.m3u8"
+        },
+        {
+          "id": "692187bbcb4e085e740b8fba",
+          "title": "Polymorphism (Duck Typing)",
+          "type": "video",
+          "duration": 156,
+          "url": "https://fast.wistia.com/embed/medias/8tl255uzkj.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_python_fundamentals_part_5",
+      "title": "Python Fundamentals (Part 5)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69219093c50a4a49300ebac5",
+          "title": "File I/O",
+          "type": "video",
+          "duration": 104,
+          "url": "https://fast.wistia.com/embed/medias/33dnbl5iei.m3u8"
+        },
+        {
+          "id": "692190a2037313b84603f506",
+          "title": "Operations on Files",
+          "type": "video",
+          "duration": 519,
+          "url": "https://fast.wistia.com/embed/medias/biq4liy3et.m3u8"
+        },
+        {
+          "id": "6921af93c1bdca32030a5765",
+          "title": "Modes in File Operations",
+          "type": "video",
+          "duration": 682,
+          "url": "https://fast.wistia.com/embed/medias/cyc8b3byc3.m3u8"
+        },
+        {
+          "id": "6921afa531ceda255a01d765",
+          "title": "\"with\" Keyword",
+          "type": "video",
+          "duration": 127,
+          "url": "https://fast.wistia.com/embed/medias/h12ektwve8.m3u8"
+        },
+        {
+          "id": "6921afbab08f268beb0a0147",
+          "title": "Delete Files",
+          "type": "video",
+          "duration": 90,
+          "url": "https://fast.wistia.com/embed/medias/njkyy5q7av.m3u8"
+        },
+        {
+          "id": "6921afd7def5ea513c0c9557",
+          "title": "Practice Problem",
+          "type": "video",
+          "duration": 375,
+          "url": "https://fast.wistia.com/embed/medias/cidy5sphq3.m3u8"
+        },
+        {
+          "id": "6921aff02512f963150a0d2b",
+          "title": "Exception Handling",
+          "type": "video",
+          "duration": 454,
+          "url": "https://fast.wistia.com/embed/medias/9ecaznp59j.m3u8"
+        },
+        {
+          "id": "6921b01e9946f89d6d0f00a6",
+          "title": "\"finally\" Keyword",
+          "type": "video",
+          "duration": 55,
+          "url": "https://fast.wistia.com/embed/medias/ik5xvv8xnb.m3u8"
+        },
+        {
+          "id": "6921b04e16b263cdbc0faa76",
+          "title": "List Comprehensions",
+          "type": "video",
+          "duration": 483,
+          "url": "https://fast.wistia.com/embed/medias/1soiyhqh3o.m3u8"
+        },
+        {
+          "id": "6921b074b1ee72b48b0c7635",
+          "title": "Working with JSON Module",
+          "type": "video",
+          "duration": 850,
+          "url": "https://fast.wistia.com/embed/medias/94cfnqn6cl.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_installation",
+      "title": "Installation",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6929958778ab4323fb058903",
+          "title": "Installing Anaconda",
+          "type": "video",
+          "duration": 303,
+          "url": "https://fast.wistia.com/embed/medias/kgvtfjnsxq.m3u8"
+        },
+        {
+          "id": "6929959154e358855b0f1c86",
+          "title": "Conda Prompt",
+          "type": "video",
+          "duration": 538,
+          "url": "https://fast.wistia.com/embed/medias/hiuxe2bdoh.m3u8"
+        },
+        {
+          "id": "692995a26530fb1e0e0ca5f6",
+          "title": "Installing Jupyter Notebook",
+          "type": "video",
+          "duration": 551,
+          "url": "https://fast.wistia.com/embed/medias/zmt8jvss6a.m3u8"
+        },
+        {
+          "id": "692995aa5f90cbc57e020755",
+          "title": "Installing Jupyter Lab",
+          "type": "video",
+          "duration": 338,
+          "url": "https://fast.wistia.com/embed/medias/io4jfpg4t2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_phase_2__data",
+      "title": "Phase 2 : Data",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6925ac7074fcdc08f7043fd5",
+          "title": "Thinking in Terms of Data",
+          "type": "video",
+          "duration": 168,
+          "url": "https://fast.wistia.com/embed/medias/3dmcy5ib1g.m3u8"
+        },
+        {
+          "id": "6925ac77f32a63878b03cc83",
+          "title": "Getting started",
+          "type": "video",
+          "duration": 467,
+          "url": "https://fast.wistia.com/embed/medias/2jsshhyuf4.m3u8"
+        },
+        {
+          "id": "6925ac886aeaa79a36030456",
+          "title": "Set up JSON data",
+          "type": "video",
+          "duration": 392,
+          "url": "https://fast.wistia.com/embed/medias/rcvltjfx8g.m3u8"
+        },
+        {
+          "id": "6925ac8ffd399556300ffb05",
+          "title": "Amazon Store : Clean & Structure Data",
+          "type": "video",
+          "duration": 944,
+          "url": "https://fast.wistia.com/embed/medias/814hbm1xx2.m3u8"
+        },
+        {
+          "id": "6925ac9679de91e4b1028f15",
+          "title": "Amazon Store : Meaningful Insights",
+          "type": "video",
+          "duration": 378,
+          "url": "https://fast.wistia.com/embed/medias/zm95r9gk2s.m3u8"
+        },
+        {
+          "id": "6925ac9d53e6b2299000cfe7",
+          "title": "Amazon Store : Recommendation Feature",
+          "type": "video",
+          "duration": 403,
+          "url": "https://fast.wistia.com/embed/medias/apdtleee5m.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_numpy_numerical_python",
+      "title": "NumPy (Numerical Python)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6925acbde80b7abb810ac245",
+          "title": "Introduction to NumPy",
+          "type": "video",
+          "duration": 445,
+          "url": "https://fast.wistia.com/embed/medias/69ke3d9r5b.m3u8"
+        },
+        {
+          "id": "6925acc3f1bfcc5239079675",
+          "title": "Installation & Usage",
+          "type": "video",
+          "duration": 177,
+          "url": "https://fast.wistia.com/embed/medias/0menrb8d5d.m3u8"
+        },
+        {
+          "id": "6925acca7223b15bcc010465",
+          "title": "Python List vs NumPy Array",
+          "type": "video",
+          "duration": 653,
+          "url": "https://fast.wistia.com/embed/medias/t9b19y4v48.m3u8"
+        },
+        {
+          "id": "6925acd03a090434a7093ce4",
+          "title": "Creating Arrays from Lists",
+          "type": "video",
+          "duration": 316,
+          "url": "https://fast.wistia.com/embed/medias/ju2ddr2nv8.m3u8"
+        },
+        {
+          "id": "6925acd662f741e03409dec6",
+          "title": "Creating Arrays (using built-in methods)",
+          "type": "video",
+          "duration": 380,
+          "url": "https://fast.wistia.com/embed/medias/5iplmxxil7.m3u8"
+        },
+        {
+          "id": "6925acdd9fc034451a04eff6",
+          "title": "Array Properties",
+          "type": "video",
+          "duration": 179,
+          "url": "https://fast.wistia.com/embed/medias/ztadlc3ksd.m3u8"
+        },
+        {
+          "id": "6925ace3ce8c72cce701f9d7",
+          "title": "Reshaping Arrays",
+          "type": "video",
+          "duration": 147,
+          "url": "https://fast.wistia.com/embed/medias/g43xyemepf.m3u8"
+        },
+        {
+          "id": "6925ace9c5b5546ede0cba47",
+          "title": "Indexing on Arrays",
+          "type": "video",
+          "duration": 286,
+          "url": "https://fast.wistia.com/embed/medias/dtkfnodj4o.m3u8"
+        },
+        {
+          "id": "6925acf05647d379bd0aef36",
+          "title": "Slicing Arrays",
+          "type": "video",
+          "duration": 80,
+          "url": "https://fast.wistia.com/embed/medias/pwy2sg1iqc.m3u8"
+        },
+        {
+          "id": "6925acf81ccee6962d08c955",
+          "title": "Copy v/s View in Slice",
+          "type": "video",
+          "duration": 281,
+          "url": "https://fast.wistia.com/embed/medias/k6ce5wn9m2.m3u8"
+        },
+        {
+          "id": "69280829275a9a57210c05b8",
+          "title": "Common NumPy Data Types",
+          "type": "video",
+          "duration": 599,
+          "url": "https://fast.wistia.com/embed/medias/a1ps6mwmr6.m3u8"
+        },
+        {
+          "id": "69280831aba55368760f7a66",
+          "title": "Multi-dimensional Arrays & Axes",
+          "type": "video",
+          "duration": 704,
+          "url": "https://fast.wistia.com/embed/medias/rg5p1u4tgt.m3u8"
+        },
+        {
+          "id": "6928083a97fc61db6e0211d3",
+          "title": "3D Arrays",
+          "type": "video",
+          "duration": 309,
+          "url": "https://fast.wistia.com/embed/medias/ci3dcxj6xf.m3u8"
+        },
+        {
+          "id": "6925acfd0a02484b93091896",
+          "title": "Vectorization & Broadcasting",
+          "type": "video",
+          "duration": 493,
+          "url": "https://fast.wistia.com/embed/medias/ucepob2tq7.m3u8"
+        },
+        {
+          "id": "6925ad047ca88a0579050e96",
+          "title": "Vector Normalization",
+          "type": "video",
+          "duration": 329,
+          "url": "https://fast.wistia.com/embed/medias/r2i7jhccv9.m3u8"
+        },
+        {
+          "id": "6925ad09afe822d5080451b5",
+          "title": "Math -  Mean & Standard Deviation",
+          "type": "video",
+          "duration": 190,
+          "url": "https://fast.wistia.com/embed/medias/0aediq7ff3.m3u8"
+        },
+        {
+          "id": "6925ad0fda982f6fc00cfe55",
+          "title": "Mathematical Functions (Aggregate)",
+          "type": "video",
+          "duration": 226,
+          "url": "https://fast.wistia.com/embed/medias/jt3b28xt4c.m3u8"
+        },
+        {
+          "id": "6925ad15dfe6610e2005e2f9",
+          "title": "Other Math functions",
+          "type": "video",
+          "duration": 330,
+          "url": "https://fast.wistia.com/embed/medias/xjpk2xy5gu.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_pandas",
+      "title": "Pandas (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6929f719c92238dce10a4875",
+          "title": "Data Science Process",
+          "type": "video",
+          "duration": 461,
+          "url": "https://fast.wistia.com/embed/medias/1z0ficbm8j.m3u8"
+        },
+        {
+          "id": "6929f721022c782c0d001a05",
+          "title": "What is EDA?",
+          "type": "video",
+          "duration": 171,
+          "url": "https://fast.wistia.com/embed/medias/qhkv6bi8my.m3u8"
+        },
+        {
+          "id": "6929f7825c56d5309c0dc7a6",
+          "title": "Introduction to Pandas",
+          "type": "video",
+          "duration": 553,
+          "url": "https://fast.wistia.com/embed/medias/l64bki74v7.m3u8"
+        },
+        {
+          "id": "6929f8f6e0c329ed800b9545",
+          "title": "Series in Pandas",
+          "type": "video",
+          "duration": 422,
+          "url": "https://fast.wistia.com/embed/medias/2qdc3hm8a2.m3u8"
+        },
+        {
+          "id": "6929f9ffafca19157c061555",
+          "title": "Series Properties",
+          "type": "video",
+          "duration": 191,
+          "url": "https://fast.wistia.com/embed/medias/4l1adodv9j.m3u8"
+        },
+        {
+          "id": "6929f8fe804a5e20ef069c86",
+          "title": "DataFrame in Pandas",
+          "type": "video",
+          "duration": 397,
+          "url": "https://fast.wistia.com/embed/medias/1q0o36kt6e.m3u8"
+        },
+        {
+          "id": "6929fb7bbd09081a5c08dff5",
+          "title": "Pandas with csv & json data - give file",
+          "type": "video",
+          "duration": 230,
+          "url": "https://fast.wistia.com/embed/medias/6qgp6l51mo.m3u8"
+        },
+        {
+          "id": "6929fc088468b1313c0632e5",
+          "title": "DataFrame Methods",
+          "type": "video",
+          "duration": 430,
+          "url": "https://fast.wistia.com/embed/medias/3encmmjkep.m3u8"
+        },
+        {
+          "id": "6929fd3855fd35625f0d4785",
+          "title": "Using Kaggle DataSet",
+          "type": "video",
+          "duration": 303,
+          "url": "https://fast.wistia.com/embed/medias/820htqg30a.m3u8"
+        },
+        {
+          "id": "6929fe050f306943f60d8ee5",
+          "title": "Indexing & Selecting Data",
+          "type": "video",
+          "duration": 930,
+          "url": "https://fast.wistia.com/embed/medias/3cvhes7ek1.m3u8"
+        },
+        {
+          "id": "6929ffd24eed9a97860786b5",
+          "title": "Filtering Data",
+          "type": "video",
+          "duration": 449,
+          "url": "https://fast.wistia.com/embed/medias/vb6u2xyoxq.m3u8"
+        },
+        {
+          "id": "692a29d0e387c8110f026646",
+          "title": "Filtering Data using Query",
+          "type": "video",
+          "duration": 235,
+          "url": "https://fast.wistia.com/embed/medias/6uz8fq9j2m.m3u8"
+        },
+        {
+          "id": "692a2a2849c4312db10c45c5",
+          "title": "Data Cleaning (Handle Missing Values) - give file",
+          "type": "video",
+          "duration": 837,
+          "url": "https://fast.wistia.com/embed/medias/goujt5w5sk.m3u8"
+        },
+        {
+          "id": "692a2b7823910037ed03ca76",
+          "title": "Data Cleaning (Handle Duplicates)",
+          "type": "video",
+          "duration": 237,
+          "url": "https://fast.wistia.com/embed/medias/73fb5w9b4v.m3u8"
+        },
+        {
+          "id": "692a2c761600c6e54f035cb6",
+          "title": "Data Cleaning (Handle Data Types)",
+          "type": "video",
+          "duration": 455,
+          "url": "https://fast.wistia.com/embed/medias/64dmeq7zwy.m3u8"
+        },
+        {
+          "id": "692a2c80f62d674fcd0f2fb6",
+          "title": "Data Cleaning (Handle Strings)",
+          "type": "video",
+          "duration": 244,
+          "url": "https://fast.wistia.com/embed/medias/7jipbe29ri.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_pandas_part_2",
+      "title": "Pandas (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "692a2d6839c56366bf060e35",
+          "title": "Data Transformation",
+          "type": "video",
+          "duration": 519,
+          "url": "https://fast.wistia.com/embed/medias/vhcexlqmj3.m3u8"
+        },
+        {
+          "id": "692a2d80d9abe0ccd20b7ab6",
+          "title": "Data Transformation (other Methods)",
+          "type": "video",
+          "duration": 682,
+          "url": "https://fast.wistia.com/embed/medias/3ybev5ysir.m3u8"
+        },
+        {
+          "id": "692a2dbf07be7dac0100fc76",
+          "title": "Practice Task",
+          "type": "video",
+          "duration": 286,
+          "url": "https://fast.wistia.com/embed/medias/6xzs5e3qfy.m3u8"
+        },
+        {
+          "id": "692a2df1d9babd5c790b85c5",
+          "title": "Writing data to csv & json files",
+          "type": "video",
+          "duration": 230,
+          "url": "https://fast.wistia.com/embed/medias/zebkuoje73.m3u8"
+        },
+        {
+          "id": "692a2e6f90435528b10a4a56",
+          "title": "Group by & Aggregation",
+          "type": "video",
+          "duration": 481,
+          "url": "https://fast.wistia.com/embed/medias/nfq4x38bsv.m3u8"
+        },
+        {
+          "id": "692a2e7f1af37d41730ec896",
+          "title": "Melt & Pivot for Reshaping",
+          "type": "video",
+          "duration": 469,
+          "url": "https://fast.wistia.com/embed/medias/5vj659ivt2.m3u8"
+        },
+        {
+          "id": "692a2ee48f01661dfb04de96",
+          "title": "Basic Visualization with Pandas",
+          "type": "video",
+          "duration": 282,
+          "url": "https://fast.wistia.com/embed/medias/8dpl7ms1f0.m3u8"
+        },
+        {
+          "id": "692a2f21e6ae502d9f002c76",
+          "title": "Merge & Join Data",
+          "type": "video",
+          "duration": 351,
+          "url": "https://fast.wistia.com/embed/medias/jr7v7mkovw.m3u8"
+        },
+        {
+          "id": "692a2f4a50dbc1175f0dc226",
+          "title": "Data Concatenation with Pandas",
+          "type": "video",
+          "duration": 439,
+          "url": "https://fast.wistia.com/embed/medias/xr85srv6ay.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_data_collection",
+      "title": "Data Collection",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69336afacd56ddd3b00200d6",
+          "title": "What is Data Collection?",
+          "type": "video",
+          "duration": 301,
+          "url": "https://fast.wistia.com/embed/medias/o0m4sw46g6.m3u8"
+        },
+        {
+          "id": "69336b0e093113ece60fe9db",
+          "title": "Multiple Sources for Data Science",
+          "type": "video",
+          "duration": 478,
+          "url": "https://fast.wistia.com/embed/medias/8gbtdvgtid.m3u8"
+        },
+        {
+          "id": "6934407638c7a5f41c0b0d95",
+          "title": "Starting with SQL",
+          "type": "video",
+          "duration": 135,
+          "url": "https://fast.wistia.com/embed/medias/9ebyzzrrqw.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_starting_with_sql__69336a6fcb1fa",
+      "title": "SQL (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69336a6f1ed5a096950f88b6",
+          "title": "What is a Database?",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/3xucxtgby3.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88b7",
+          "title": "SQL v/s NoSQL",
+          "type": "video",
+          "duration": 203,
+          "url": "https://fast.wistia.com/embed/medias/s9a8u673mw.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88b8",
+          "title": "What is SQL?",
+          "type": "video",
+          "duration": 321,
+          "url": "https://fast.wistia.com/embed/medias/793ipq2iuw.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88b9",
+          "title": "What is a Table?",
+          "type": "video",
+          "duration": 232,
+          "url": "https://fast.wistia.com/embed/medias/lxeejarp76.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88ba",
+          "title": "(For Windows) Installation",
+          "type": "video",
+          "duration": 232,
+          "url": "https://fast.wistia.com/embed/medias/2nh1p6u7jz.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88bb",
+          "title": "(For Mac) Installation",
+          "type": "video",
+          "duration": 269,
+          "url": "https://fast.wistia.com/embed/medias/ethzgmrbq0.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88bc",
+          "title": "Our First Database",
+          "type": "video",
+          "duration": 432,
+          "url": "https://fast.wistia.com/embed/medias/5dn6hvuoxl.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88bd",
+          "title": "Our First Table",
+          "type": "video",
+          "duration": 280,
+          "url": "https://fast.wistia.com/embed/medias/c2gdr7hbfr.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88be",
+          "title": "Database Queries",
+          "type": "video",
+          "duration": 199,
+          "url": "https://fast.wistia.com/embed/medias/cqa217c5am.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88bf",
+          "title": "CREATE Table",
+          "type": "video",
+          "duration": 538,
+          "url": "https://fast.wistia.com/embed/medias/3bunslv7hc.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c0",
+          "title": "What are Constraints?",
+          "type": "video",
+          "duration": 340,
+          "url": "https://fast.wistia.com/embed/medias/dl3kh32y7w.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c1",
+          "title": "Key Constraints",
+          "type": "video",
+          "duration": 669,
+          "url": "https://fast.wistia.com/embed/medias/6zmwtojttd.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c2",
+          "title": "Primary & Foreign Keys",
+          "type": "video",
+          "duration": 197,
+          "url": "https://fast.wistia.com/embed/medias/yiun5r13e9.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c3",
+          "title": "INSERT into Table",
+          "type": "video",
+          "duration": 337,
+          "url": "https://fast.wistia.com/embed/medias/7b0k1806m5.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c4",
+          "title": "SELECT Command",
+          "type": "video",
+          "duration": 165,
+          "url": "https://fast.wistia.com/embed/medias/4ay8nusd4e.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c5",
+          "title": "Where Clause",
+          "type": "video",
+          "duration": 160,
+          "url": "https://fast.wistia.com/embed/medias/g6u80y1d0g.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c6",
+          "title": "Operators in Where",
+          "type": "video",
+          "duration": 285,
+          "url": "https://fast.wistia.com/embed/medias/hz5dwqmzds.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c7",
+          "title": "Frequently Used Operators",
+          "type": "video",
+          "duration": 389,
+          "url": "https://fast.wistia.com/embed/medias/jagv8ip4q9.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c8",
+          "title": "Limit Clause",
+          "type": "video",
+          "duration": 98,
+          "url": "https://fast.wistia.com/embed/medias/u4oxxgb6ee.m3u8"
+        },
+        {
+          "id": "69336a6f1ed5a096950f88c9",
+          "title": "Order By Clause",
+          "type": "video",
+          "duration": 137,
+          "url": "https://fast.wistia.com/embed/medias/3pv6q0wp45.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88ca",
+          "title": "Aggregate Functions",
+          "type": "video",
+          "duration": 230,
+          "url": "https://fast.wistia.com/embed/medias/i11istkr7l.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88cb",
+          "title": "Group By Clause",
+          "type": "video",
+          "duration": 302,
+          "url": "https://fast.wistia.com/embed/medias/4p4jplamxc.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88cc",
+          "title": "Having Clause",
+          "type": "video",
+          "duration": 153,
+          "url": "https://fast.wistia.com/embed/medias/223x6qmada.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88cd",
+          "title": "General Order",
+          "type": "video",
+          "duration": 80,
+          "url": "https://fast.wistia.com/embed/medias/03cqd2c9px.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88ce",
+          "title": "UPDATE Table",
+          "type": "video",
+          "duration": 183,
+          "url": "https://fast.wistia.com/embed/medias/osofyniutv.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88cf",
+          "title": "DELETE Table",
+          "type": "video",
+          "duration": 68,
+          "url": "https://fast.wistia.com/embed/medias/dwb8vohf8n.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88d0",
+          "title": "ALTER Table",
+          "type": "video",
+          "duration": 430,
+          "url": "https://fast.wistia.com/embed/medias/1ku8gmpxoq.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88d1",
+          "title": "TRUNCATE Table",
+          "type": "video",
+          "duration": 211,
+          "url": "https://fast.wistia.com/embed/medias/386dryn9cl.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88d2",
+          "title": "Practice Set 1",
+          "type": "video",
+          "duration": 540,
+          "url": "https://fast.wistia.com/embed/medias/qwlsckm81d.m3u8"
+        },
+        {
+          "id": "69336a701ed5a096950f88d3",
+          "title": "Practice Set 2",
+          "type": "video",
+          "duration": 461,
+          "url": "https://fast.wistia.com/embed/medias/i5clyb95v6.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_sql_part_2",
+      "title": "SQL (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "693bf4cc7d9b673b600bee15",
+          "title": "Transactions & ACID Properties",
+          "type": "video",
+          "duration": 359,
+          "url": "https://fast.wistia.com/embed/medias/bh8b4ti9xf.m3u8"
+        },
+        {
+          "id": "693bf505186c6a2a4f0b1865",
+          "title": "Commit in Transactions",
+          "type": "video",
+          "duration": 365,
+          "url": "https://fast.wistia.com/embed/medias/7iqpgquce6.m3u8"
+        },
+        {
+          "id": "693bf529c58d57cede03d9f5",
+          "title": "Rollbacks & Savepoints",
+          "type": "video",
+          "duration": 522,
+          "url": "https://fast.wistia.com/embed/medias/bsq75tl16o.m3u8"
+        },
+        {
+          "id": "693bf5c8ce55ec069002a533",
+          "title": "JOINs in SQL (Inner Join)",
+          "type": "video",
+          "duration": 286,
+          "url": "https://fast.wistia.com/embed/medias/1auo175nsj.m3u8"
+        },
+        {
+          "id": "693bf5f82e6c5375460b6b63",
+          "title": "Left Join & Right Join",
+          "type": "video",
+          "duration": 145,
+          "url": "https://fast.wistia.com/embed/medias/bkxa0cylk4.m3u8"
+        },
+        {
+          "id": "693bf64a871939019003ece8",
+          "title": "Outer Join & Cross Join",
+          "type": "video",
+          "duration": 211,
+          "url": "https://fast.wistia.com/embed/medias/7c49y8yy9z.m3u8"
+        },
+        {
+          "id": "693bf667d767ddb4a9070c47",
+          "title": "Self Join",
+          "type": "video",
+          "duration": 131,
+          "url": "https://fast.wistia.com/embed/medias/fbxp2449n5.m3u8"
+        },
+        {
+          "id": "693bf68add2d0991340f4f35",
+          "title": "Practice Problem - Exclusive Joins",
+          "type": "video",
+          "duration": 320,
+          "url": "https://fast.wistia.com/embed/medias/eql4qg21im.m3u8"
+        },
+        {
+          "id": "693bf74fc2649504b7076ce9",
+          "title": "Sub-Queries in SQL",
+          "type": "video",
+          "duration": 503,
+          "url": "https://fast.wistia.com/embed/medias/2wz2imjy0g.m3u8"
+        },
+        {
+          "id": "693bf778e8bee8b4b609ab45",
+          "title": "Views in SQL",
+          "type": "video",
+          "duration": 375,
+          "url": "https://fast.wistia.com/embed/medias/ce89u977jm.m3u8"
+        },
+        {
+          "id": "693bf7b3ccc7ec8e4a043565",
+          "title": "Index in SQL",
+          "type": "video",
+          "duration": 254,
+          "url": "https://fast.wistia.com/embed/medias/k5qbyrvgf1.m3u8"
+        },
+        {
+          "id": "693bf82760012d9aaa02b7c5",
+          "title": "Composite Index",
+          "type": "video",
+          "duration": 202,
+          "url": "https://fast.wistia.com/embed/medias/wbwrmub0dj.m3u8"
+        },
+        {
+          "id": "693bf866f5707bb91f0c28c7",
+          "title": "Stored Procedures",
+          "type": "video",
+          "duration": 327,
+          "url": "https://fast.wistia.com/embed/medias/5hrqbfl6up.m3u8"
+        },
+        {
+          "id": "693c1a0f746038ca7602df26",
+          "title": "Call & Drop Procedures",
+          "type": "video",
+          "duration": 219,
+          "url": "https://fast.wistia.com/embed/medias/7p9zu3vvk3.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_data_collection_continuation",
+      "title": "Data Collection (continuation)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "693bf98d6e1cc22fd90f8937",
+          "title": "Population Techniques (Recap)",
+          "type": "video",
+          "duration": 222,
+          "url": "https://fast.wistia.com/embed/medias/8ummo0chxk.m3u8"
+        },
+        {
+          "id": "693bf9d6c2649504b7076cea",
+          "title": "Working with APIs",
+          "type": "video",
+          "duration": 700,
+          "url": "https://fast.wistia.com/embed/medias/qcs8cinsza.m3u8"
+        },
+        {
+          "id": "693bfa22ccd14c36690112d3",
+          "title": "Homework Problem",
+          "type": "video",
+          "duration": 103,
+          "url": "https://fast.wistia.com/embed/medias/zkhqhpwbw6.m3u8"
+        },
+        {
+          "id": "693bfa3cbc02cb2bd0069d96",
+          "title": "Starting with Web Scraping",
+          "type": "video",
+          "duration": 615,
+          "url": "https://fast.wistia.com/embed/medias/nrghkg1pwb.m3u8"
+        },
+        {
+          "id": "693bfef380e360d1f20cc9d7",
+          "title": "HTML Overview",
+          "type": "video",
+          "duration": 410,
+          "url": "https://fast.wistia.com/embed/medias/ct8shy7y5q.m3u8"
+        },
+        {
+          "id": "693bfefc5ba8d5d49006ac05",
+          "title": "Important Tags in HTML",
+          "type": "video",
+          "duration": 606,
+          "url": "https://fast.wistia.com/embed/medias/r577zytuwo.m3u8"
+        },
+        {
+          "id": "693bff0385cb7e40e70db795",
+          "title": "Attributes in HTML",
+          "type": "video",
+          "duration": 311,
+          "url": "https://fast.wistia.com/embed/medias/5us1301qjp.m3u8"
+        },
+        {
+          "id": "693bff77723cdc2c9b0d45b5",
+          "title": "Web Scraping (requests Library)",
+          "type": "video",
+          "duration": 667,
+          "url": "https://fast.wistia.com/embed/medias/mh739mvdds.m3u8"
+        },
+        {
+          "id": "693bffb32f43b7354a0d6a56",
+          "title": "Additional Techniques",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/pqquortnku.m3u8"
+        },
+        {
+          "id": "693c001b2c294810580b4b45",
+          "title": "Web Scraping (using BeautifulSoup)",
+          "type": "video",
+          "duration": 346,
+          "url": "https://fast.wistia.com/embed/medias/uyeq1zbo34.m3u8"
+        },
+        {
+          "id": "693c00bf452abadd0800a6e5",
+          "title": "BeautifulSoup Methods & Attributes",
+          "type": "video",
+          "duration": 857,
+          "url": "https://fast.wistia.com/embed/medias/e9qy6amxw7.m3u8"
+        },
+        {
+          "id": "693c010fed5e451f51010f53",
+          "title": "Storing Collected Data",
+          "type": "video",
+          "duration": 236,
+          "url": "https://fast.wistia.com/embed/medias/bcllvvjhux.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_html_level_1__693c1e7314015",
+      "title": "[OPTIONAL] Complete HTML Tutorial",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "693c1e739c7c631ff104c7f5",
+          "title": "Introduction to HTML",
+          "type": "video",
+          "duration": 282,
+          "url": "https://fast.wistia.com/embed/medias/qxbvokwmqj.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7f6",
+          "title": "HTML Elements & Tags",
+          "type": "video",
+          "duration": 269,
+          "url": "https://fast.wistia.com/embed/medias/9ifsi19vbr.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7f7",
+          "title": "Hello World",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/fp2h3r3nvu.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7f8",
+          "title": "Paragraph Element",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/g9na6rypsh.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7f9",
+          "title": "Heading Elements",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/sobe72tnxk.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7fa",
+          "title": "Practice Qs (Level1A)",
+          "type": "video",
+          "duration": 403,
+          "url": "https://fast.wistia.com/embed/medias/cfoqf4a3hc.m3u8"
+        },
+        {
+          "id": "693c1e739c7c631ff104c7fb",
+          "title": "Boilerplate Code",
+          "type": "video",
+          "duration": 721,
+          "url": "https://fast.wistia.com/embed/medias/t51tsv4qzq.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fe5",
+          "title": "Lists in HTML",
+          "type": "video",
+          "duration": 348,
+          "url": "https://fast.wistia.com/embed/medias/vw5us5aovy.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fe6",
+          "title": "Attributes in HTML",
+          "type": "video",
+          "duration": 154,
+          "url": "https://fast.wistia.com/embed/medias/bpffcphcpm.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fe7",
+          "title": "Anchor Element",
+          "type": "video",
+          "duration": 444,
+          "url": "https://fast.wistia.com/embed/medias/bp0yxwp6ec.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fe8",
+          "title": "Image Element",
+          "type": "video",
+          "duration": 674,
+          "url": "https://fast.wistia.com/embed/medias/6huct4z3gr.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fe9",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 244,
+          "url": "https://fast.wistia.com/embed/medias/9t250om9ez.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fea",
+          "title": "More HTML Tags",
+          "type": "video",
+          "duration": 260,
+          "url": "https://fast.wistia.com/embed/medias/cdy348g59o.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4feb",
+          "title": "Comments in HTML",
+          "type": "video",
+          "duration": 491,
+          "url": "https://fast.wistia.com/embed/medias/3pi93h105v.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fec",
+          "title": "Is HTML Case Sensitive?",
+          "type": "video",
+          "duration": 182,
+          "url": "https://fast.wistia.com/embed/medias/g5mlw0qcsu.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4fed",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 693,
+          "url": "https://fast.wistia.com/embed/medias/danqem6ygu.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff0",
+          "title": "Inline v/s Block",
+          "type": "video",
+          "duration": 625,
+          "url": "https://fast.wistia.com/embed/medias/7oowvmgcal.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff1",
+          "title": "Div Element",
+          "type": "video",
+          "duration": 296,
+          "url": "https://fast.wistia.com/embed/medias/d8z01byr2y.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff2",
+          "title": "Span Element",
+          "type": "video",
+          "duration": 159,
+          "url": "https://fast.wistia.com/embed/medias/3iel3ki50u.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff3",
+          "title": "Hr Tag",
+          "type": "video",
+          "duration": 188,
+          "url": "https://fast.wistia.com/embed/medias/irg61p1y6j.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff4",
+          "title": "Sup & Sub Tags",
+          "type": "video",
+          "duration": 272,
+          "url": "https://fast.wistia.com/embed/medias/3q1oq3tkzi.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff5",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 112,
+          "url": "https://fast.wistia.com/embed/medias/in3zq099r2.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff6",
+          "title": "Semantic Markup",
+          "type": "video",
+          "duration": 412,
+          "url": "https://fast.wistia.com/embed/medias/u4f772478e.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff7",
+          "title": "Semantic Tags",
+          "type": "video",
+          "duration": 617,
+          "url": "https://fast.wistia.com/embed/medias/1aubc783az.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff8",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 247,
+          "url": "https://fast.wistia.com/embed/medias/lnmjqscmau.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ff9",
+          "title": "HTML Entities",
+          "type": "video",
+          "duration": 665,
+          "url": "https://fast.wistia.com/embed/medias/6x68liv18j.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ffa",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 172,
+          "url": "https://fast.wistia.com/embed/medias/panzbsb5d6.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ffb",
+          "title": "Emmets",
+          "type": "video",
+          "duration": 719,
+          "url": "https://fast.wistia.com/embed/medias/oeylvd5qgx.m3u8"
+        },
+        {
+          "id": "693c1ecb1c5cfafd7f0a4ffc",
+          "title": "Further Understanding HTML",
+          "type": "video",
+          "duration": 321,
+          "url": "https://fast.wistia.com/embed/medias/0df8zr5u37.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098286",
+          "title": "Tables in HTML",
+          "type": "video",
+          "duration": 852,
+          "url": "https://fast.wistia.com/embed/medias/3hvrosdm8f.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098287",
+          "title": "Semantics in Tables",
+          "type": "video",
+          "duration": 182,
+          "url": "https://fast.wistia.com/embed/medias/9hj8qvduqg.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098288",
+          "title": "Colspan & Rowspan Attributes",
+          "type": "video",
+          "duration": 585,
+          "url": "https://fast.wistia.com/embed/medias/y3fba8sjfj.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098289",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 474,
+          "url": "https://fast.wistia.com/embed/medias/v5xwozhqwu.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828a",
+          "title": "Forms in HTML",
+          "type": "video",
+          "duration": 312,
+          "url": "https://fast.wistia.com/embed/medias/wqzoijwsmu.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828b",
+          "title": "Input - Form Element",
+          "type": "video",
+          "duration": 480,
+          "url": "https://fast.wistia.com/embed/medias/9t4nndd5hn.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828c",
+          "title": "Placeholders & Labels",
+          "type": "video",
+          "duration": 571,
+          "url": "https://fast.wistia.com/embed/medias/x9fphbckn0.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828d",
+          "title": "Button Element",
+          "type": "video",
+          "duration": 585,
+          "url": "https://fast.wistia.com/embed/medias/wtl2o0wcx0.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828e",
+          "title": "Name Attribute",
+          "type": "video",
+          "duration": 624,
+          "url": "https://fast.wistia.com/embed/medias/n5jeloaqqb.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e80509828f",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 169,
+          "url": "https://fast.wistia.com/embed/medias/ld7h6159vx.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098290",
+          "title": "Checkbox - Input Element",
+          "type": "video",
+          "duration": 247,
+          "url": "https://fast.wistia.com/embed/medias/34d4owbgi6.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098291",
+          "title": "Radio - Input Element",
+          "type": "video",
+          "duration": 527,
+          "url": "https://fast.wistia.com/embed/medias/1wh0t07j78.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098292",
+          "title": "Select - Input Element",
+          "type": "video",
+          "duration": 253,
+          "url": "https://fast.wistia.com/embed/medias/kz09bpvkds.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098293",
+          "title": "Range - Input Element",
+          "type": "video",
+          "duration": 304,
+          "url": "https://fast.wistia.com/embed/medias/l7ei4jbh8a.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098294",
+          "title": "Text Area",
+          "type": "video",
+          "duration": 197,
+          "url": "https://fast.wistia.com/embed/medias/d5zkf46pzf.m3u8"
+        },
+        {
+          "id": "693c1f2a65aed5e805098295",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 406,
+          "url": "https://fast.wistia.com/embed/medias/4kxssr644i.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_data_collection_activity",
+      "title": "Web Scraping (Activity)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "693d4b6ba5c101bd820f8503",
+          "title": "Solution - Part 1",
+          "type": "video",
+          "duration": 908,
+          "url": "https://fast.wistia.com/embed/medias/kqljvfc65h.m3u8"
+        },
+        {
+          "id": "693d4b70f4765f5455002956",
+          "title": "Solution - Part 2",
+          "type": "video",
+          "duration": 607,
+          "url": "https://fast.wistia.com/embed/medias/5xrfqzdiiy.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_data_visualization_part_1",
+      "title": "Data Visualization (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "693d4c101173b12d07047f87",
+          "title": "What is Data Visualization?",
+          "type": "video",
+          "duration": 322,
+          "url": "https://fast.wistia.com/embed/medias/fsgb33n371.m3u8"
+        },
+        {
+          "id": "693d4c1960556cfd9c050f03",
+          "title": "How to Plot data?",
+          "type": "video",
+          "duration": 326,
+          "url": "https://fast.wistia.com/embed/medias/1cb6l0dkfo.m3u8"
+        },
+        {
+          "id": "693d4c261cc6842735017786",
+          "title": "Introduction to Matplotlib",
+          "type": "video",
+          "duration": 487,
+          "url": "https://fast.wistia.com/embed/medias/s6wkhkyr85.m3u8"
+        },
+        {
+          "id": "693d4c78980bbc79cc074305",
+          "title": "Important Plot Methods",
+          "type": "video",
+          "duration": 258,
+          "url": "https://fast.wistia.com/embed/medias/6lvuyhlwn9.m3u8"
+        },
+        {
+          "id": "693d4cf243414f3f95007f05",
+          "title": "Multiple datasets on Line Plot",
+          "type": "video",
+          "duration": 337,
+          "url": "https://fast.wistia.com/embed/medias/wons0ygx7u.m3u8"
+        },
+        {
+          "id": "693d4d218b4996926f009e56",
+          "title": "Format Strings",
+          "type": "video",
+          "duration": 350,
+          "url": "https://fast.wistia.com/embed/medias/50mcx3772c.m3u8"
+        },
+        {
+          "id": "693d4d5d4893b4f7f00de767",
+          "title": "Styling & Saving Plots",
+          "type": "video",
+          "duration": 413,
+          "url": "https://fast.wistia.com/embed/medias/xu2b5sgkq2.m3u8"
+        },
+        {
+          "id": "693d4da99fb61c217b06e5b7",
+          "title": "Common Plots & Charts",
+          "type": "video",
+          "duration": 75,
+          "url": "https://fast.wistia.com/embed/medias/80urc4ufqp.m3u8"
+        },
+        {
+          "id": "693d4dc36b526c0e5207d247",
+          "title": "Bar Charts (Vertical)",
+          "type": "video",
+          "duration": 231,
+          "url": "https://fast.wistia.com/embed/medias/lkgestw0gk.m3u8"
+        },
+        {
+          "id": "693d4e5fc729ca42830e56e6",
+          "title": "Add Bar labels",
+          "type": "video",
+          "duration": 335,
+          "url": "https://fast.wistia.com/embed/medias/zmy5z3z0hn.m3u8"
+        },
+        {
+          "id": "693d4e9633dc95786b041315",
+          "title": "Multiple datasets on Bar Chart",
+          "type": "video",
+          "duration": 917,
+          "url": "https://fast.wistia.com/embed/medias/stkwa1obt6.m3u8"
+        },
+        {
+          "id": "693d4ec7006768fed80b03ca",
+          "title": "Bar Charts (Horizontal)",
+          "type": "video",
+          "duration": 106,
+          "url": "https://fast.wistia.com/embed/medias/0n9y2k1d8p.m3u8"
+        },
+        {
+          "id": "693d4edd234cfe1b970143bc",
+          "title": "Scatter Plots",
+          "type": "video",
+          "duration": 203,
+          "url": "https://fast.wistia.com/embed/medias/otbqe2atra.m3u8"
+        },
+        {
+          "id": "693d4ef87bfde5075d0abdb5",
+          "title": "Customizations on Scatter Plots",
+          "type": "video",
+          "duration": 505,
+          "url": "https://fast.wistia.com/embed/medias/7jfdpfi452.m3u8"
+        },
+        {
+          "id": "693d4f182a4f579da709b923",
+          "title": "Add Annotations",
+          "type": "video",
+          "duration": 229,
+          "url": "https://fast.wistia.com/embed/medias/p30tfvnzzm.m3u8"
+        },
+        {
+          "id": "693d4f4756a585ffd50f3cf3",
+          "title": "Multiple datasets on Scatter Plots",
+          "type": "video",
+          "duration": 215,
+          "url": "https://fast.wistia.com/embed/medias/qy5c1imdps.m3u8"
+        },
+        {
+          "id": "693d4f880d261718810c0da7",
+          "title": "Pie Charts",
+          "type": "video",
+          "duration": 242,
+          "url": "https://fast.wistia.com/embed/medias/kln5qlj9uv.m3u8"
+        },
+        {
+          "id": "693d4fc26d5b4ef16a042907",
+          "title": "Customizations on Pie Charts",
+          "type": "video",
+          "duration": 521,
+          "url": "https://fast.wistia.com/embed/medias/s02iun4x64.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_data_visualization_part_2",
+      "title": "Data Visualization (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6944c9e8843c7407f00bc7e6",
+          "title": "Histograms",
+          "type": "video",
+          "duration": 686,
+          "url": "https://fast.wistia.com/embed/medias/bkixz97yry.m3u8"
+        },
+        {
+          "id": "6944c9fb187eb4eb63023509",
+          "title": "Multiple datasets on Histogram",
+          "type": "video",
+          "duration": 381,
+          "url": "https://fast.wistia.com/embed/medias/q165wtmntr.m3u8"
+        },
+        {
+          "id": "6944ca0f11285d5592023ea6",
+          "title": "axvline in Histogram",
+          "type": "video",
+          "duration": 115,
+          "url": "https://fast.wistia.com/embed/medias/xle06as0is.m3u8"
+        },
+        {
+          "id": "6944ca5d3a96113e160d7be3",
+          "title": "Box Plots",
+          "type": "video",
+          "duration": 970,
+          "url": "https://fast.wistia.com/embed/medias/x88hc13ngl.m3u8"
+        },
+        {
+          "id": "6944ca695fa53b045006dc8a",
+          "title": "Operations on Box Plot",
+          "type": "video",
+          "duration": 311,
+          "url": "https://fast.wistia.com/embed/medias/3ud690pcnh.m3u8"
+        },
+        {
+          "id": "6944cb280bd5d26fb5098868",
+          "title": "Stack Plots",
+          "type": "video",
+          "duration": 409,
+          "url": "https://fast.wistia.com/embed/medias/k1uvqy769h.m3u8"
+        },
+        {
+          "id": "6944cb36d07fc23115055096",
+          "title": "Subplots",
+          "type": "video",
+          "duration": 451,
+          "url": "https://fast.wistia.com/embed/medias/azkde4x0nb.m3u8"
+        },
+        {
+          "id": "6944cb52a3886244af068e95",
+          "title": "Modern Matplotlib",
+          "type": "video",
+          "duration": 499,
+          "url": "https://fast.wistia.com/embed/medias/p8o7bwiv3f.m3u8"
+        },
+        {
+          "id": "6944cb8852b4c71bcf034006",
+          "title": "Practice Task (Weekly Temperature)",
+          "type": "video",
+          "duration": 581,
+          "url": "https://fast.wistia.com/embed/medias/v2uqvhxvwo.m3u8"
+        },
+        {
+          "id": "6944cbd2cb19030b690fd1e5",
+          "title": "Introduction to Seaborn",
+          "type": "video",
+          "duration": 539,
+          "url": "https://fast.wistia.com/embed/medias/dmh7foaora.m3u8"
+        },
+        {
+          "id": "6944cbfad170d9815104c5a8",
+          "title": "Creating Plots with Seaborn",
+          "type": "video",
+          "duration": 591,
+          "url": "https://fast.wistia.com/embed/medias/70mph2luk6.m3u8"
+        },
+        {
+          "id": "6944cc0d08a5de0e400653d3",
+          "title": "Relational Plots in Seaborn",
+          "type": "video",
+          "duration": 271,
+          "url": "https://fast.wistia.com/embed/medias/edk3anytnd.m3u8"
+        },
+        {
+          "id": "6944cc1aef59e47ff801bc87",
+          "title": "Categorical Plots in Seaborn",
+          "type": "video",
+          "duration": 241,
+          "url": "https://fast.wistia.com/embed/medias/8onvo7itic.m3u8"
+        },
+        {
+          "id": "6944cc29172886d21507bfda",
+          "title": "Distribution Plots in Seaborn",
+          "type": "video",
+          "duration": 140,
+          "url": "https://fast.wistia.com/embed/medias/g9if89xtly.m3u8"
+        },
+        {
+          "id": "6944cc3832412627ea0a6816",
+          "title": "Relational Plots in Seaborn - Heatmaps",
+          "type": "video",
+          "duration": 430,
+          "url": "https://fast.wistia.com/embed/medias/bwaqjkm5ry.m3u8"
+        },
+        {
+          "id": "6944cc4a2e908fb71f0d630a",
+          "title": "Best Practices for Data Visualization",
+          "type": "video",
+          "duration": 429,
+          "url": "https://fast.wistia.com/embed/medias/3hoymm8c4u.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_math_for_ai__probability",
+      "title": "Math for AI - Probability",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6947d09925ca2a1e4f0fb2d5",
+          "title": "Math for AI",
+          "type": "video",
+          "duration": 308,
+          "url": "https://fast.wistia.com/embed/medias/qfe9qdt7bv.m3u8"
+        },
+        {
+          "id": "6947d0cd945f0583f2044723",
+          "title": "Understanding Probability",
+          "type": "video",
+          "duration": 793,
+          "url": "https://fast.wistia.com/embed/medias/8fu5wl4lmw.m3u8"
+        },
+        {
+          "id": "6947d1030951b1d3970709d5",
+          "title": "Probability Examples",
+          "type": "video",
+          "duration": 338,
+          "url": "https://fast.wistia.com/embed/medias/kk7mlt67pd.m3u8"
+        },
+        {
+          "id": "6947d1280140c05aa7089a05",
+          "title": "Solving Practice Problems",
+          "type": "video",
+          "duration": 308,
+          "url": "https://fast.wistia.com/embed/medias/6e3b1n3zzv.m3u8"
+        },
+        {
+          "id": "6947d1412d4b0736280ada08",
+          "title": "Types of Events",
+          "type": "video",
+          "duration": 616,
+          "url": "https://fast.wistia.com/embed/medias/qzhbrxie0c.m3u8"
+        },
+        {
+          "id": "6947d1617b74966dda0fc705",
+          "title": "Complementary Rule",
+          "type": "video",
+          "duration": 190,
+          "url": "https://fast.wistia.com/embed/medias/kqpfw9emj2.m3u8"
+        },
+        {
+          "id": "6947d17b019671baf5000a85",
+          "title": "Addition Rule",
+          "type": "video",
+          "duration": 459,
+          "url": "https://fast.wistia.com/embed/medias/h8k41w3vvp.m3u8"
+        },
+        {
+          "id": "6947d1a08f3178b5d10badb7",
+          "title": "Multiplication Rule",
+          "type": "video",
+          "duration": 500,
+          "url": "https://fast.wistia.com/embed/medias/83djtjjdv6.m3u8"
+        },
+        {
+          "id": "6947d1b90c68837b590f1545",
+          "title": "Solving Practice Problems",
+          "type": "video",
+          "duration": 550,
+          "url": "https://fast.wistia.com/embed/medias/2dvvxnfa4o.m3u8"
+        },
+        {
+          "id": "6947d1deabbe9da99105b745",
+          "title": "Conditional Probability",
+          "type": "video",
+          "duration": 394,
+          "url": "https://fast.wistia.com/embed/medias/dkib564s1r.m3u8"
+        },
+        {
+          "id": "6947d1fb9fe26db602020126",
+          "title": "Law of Total Probability",
+          "type": "video",
+          "duration": 481,
+          "url": "https://fast.wistia.com/embed/medias/pm57f6vzv2.m3u8"
+        },
+        {
+          "id": "6947d2165a36bc93b70c55e5",
+          "title": "Bayes' Theorem",
+          "type": "video",
+          "duration": 707,
+          "url": "https://fast.wistia.com/embed/medias/guqdjig197.m3u8"
+        },
+        {
+          "id": "6947d24c6e69f99a13011043",
+          "title": "Solving Practice Problem",
+          "type": "video",
+          "duration": 411,
+          "url": "https://fast.wistia.com/embed/medias/0uslddrroc.m3u8"
+        },
+        {
+          "id": "6947d2721c4eab10770d3933",
+          "title": "Random Variables",
+          "type": "video",
+          "duration": 266,
+          "url": "https://fast.wistia.com/embed/medias/g8z7zat626.m3u8"
+        },
+        {
+          "id": "6947d292725d426b400d4cb5",
+          "title": "Mean, Median & Mode",
+          "type": "video",
+          "duration": 327,
+          "url": "https://fast.wistia.com/embed/medias/o1xnxuai7m.m3u8"
+        },
+        {
+          "id": "6947d2c927d0a9212f0840a5",
+          "title": "Variance & Standard Deviation",
+          "type": "video",
+          "duration": 588,
+          "url": "https://fast.wistia.com/embed/medias/3tmawleeb0.m3u8"
+        },
+        {
+          "id": "6947d39b1252d554ad0c5815",
+          "title": "Probability Distributions & its Types",
+          "type": "video",
+          "duration": 335,
+          "url": "https://fast.wistia.com/embed/medias/bo89msmd5k.m3u8"
+        },
+        {
+          "id": "6947d3a5ffea31e16d037973",
+          "title": "Binomial Distribution",
+          "type": "video",
+          "duration": 820,
+          "url": "https://fast.wistia.com/embed/medias/a8d4e6c2gu.m3u8"
+        },
+        {
+          "id": "6947d3b71d4b0a05cc07d7f5",
+          "title": "Uniform Distribution",
+          "type": "video",
+          "duration": 882,
+          "url": "https://fast.wistia.com/embed/medias/9y2qlcbac2.m3u8"
+        },
+        {
+          "id": "6947d3c1b40752c64202f413",
+          "title": "Normal Distribution",
+          "type": "video",
+          "duration": 513,
+          "url": "https://fast.wistia.com/embed/medias/ed49901v3y.m3u8"
+        },
+        {
+          "id": "694e8bdf040ad0efd205e4c5",
+          "title": "Central Limit Theorem",
+          "type": "video",
+          "duration": 519,
+          "url": "https://fast.wistia.com/embed/medias/73737ydpl4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_math_for_ai__linear_algebra",
+      "title": "Math for AI - Linear Algebra",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "694e66793ce3aa0b6a0c351b",
+          "title": "Introduction to Linear Algebra",
+          "type": "video",
+          "duration": 102,
+          "url": "https://fast.wistia.com/embed/medias/rk80unxzv2.m3u8"
+        },
+        {
+          "id": "694e66803a401b643801f5d3",
+          "title": "Straight Lines",
+          "type": "video",
+          "duration": 517,
+          "url": "https://fast.wistia.com/embed/medias/f4kfc9t6ul.m3u8"
+        },
+        {
+          "id": "694e68bfe5585cb57f0de4d7",
+          "title": "Distance between 2 Points",
+          "type": "video",
+          "duration": 208,
+          "url": "https://fast.wistia.com/embed/medias/ipqrjhmdas.m3u8"
+        },
+        {
+          "id": "694e68cbdbd4f8dc400bc725",
+          "title": "Parallel & Perpendicular Lines",
+          "type": "video",
+          "duration": 246,
+          "url": "https://fast.wistia.com/embed/medias/ojs9wfb2wa.m3u8"
+        },
+        {
+          "id": "694e68dce7398e321500fd55",
+          "title": "Distance between Parallel Lines",
+          "type": "video",
+          "duration": 398,
+          "url": "https://fast.wistia.com/embed/medias/bspkggeup7.m3u8"
+        },
+        {
+          "id": "694e68e886a8f4840c028796",
+          "title": "Practice Problem",
+          "type": "video",
+          "duration": 207,
+          "url": "https://fast.wistia.com/embed/medias/bvyhymkmfq.m3u8"
+        },
+        {
+          "id": "694e68fa55cedd235304da65",
+          "title": "Vectors",
+          "type": "video",
+          "duration": 181,
+          "url": "https://fast.wistia.com/embed/medias/dzy41qzk6u.m3u8"
+        },
+        {
+          "id": "694e690219246f59ab0a5116",
+          "title": "Vector Addition",
+          "type": "video",
+          "duration": 261,
+          "url": "https://fast.wistia.com/embed/medias/hodyf3it2c.m3u8"
+        },
+        {
+          "id": "694e692444e46d27d2076908",
+          "title": "Scalar Multiplication",
+          "type": "video",
+          "duration": 54,
+          "url": "https://fast.wistia.com/embed/medias/jrgc0od12d.m3u8"
+        },
+        {
+          "id": "694e6933d2fb1399b304a316",
+          "title": "Dot Product",
+          "type": "video",
+          "duration": 269,
+          "url": "https://fast.wistia.com/embed/medias/ivy3kgq23s.m3u8"
+        },
+        {
+          "id": "694e7788f5fc08216a0c26a5",
+          "title": "Cross Product",
+          "type": "video",
+          "duration": 204,
+          "url": "https://fast.wistia.com/embed/medias/tofnbpjrvb.m3u8"
+        },
+        {
+          "id": "694e778f1843e809700b2345",
+          "title": "Matrix",
+          "type": "video",
+          "duration": 117,
+          "url": "https://fast.wistia.com/embed/medias/o4zi0lkedn.m3u8"
+        },
+        {
+          "id": "694e77ac0c45645f310cc953",
+          "title": "Operations on Matrices",
+          "type": "video",
+          "duration": 457,
+          "url": "https://fast.wistia.com/embed/medias/gm91ue1zyu.m3u8"
+        },
+        {
+          "id": "694e77c8725b231f2f0fea89",
+          "title": "Determinants",
+          "type": "video",
+          "duration": 540,
+          "url": "https://fast.wistia.com/embed/medias/61mk4h9a2w.m3u8"
+        },
+        {
+          "id": "694e77d48eeb12bee905b064",
+          "title": "Eigen Vectors & Eigen Values",
+          "type": "video",
+          "duration": 587,
+          "url": "https://fast.wistia.com/embed/medias/b70zkpx5dl.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_math_for_ai__calculus",
+      "title": "Math for AI - Calculus",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "694e7817e6ebd87f890a3fd5",
+          "title": "Calculus Introduction",
+          "type": "video",
+          "duration": 240,
+          "url": "https://fast.wistia.com/embed/medias/jycobe27zg.m3u8"
+        },
+        {
+          "id": "694e7dd05f45f758b504a7d5",
+          "title": "Functions",
+          "type": "video",
+          "duration": 593,
+          "url": "https://fast.wistia.com/embed/medias/plqq2czrkk.m3u8"
+        },
+        {
+          "id": "694e7dd87fe2acf2ed099d38",
+          "title": "Composite Functions",
+          "type": "video",
+          "duration": 167,
+          "url": "https://fast.wistia.com/embed/medias/hhrnhm1g1s.m3u8"
+        },
+        {
+          "id": "694e7dfdc9cc189722014468",
+          "title": "Functions: Scalar Multiplication & Addition",
+          "type": "video",
+          "duration": 839,
+          "url": "https://fast.wistia.com/embed/medias/f4djgcsu78.m3u8"
+        },
+        {
+          "id": "694e7e101d686f27f500a0c6",
+          "title": "Input: Scalar Multiplication & Addition",
+          "type": "video",
+          "duration": 520,
+          "url": "https://fast.wistia.com/embed/medias/9lqwemfxtb.m3u8"
+        },
+        {
+          "id": "694e7e1bd3df51ea7b063fd5",
+          "title": "Differentiation",
+          "type": "video",
+          "duration": 708,
+          "url": "https://fast.wistia.com/embed/medias/ipj7k47qh5.m3u8"
+        },
+        {
+          "id": "694e7e294f794a212706eee5",
+          "title": "Differentiation Rules",
+          "type": "video",
+          "duration": 633,
+          "url": "https://fast.wistia.com/embed/medias/a0xhfm1ody.m3u8"
+        },
+        {
+          "id": "694e7e36bf06ed9914028705",
+          "title": "Finding Minima / Maxima",
+          "type": "video",
+          "duration": 633,
+          "url": "https://fast.wistia.com/embed/medias/gs6c29o9yn.m3u8"
+        },
+        {
+          "id": "694e7e3c1c66f1590a0d9405",
+          "title": "Practice Problem",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/kjnr01wzv4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_starting_with_machine_learning",
+      "title": "Starting with Machine Learning",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6951189e40792a4029043ef5",
+          "title": "Introduction to Machine Learning",
+          "type": "video",
+          "duration": 329,
+          "url": "https://fast.wistia.com/embed/medias/qx5qawigg9.m3u8"
+        },
+        {
+          "id": "695118a5a7171f35e2061436",
+          "title": "Types of ML (Supervised)",
+          "type": "video",
+          "duration": 279,
+          "url": "https://fast.wistia.com/embed/medias/ib5b88gsqv.m3u8"
+        },
+        {
+          "id": "695119c103795ecad200a4f6",
+          "title": "Types of ML (Unsupervised & RL)",
+          "type": "video",
+          "duration": 273,
+          "url": "https://fast.wistia.com/embed/medias/wrj2evavqr.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_machine_learning_part1",
+      "title": "Supervised ML (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "695119cc712dabe4770d48e5",
+          "title": "Supervised Machine Learning",
+          "type": "video",
+          "duration": 698,
+          "url": "https://fast.wistia.com/embed/medias/3tgjmvprll.m3u8"
+        },
+        {
+          "id": "695119db339a9d710a0ae547",
+          "title": "Regression & Classification",
+          "type": "video",
+          "duration": 407,
+          "url": "https://fast.wistia.com/embed/medias/lnjvopovck.m3u8"
+        },
+        {
+          "id": "695119e814b6f47c1202c729",
+          "title": "Introduction to sklearn",
+          "type": "video",
+          "duration": 355,
+          "url": "https://fast.wistia.com/embed/medias/84e01xmr0x.m3u8"
+        },
+        {
+          "id": "695119f617fd328c4c0ab6c5",
+          "title": "Linear Regression (Algorithm 1)",
+          "type": "video",
+          "duration": 608,
+          "url": "https://fast.wistia.com/embed/medias/oz5drkelx5.m3u8"
+        },
+        {
+          "id": "69511a058ebad9aac10bb583",
+          "title": "What is Best Fit Line?",
+          "type": "video",
+          "duration": 741,
+          "url": "https://fast.wistia.com/embed/medias/6wgx3aesyc.m3u8"
+        },
+        {
+          "id": "69511a0f8cfcc5bb1c0eb423",
+          "title": "What is Cost Function?",
+          "type": "video",
+          "duration": 558,
+          "url": "https://fast.wistia.com/embed/medias/1xccx3m4aa.m3u8"
+        },
+        {
+          "id": "69511a3e01dc2ccea5074455",
+          "title": "Understanding Cost Function Curve",
+          "type": "video",
+          "duration": 559,
+          "url": "https://fast.wistia.com/embed/medias/vxwuzbq36n.m3u8"
+        },
+        {
+          "id": "69511a524b443dfca605a355",
+          "title": "What is Gradient Descent?",
+          "type": "video",
+          "duration": 826,
+          "url": "https://fast.wistia.com/embed/medias/t2s7o2a9jb.m3u8"
+        },
+        {
+          "id": "69511a60fa33c06ce40d7923",
+          "title": "Summary",
+          "type": "video",
+          "duration": 179,
+          "url": "https://fast.wistia.com/embed/medias/ycupkq2ui6.m3u8"
+        },
+        {
+          "id": "69511a806954a47c8e006017",
+          "title": "Linear Regression (Code)",
+          "type": "video",
+          "duration": 944,
+          "url": "https://fast.wistia.com/embed/medias/1no4kf84pq.m3u8"
+        },
+        {
+          "id": "69511a89fcea97ef140203e9",
+          "title": "Regression Evaluation Metrics",
+          "type": "video",
+          "duration": 718,
+          "url": "https://fast.wistia.com/embed/medias/9fri9qy0w4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_machine_learning_part2",
+      "title": "Supervised ML (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6957ba0ff7abaab0b502b109",
+          "title": "Feature Engineering - Encoding",
+          "type": "video",
+          "duration": 476,
+          "url": "https://fast.wistia.com/embed/medias/v9gutn2md7.m3u8"
+        },
+        {
+          "id": "6957ba16830518d0400f6946",
+          "title": "Dummy Variable Trap",
+          "type": "video",
+          "duration": 369,
+          "url": "https://fast.wistia.com/embed/medias/c10ef2yjv2.m3u8"
+        },
+        {
+          "id": "6957ba645f705d9db60fcf33",
+          "title": "Other FE Techniques",
+          "type": "video",
+          "duration": 499,
+          "url": "https://fast.wistia.com/embed/medias/ywlfhbnnmb.m3u8"
+        },
+        {
+          "id": "6957bacabb2c03c2ce0294d3",
+          "title": "Overfitting",
+          "type": "video",
+          "duration": 426,
+          "url": "https://fast.wistia.com/embed/medias/s5e98o9alt.m3u8"
+        },
+        {
+          "id": "6957bada01187f54cc04a673",
+          "title": "Underfitting",
+          "type": "video",
+          "duration": 450,
+          "url": "https://fast.wistia.com/embed/medias/20t8yr3vxf.m3u8"
+        },
+        {
+          "id": "6957bae5908589b7f00925c6",
+          "title": "How to fix Underfit & Overfit?",
+          "type": "video",
+          "duration": 386,
+          "url": "https://fast.wistia.com/embed/medias/btdr90kjlk.m3u8"
+        },
+        {
+          "id": "6957bb5df2d689ee300981b5",
+          "title": "Is Model underfitting or overfitting?",
+          "type": "video",
+          "duration": 295,
+          "url": "https://fast.wistia.com/embed/medias/z3ak2qqujt.m3u8"
+        },
+        {
+          "id": "6957bbb00fb63e1c400338f3",
+          "title": "Regularization (Lasso Regression)",
+          "type": "video",
+          "duration": 555,
+          "url": "https://fast.wistia.com/embed/medias/2kt6jfc5n2.m3u8"
+        },
+        {
+          "id": "6957bd1b9e63088ef80b9026",
+          "title": "Regularization (Ridge Regression)",
+          "type": "video",
+          "duration": 272,
+          "url": "https://fast.wistia.com/embed/medias/92hbp3mhp7.m3u8"
+        },
+        {
+          "id": "6957bbf15ed91944bb0b5e05",
+          "title": "Lasso Regression (Algorithm 2)",
+          "type": "video",
+          "duration": 616,
+          "url": "https://fast.wistia.com/embed/medias/gyxot195uy.m3u8"
+        },
+        {
+          "id": "6957bc56e721eaa8cc061447",
+          "title": "Using LassoCV",
+          "type": "video",
+          "duration": 409,
+          "url": "https://fast.wistia.com/embed/medias/fthwzvo8ws.m3u8"
+        },
+        {
+          "id": "6957bd0bbeffde4a8f036da5",
+          "title": "ElasticNet Overview",
+          "type": "video",
+          "duration": 236,
+          "url": "https://fast.wistia.com/embed/medias/ck27i3kt5o.m3u8"
+        },
+        {
+          "id": "6957bd645cb32f2c0e0a9cf5",
+          "title": "Logistic Regression (Algorithm 3)",
+          "type": "video",
+          "duration": 1205,
+          "url": "https://fast.wistia.com/embed/medias/ixp54smrne.m3u8"
+        },
+        {
+          "id": "6957bdbd964a551fdb08f455",
+          "title": "Logistic Regression (Cost Fnx)",
+          "type": "video",
+          "duration": 679,
+          "url": "https://fast.wistia.com/embed/medias/49nn4vgjnv.m3u8"
+        },
+        {
+          "id": "6957bf449245b545820c6613",
+          "title": "Logistic Regression (Code)",
+          "type": "video",
+          "duration": 675,
+          "url": "https://fast.wistia.com/embed/medias/1vi8awgyhp.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_machine_learning_part_3",
+      "title": "Supervised ML (Part 3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6957c079c9455bde3f05bcc3",
+          "title": "Standardization & Normalization",
+          "type": "video",
+          "duration": 224,
+          "url": "https://fast.wistia.com/embed/medias/8ymh30lmd0.m3u8"
+        },
+        {
+          "id": "6957c07fd5c91c4fa30ce4f5",
+          "title": "Using StandardScaler",
+          "type": "video",
+          "duration": 356,
+          "url": "https://fast.wistia.com/embed/medias/j0j1sqq4ci.m3u8"
+        },
+        {
+          "id": "6957c0981357d67b8e098c27",
+          "title": "Understanding Confusion Matrix",
+          "type": "video",
+          "duration": 518,
+          "url": "https://fast.wistia.com/embed/medias/vnwbw9fzzf.m3u8"
+        },
+        {
+          "id": "6957c0e1056c1ce7cc0bfda5",
+          "title": "Classification Evaluation Metrics",
+          "type": "video",
+          "duration": 621,
+          "url": "https://fast.wistia.com/embed/medias/czzveqn2ib.m3u8"
+        },
+        {
+          "id": "6958e8d11c0e749ea6038dd3",
+          "title": "Naive Bayes (Algorithm 4)",
+          "type": "video",
+          "duration": 621,
+          "url": "https://fast.wistia.com/embed/medias/obbr4kgv1o.m3u8"
+        },
+        {
+          "id": "6958e8d7d6927fc162035697",
+          "title": "Naive Bayes (Example)",
+          "type": "video",
+          "duration": 441,
+          "url": "https://fast.wistia.com/embed/medias/ft9d2yg5j9.m3u8"
+        },
+        {
+          "id": "6958e91016c35efbf90f3275",
+          "title": "Types of Naive Bayes",
+          "type": "video",
+          "duration": 215,
+          "url": "https://fast.wistia.com/embed/medias/oaa645eefd.m3u8"
+        },
+        {
+          "id": "6958e91a9256647c550ef7d5",
+          "title": "Naive Bayes (Code)",
+          "type": "video",
+          "duration": 432,
+          "url": "https://fast.wistia.com/embed/medias/2puqgnvdto.m3u8"
+        },
+        {
+          "id": "6958e92c83379c58e606c285",
+          "title": "kNN (Algorithm 5)",
+          "type": "video",
+          "duration": 726,
+          "url": "https://fast.wistia.com/embed/medias/191yb8rvqm.m3u8"
+        },
+        {
+          "id": "6958e93ea3ba394b35093fd5",
+          "title": "kNN (Code)",
+          "type": "video",
+          "duration": 401,
+          "url": "https://fast.wistia.com/embed/medias/m3g22of8ab.m3u8"
+        },
+        {
+          "id": "6958e94652da06dd52035653",
+          "title": "Limitations of kNN",
+          "type": "video",
+          "duration": 243,
+          "url": "https://fast.wistia.com/embed/medias/4qmt8wcxr0.m3u8"
+        },
+        {
+          "id": "6958e95ca8a07c0405098853",
+          "title": "What is Validation Data?",
+          "type": "video",
+          "duration": 303,
+          "url": "https://fast.wistia.com/embed/medias/ukeikil6ci.m3u8"
+        },
+        {
+          "id": "6958e9657d8b2af4d9059a25",
+          "title": "What is Cross Validation?",
+          "type": "video",
+          "duration": 364,
+          "url": "https://fast.wistia.com/embed/medias/vqwf45lkjb.m3u8"
+        },
+        {
+          "id": "6958e9769c7ad86bf101fc45",
+          "title": "CV for Hyperparameter Tuning",
+          "type": "video",
+          "duration": 591,
+          "url": "https://fast.wistia.com/embed/medias/jk3z8gk8q5.m3u8"
+        },
+        {
+          "id": "6958e987184e1be0eb0bdbbc",
+          "title": "Pipeline in sklearn",
+          "type": "video",
+          "duration": 481,
+          "url": "https://fast.wistia.com/embed/medias/wwnk56e5ou.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_scratch_implementations_addon",
+      "title": "Scratch Implementations [ADD-ON]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6960ff3d199f622535064a26",
+          "title": "Section Introduction",
+          "type": "video",
+          "duration": 165,
+          "url": "https://fast.wistia.com/embed/medias/hgm58fhr7s.m3u8"
+        },
+        {
+          "id": "6960ff954afb9f93f2065c95",
+          "title": "Linear Regression (with Gradient Descent)",
+          "type": "video",
+          "duration": 649,
+          "url": "https://fast.wistia.com/embed/medias/wz6ocv510z.m3u8"
+        },
+        {
+          "id": "6960ffa442d60678030e12e7",
+          "title": "LR with GD (Step1)",
+          "type": "video",
+          "duration": 526,
+          "url": "https://fast.wistia.com/embed/medias/lvdohjm71p.m3u8"
+        },
+        {
+          "id": "6960ffa8a1301fbc0107cea5",
+          "title": "LR with GD (Step2)",
+          "type": "video",
+          "duration": 121,
+          "url": "https://fast.wistia.com/embed/medias/p0avl4la0a.m3u8"
+        },
+        {
+          "id": "6960ffadb25767c6fb0571d5",
+          "title": "LR with GD (Step3)",
+          "type": "video",
+          "duration": 462,
+          "url": "https://fast.wistia.com/embed/medias/bdwvf6zyx3.m3u8"
+        },
+        {
+          "id": "6960ffb12214c439b70a3b36",
+          "title": "LR with GD (Step4)",
+          "type": "video",
+          "duration": 489,
+          "url": "https://fast.wistia.com/embed/medias/yaf10ptum1.m3u8"
+        },
+        {
+          "id": "696100beef1c60aeef08e477",
+          "title": "Linear Regression (with OLS)",
+          "type": "video",
+          "duration": 893,
+          "url": "https://fast.wistia.com/embed/medias/rz2bgr3jzk.m3u8"
+        },
+        {
+          "id": "696100ca254c2b9dd906f525",
+          "title": "LR with Gradient Descent vs OLS",
+          "type": "video",
+          "duration": 213,
+          "url": "https://fast.wistia.com/embed/medias/gzv16psz6r.m3u8"
+        },
+        {
+          "id": "69610196d652f41e3d065747",
+          "title": "Logistic Regression (steps)",
+          "type": "video",
+          "duration": 505,
+          "url": "https://fast.wistia.com/embed/medias/lw182a7xqq.m3u8"
+        },
+        {
+          "id": "6961019e78174544c004a176",
+          "title": "Logistic Regression Implementation",
+          "type": "video",
+          "duration": 713,
+          "url": "https://fast.wistia.com/embed/medias/bs2v1pa18g.m3u8"
+        },
+        {
+          "id": "696101f1bd183b4a37052f15",
+          "title": "KNN Classifier (steps)",
+          "type": "video",
+          "duration": 215,
+          "url": "https://fast.wistia.com/embed/medias/v2ozhw7un5.m3u8"
+        },
+        {
+          "id": "696101fee9858338420ddde3",
+          "title": "KNN Classifier Implementation",
+          "type": "video",
+          "duration": 1290,
+          "url": "https://fast.wistia.com/embed/medias/n7080ypnue.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_minor_project_1__loan_approval_prediction",
+      "title": "CreditWise Loan System (Minor Project)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "696232e64fba1bea4703d3b9",
+          "title": "Project Introduction",
+          "type": "video",
+          "duration": 683,
+          "url": "https://fast.wistia.com/embed/medias/7hc0guvyds.m3u8"
+        },
+        {
+          "id": "696233920b0fae4f940f3b9a",
+          "title": "Handle Missing Data",
+          "type": "video",
+          "duration": 479,
+          "url": "https://fast.wistia.com/embed/medias/dua0el30tw.m3u8"
+        },
+        {
+          "id": "6962337b3287861e0c07fc45",
+          "title": "Exploratory Data Analysis (EDA)",
+          "type": "video",
+          "duration": 1142,
+          "url": "https://fast.wistia.com/embed/medias/jd8sszc6nl.m3u8"
+        },
+        {
+          "id": "696233a2c5ac9b150803f5f7",
+          "title": "Feature Encoding",
+          "type": "video",
+          "duration": 749,
+          "url": "https://fast.wistia.com/embed/medias/0kluem08lj.m3u8"
+        },
+        {
+          "id": "696233af884b60cf0509ed33",
+          "title": "Correlation Heatmap",
+          "type": "video",
+          "duration": 618,
+          "url": "https://fast.wistia.com/embed/medias/qjj8ui5xgy.m3u8"
+        },
+        {
+          "id": "696233bb902909d3c10f5977",
+          "title": "Feature Scaling",
+          "type": "video",
+          "duration": 217,
+          "url": "https://fast.wistia.com/embed/medias/a79h4f5qbv.m3u8"
+        },
+        {
+          "id": "696233c68f07d51a3a0c9523",
+          "title": "Model Training & Evaluation",
+          "type": "video",
+          "duration": 614,
+          "url": "https://fast.wistia.com/embed/medias/4n7s7w0az9.m3u8"
+        },
+        {
+          "id": "696233d4e53885e04b035457",
+          "title": "Feature Engineering to Improve Model",
+          "type": "video",
+          "duration": 548,
+          "url": "https://fast.wistia.com/embed/medias/1zkx97l0d3.m3u8"
+        },
+        {
+          "id": "696233e295657f315e072b9c",
+          "title": "Important Pointers",
+          "type": "video",
+          "duration": 283,
+          "url": "https://fast.wistia.com/embed/medias/8hv8scmoxu.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_supervised_ml_part_4",
+      "title": "Supervised ML (Part 4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6969f0b2c41ca4201901cdc7",
+          "title": "Introduction to Decision Trees",
+          "type": "video",
+          "duration": 764,
+          "url": "https://fast.wistia.com/embed/medias/o8yvrua14l.m3u8"
+        },
+        {
+          "id": "6969f0cae190936447071f25",
+          "title": "Decision Tree Classifier",
+          "type": "video",
+          "duration": 562,
+          "url": "https://fast.wistia.com/embed/medias/sdjj1yalzy.m3u8"
+        },
+        {
+          "id": "6969f0df0d0cb15cdc084806",
+          "title": "Entropy (Impurity Metric)",
+          "type": "video",
+          "duration": 615,
+          "url": "https://fast.wistia.com/embed/medias/9q36cvjwp8.m3u8"
+        },
+        {
+          "id": "6969f126393a7153e30b5265",
+          "title": "Gini Impurity",
+          "type": "video",
+          "duration": 261,
+          "url": "https://fast.wistia.com/embed/medias/o1gtb5w5ug.m3u8"
+        },
+        {
+          "id": "6969f133a698f785b105f356",
+          "title": "Entropy v/s Gini Impurity",
+          "type": "video",
+          "duration": 133,
+          "url": "https://fast.wistia.com/embed/medias/ec7185e5fg.m3u8"
+        },
+        {
+          "id": "6969f14a5b87158289081716",
+          "title": "Information Gain",
+          "type": "video",
+          "duration": 640,
+          "url": "https://fast.wistia.com/embed/medias/j27d1kb9fr.m3u8"
+        },
+        {
+          "id": "6969f18c6b4022e9f50eb615",
+          "title": "Pruning Decision Trees",
+          "type": "video",
+          "duration": 334,
+          "url": "https://fast.wistia.com/embed/medias/m5u7dong85.m3u8"
+        },
+        {
+          "id": "6969f195cf30f075f7083215",
+          "title": "Common Pruning Rules",
+          "type": "video",
+          "duration": 204,
+          "url": "https://fast.wistia.com/embed/medias/hlvh5n687m.m3u8"
+        },
+        {
+          "id": "6969f1f6629b3d931d065a26",
+          "title": "Decision Tree Classifier (Code)",
+          "type": "video",
+          "duration": 1002,
+          "url": "https://fast.wistia.com/embed/medias/h3c73j4bjq.m3u8"
+        },
+        {
+          "id": "6969f237da5d4957330e3417",
+          "title": "Pre-Pruning Implementation",
+          "type": "video",
+          "duration": 403,
+          "url": "https://fast.wistia.com/embed/medias/8szeizbmul.m3u8"
+        },
+        {
+          "id": "6969f23c8ffa5081e10eebc5",
+          "title": "Post-Pruning Implementation",
+          "type": "video",
+          "duration": 542,
+          "url": "https://fast.wistia.com/embed/medias/y9ltrbihma.m3u8"
+        },
+        {
+          "id": "6969f29d2cbfe1500006b995",
+          "title": "Decision Tree Regressor",
+          "type": "video",
+          "duration": 614,
+          "url": "https://fast.wistia.com/embed/medias/knqz0s7ay1.m3u8"
+        },
+        {
+          "id": "6969f2e180e8b61e2f0f70d5",
+          "title": "Variance Reduction",
+          "type": "video",
+          "duration": 355,
+          "url": "https://fast.wistia.com/embed/medias/3he706powi.m3u8"
+        },
+        {
+          "id": "6969f2fa7f7d7c3f1b05ae85",
+          "title": "Decision Tree Regressor (Code)",
+          "type": "video",
+          "duration": 610,
+          "url": "https://fast.wistia.com/embed/medias/fgq26hp73i.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_supervised_ml_part_5",
+      "title": "Supervised ML (Part 5)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "696b98356d8f677fd60d9278",
+          "title": "Introduction to SVM",
+          "type": "video",
+          "duration": 592,
+          "url": "https://fast.wistia.com/embed/medias/ww0kmze2fq.m3u8"
+        },
+        {
+          "id": "696b98541c4a6d1e85094356",
+          "title": "SVM Classifier (Intuition)",
+          "type": "video",
+          "duration": 575,
+          "url": "https://fast.wistia.com/embed/medias/70hxg2wpce.m3u8"
+        },
+        {
+          "id": "696b9875eba784cbf3071455",
+          "title": "Classification Hyperparameters",
+          "type": "video",
+          "duration": 463,
+          "url": "https://fast.wistia.com/embed/medias/h6y10ka0xn.m3u8"
+        },
+        {
+          "id": "696b9883e555fea260007c43",
+          "title": "Kernel in SVM",
+          "type": "video",
+          "duration": 399,
+          "url": "https://fast.wistia.com/embed/medias/5lwz14f5as.m3u8"
+        },
+        {
+          "id": "696b988ad35374e7290a4a18",
+          "title": "Common Kernel Types",
+          "type": "video",
+          "duration": 156,
+          "url": "https://fast.wistia.com/embed/medias/hbe9rdd9dz.m3u8"
+        },
+        {
+          "id": "696b98a16913a9f563065877",
+          "title": "SVM Classifier (Code)",
+          "type": "video",
+          "duration": 637,
+          "url": "https://fast.wistia.com/embed/medias/t3o4dktcnj.m3u8"
+        },
+        {
+          "id": "696b98b210d2dee6160ddd36",
+          "title": "SVM Regressor (Intuition)",
+          "type": "video",
+          "duration": 385,
+          "url": "https://fast.wistia.com/embed/medias/ricepg2agr.m3u8"
+        },
+        {
+          "id": "696b98c443c757ce040ce605",
+          "title": "SVM Regressor (Code)",
+          "type": "video",
+          "duration": 607,
+          "url": "https://fast.wistia.com/embed/medias/tjpqa15cgb.m3u8"
+        },
+        {
+          "id": "696b98e117d1dcdbda08d7d5",
+          "title": "GridSearchCV for Hyperparameters",
+          "type": "video",
+          "duration": 267,
+          "url": "https://fast.wistia.com/embed/medias/du9gzeozzl.m3u8"
+        },
+        {
+          "id": "696b99a89ec5d18dd3049aa7",
+          "title": "LinearSVR v/s SVR",
+          "type": "video",
+          "duration": 169,
+          "url": "https://fast.wistia.com/embed/medias/jdcwr97pjy.m3u8"
+        },
+        {
+          "id": "6929c593fd6cee59bc07df88",
+          "title": "Ensemble Learning",
+          "type": "video",
+          "duration": 423,
+          "url": "https://fast.wistia.com/embed/medias/m8ec7v88ex.m3u8"
+        },
+        {
+          "id": "696ba535dee76086d90c36d5",
+          "title": "What is Bagging?",
+          "type": "video",
+          "duration": 414,
+          "url": "https://fast.wistia.com/embed/medias/rr773smbql.m3u8"
+        },
+        {
+          "id": "696ba53b8bf2a052fd0009ea",
+          "title": "What is Boosting?",
+          "type": "video",
+          "duration": 234,
+          "url": "https://fast.wistia.com/embed/medias/04z3clacya.m3u8"
+        },
+        {
+          "id": "696ba542d068cac27101aa13",
+          "title": "Random Forest",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/aj60xvxxny.m3u8"
+        },
+        {
+          "id": "696ba54c3dbcf9081e0769a8",
+          "title": "Out Of Bag (OOB)",
+          "type": "video",
+          "duration": 432,
+          "url": "https://fast.wistia.com/embed/medias/7zntambr4g.m3u8"
+        },
+        {
+          "id": "696ba559eeb13e22d008b066",
+          "title": "Random Forest (Implementation)",
+          "type": "video",
+          "duration": 670,
+          "url": "https://fast.wistia.com/embed/medias/6n1ov4ab34.m3u8"
+        },
+        {
+          "id": "696ba564ab1529507b03b0ba",
+          "title": "Decision Tree v/s Random Forest",
+          "type": "video",
+          "duration": 118,
+          "url": "https://fast.wistia.com/embed/medias/gdyzzo8oa1.m3u8"
+        },
+        {
+          "id": "696ba5739608cf90e103d4fa",
+          "title": "Bagging Classifier & Regressor",
+          "type": "video",
+          "duration": 296,
+          "url": "https://fast.wistia.com/embed/medias/qekozq0j64.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_supervised_ml_part_6",
+      "title": "Supervised ML (Part 6)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "697358c32e9f8812090415e3",
+          "title": "Gradient Boosting Regressor",
+          "type": "video",
+          "duration": 946,
+          "url": "https://fast.wistia.com/embed/medias/ox5beo1o19.m3u8"
+        },
+        {
+          "id": "697359053c6869b183023ef5",
+          "title": "GB Classifier (Intuition)",
+          "type": "video",
+          "duration": 230,
+          "url": "https://fast.wistia.com/embed/medias/c1ogo9ovva.m3u8"
+        },
+        {
+          "id": "697358cdeab5a7cc01087a85",
+          "title": "GB Regressor (Code)",
+          "type": "video",
+          "duration": 446,
+          "url": "https://fast.wistia.com/embed/medias/sv1mtisd7v.m3u8"
+        },
+        {
+          "id": "697358d74273cf053a01ccd3",
+          "title": "GB Classifier (Code)",
+          "type": "video",
+          "duration": 256,
+          "url": "https://fast.wistia.com/embed/medias/178nlu5e9a.m3u8"
+        },
+        {
+          "id": "6973591da653c99c4d041d65",
+          "title": "AdaBoost (Intuition)",
+          "type": "video",
+          "duration": 1064,
+          "url": "https://fast.wistia.com/embed/medias/n54m144938.m3u8"
+        },
+        {
+          "id": "6973592fce42f63967065d06",
+          "title": "AdaBoost (Code)",
+          "type": "video",
+          "duration": 386,
+          "url": "https://fast.wistia.com/embed/medias/w9b3u7y5sp.m3u8"
+        },
+        {
+          "id": "69735a36d72a685f3b09b865",
+          "title": "Other Boosting Algorithms",
+          "type": "video",
+          "duration": 163,
+          "url": "https://fast.wistia.com/embed/medias/cpkjznj54b.m3u8"
+        },
+        {
+          "id": "69735a3ed9411a85ea035cca",
+          "title": "XGBoost Code",
+          "type": "video",
+          "duration": 511,
+          "url": "https://fast.wistia.com/embed/medias/r2v7gvtzna.m3u8"
+        },
+        {
+          "id": "69735a500f7c4527a70ed8d5",
+          "title": "Homogenous v/s Heterogenous Ensemble",
+          "type": "video",
+          "duration": 227,
+          "url": "https://fast.wistia.com/embed/medias/85bf7iwtk9.m3u8"
+        },
+        {
+          "id": "69735a5cc834c45add08e265",
+          "title": "Voting (Logic)",
+          "type": "video",
+          "duration": 173,
+          "url": "https://fast.wistia.com/embed/medias/qf6spiilgo.m3u8"
+        },
+        {
+          "id": "69735a622e184d9f2504d056",
+          "title": "Voting (Code)",
+          "type": "video",
+          "duration": 660,
+          "url": "https://fast.wistia.com/embed/medias/lghig3ixqk.m3u8"
+        },
+        {
+          "id": "69735a6bd3bc3fcb8608fe96",
+          "title": "Stacking (Logic)",
+          "type": "video",
+          "duration": 260,
+          "url": "https://fast.wistia.com/embed/medias/q6br81tu65.m3u8"
+        },
+        {
+          "id": "69735a73391480b18d008086",
+          "title": "What is Blending?",
+          "type": "video",
+          "duration": 275,
+          "url": "https://fast.wistia.com/embed/medias/n9j4iw6kw0.m3u8"
+        },
+        {
+          "id": "69735a7ac47a9bdef7075417",
+          "title": "Stacking (Code)",
+          "type": "video",
+          "duration": 377,
+          "url": "https://fast.wistia.com/embed/medias/ojyceuwmle.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_unsupervised_ml_part_1",
+      "title": "Unsupervised ML (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "697ca9a86c227ae16b0bf545",
+          "title": "Introduction to Unsupervised ML",
+          "type": "video",
+          "duration": 505,
+          "url": "https://fast.wistia.com/embed/medias/7apla1v43v.m3u8"
+        },
+        {
+          "id": "697ca9b1a1eee5ce5d0ea1b3",
+          "title": "What is Clustering?",
+          "type": "video",
+          "duration": 240,
+          "url": "https://fast.wistia.com/embed/medias/z7omgscajv.m3u8"
+        },
+        {
+          "id": "697ca9baa0fac68ecd01e19a",
+          "title": "K-Means Clustering",
+          "type": "video",
+          "duration": 871,
+          "url": "https://fast.wistia.com/embed/medias/z1ak7y79q8.m3u8"
+        },
+        {
+          "id": "697ca9c5961c108f4f0f0b25",
+          "title": "Elbow Method for K",
+          "type": "video",
+          "duration": 557,
+          "url": "https://fast.wistia.com/embed/medias/39qrtlc8rf.m3u8"
+        },
+        {
+          "id": "697ca9cf6ee499ec410962e8",
+          "title": "Silhouette Score for K",
+          "type": "video",
+          "duration": 846,
+          "url": "https://fast.wistia.com/embed/medias/m88nbdfmeq.m3u8"
+        },
+        {
+          "id": "697ca9dd74e59deb1f08e353",
+          "title": "Random Initialization Trap",
+          "type": "video",
+          "duration": 213,
+          "url": "https://fast.wistia.com/embed/medias/qb3dx4z2xn.m3u8"
+        },
+        {
+          "id": "697ca9e65c3b1a9384072183",
+          "title": "K-Means (Code)",
+          "type": "video",
+          "duration": 731,
+          "url": "https://fast.wistia.com/embed/medias/auijq2w1ms.m3u8"
+        },
+        {
+          "id": "697caefcbc63388d3e02e0a5",
+          "title": "Choosing K (Code)",
+          "type": "video",
+          "duration": 554,
+          "url": "https://fast.wistia.com/embed/medias/x29s8zfnqs.m3u8"
+        },
+        {
+          "id": "697ca9ee22f9a6cac209b069",
+          "title": "K-Means for Iris Dataset",
+          "type": "video",
+          "duration": 1208,
+          "url": "https://fast.wistia.com/embed/medias/g9pa9f06sy.m3u8"
+        },
+        {
+          "id": "697ca9f9aecea88b4e0a9a13",
+          "title": "Hierarchical Clustering",
+          "type": "video",
+          "duration": 582,
+          "url": "https://fast.wistia.com/embed/medias/hkohjelki0.m3u8"
+        },
+        {
+          "id": "697caa071433188a170f55d9",
+          "title": "What is Dendrogram?",
+          "type": "video",
+          "duration": 588,
+          "url": "https://fast.wistia.com/embed/medias/qq1ukf380k.m3u8"
+        },
+        {
+          "id": "697caa3affd74e1a760b1235",
+          "title": "Hierarchical Clustering (Code)",
+          "type": "video",
+          "duration": 470,
+          "url": "https://fast.wistia.com/embed/medias/cjr477nkg4.m3u8"
+        },
+        {
+          "id": "697caa498c9c36238f0e9895",
+          "title": "K-Means v/s Hierarchical Clustering",
+          "type": "video",
+          "duration": 200,
+          "url": "https://fast.wistia.com/embed/medias/tglgiwu9my.m3u8"
+        },
+        {
+          "id": "697caa5305e82ce57f05c965",
+          "title": "DBSCAN Clustering",
+          "type": "video",
+          "duration": 863,
+          "url": "https://fast.wistia.com/embed/medias/3py9cjkj6o.m3u8"
+        },
+        {
+          "id": "697caa5d2419cb21b0098615",
+          "title": "DBSCAN (Code)",
+          "type": "video",
+          "duration": 300,
+          "url": "https://fast.wistia.com/embed/medias/izltc22164.m3u8"
+        },
+        {
+          "id": "697caa6ffe00aedb1b0799c6",
+          "title": "K-Means v/s DBSCAN (non-linear)",
+          "type": "video",
+          "duration": 323,
+          "url": "https://fast.wistia.com/embed/medias/egumforhhp.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_unsupervised_ml_part_2",
+      "title": "Unsupervised ML (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "697de908c9ad111a6a0a1585",
+          "title": "Dimensionality Reduction",
+          "type": "video",
+          "duration": 994,
+          "url": "https://fast.wistia.com/embed/medias/ngs1gp2zay.m3u8"
+        },
+        {
+          "id": "697de9145568e0ec3c05dd97",
+          "title": "What is PCA?",
+          "type": "video",
+          "duration": 1371,
+          "url": "https://fast.wistia.com/embed/medias/trdykzn091.m3u8"
+        },
+        {
+          "id": "697de91c97f7bd4fa30b9627",
+          "title": "PCA (Step by Step)",
+          "type": "video",
+          "duration": 668,
+          "url": "https://fast.wistia.com/embed/medias/ja51y9zn9c.m3u8"
+        },
+        {
+          "id": "697de930eb33baefee03aa45",
+          "title": "PCA (Code)",
+          "type": "video",
+          "duration": 447,
+          "url": "https://fast.wistia.com/embed/medias/799tk9nhc8.m3u8"
+        },
+        {
+          "id": "697de93d8b18f8f7450ab585",
+          "title": "What is Anomaly Detection?",
+          "type": "video",
+          "duration": 429,
+          "url": "https://fast.wistia.com/embed/medias/mt7p7ueuq4.m3u8"
+        },
+        {
+          "id": "697de94fbca400b45f0b02d6",
+          "title": "DBSCAN for Anomalies",
+          "type": "video",
+          "duration": 247,
+          "url": "https://fast.wistia.com/embed/medias/jc4t3u0xsa.m3u8"
+        },
+        {
+          "id": "697de958c68ee2cfbf0bb573",
+          "title": "DBSCAN for Anomalies (Code)",
+          "type": "video",
+          "duration": 560,
+          "url": "https://fast.wistia.com/embed/medias/rb1abj5tml.m3u8"
+        },
+        {
+          "id": "697de9625dd2262a560a0aa5",
+          "title": "Isolation Forest for Anomalies",
+          "type": "video",
+          "duration": 638,
+          "url": "https://fast.wistia.com/embed/medias/38f5igvrng.m3u8"
+        },
+        {
+          "id": "697de9684ca060a3e00847e7",
+          "title": "Isolation Forest for Anomalies (Code)",
+          "type": "video",
+          "duration": 654,
+          "url": "https://fast.wistia.com/embed/medias/3minwrgsjg.m3u8"
+        },
+        {
+          "id": "697de971e028f93e2a0d4dc5",
+          "title": "LOF for Anomalies",
+          "type": "video",
+          "duration": 395,
+          "url": "https://fast.wistia.com/embed/medias/snyy5fy3i0.m3u8"
+        },
+        {
+          "id": "697de97775c35558ac0f3dd5",
+          "title": "LOF for Anomalies (Code)",
+          "type": "video",
+          "duration": 155,
+          "url": "https://fast.wistia.com/embed/medias/3nwwr75rp0.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_smartcart",
+      "title": "SmartCart Clustering System (Minor Project)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6985a9ac3d93b2e56f08cab7",
+          "title": "Project Introduction",
+          "type": "video",
+          "duration": 418,
+          "url": "https://fast.wistia.com/embed/medias/i0wlgccsm6.m3u8"
+        },
+        {
+          "id": "6985a9cbaf79442c0107b528",
+          "title": "Handle Missing Data",
+          "type": "video",
+          "duration": 74,
+          "url": "https://fast.wistia.com/embed/medias/ewlorvzygx.m3u8"
+        },
+        {
+          "id": "6985a9d163fe6d595001518a",
+          "title": "Feature Engineering",
+          "type": "video",
+          "duration": 1107,
+          "url": "https://fast.wistia.com/embed/medias/pzffeer3sj.m3u8"
+        },
+        {
+          "id": "6985a9d7c7d363311e0e4875",
+          "title": "Drop Columns",
+          "type": "video",
+          "duration": 298,
+          "url": "https://fast.wistia.com/embed/medias/s2nn1bmoq9.m3u8"
+        },
+        {
+          "id": "6985a9f923f17561d2005b95",
+          "title": "Handle Outliers",
+          "type": "video",
+          "duration": 484,
+          "url": "https://fast.wistia.com/embed/medias/7wb1r8zc8p.m3u8"
+        },
+        {
+          "id": "6985aa280d7263aff10a8385",
+          "title": "HeatMap of Features",
+          "type": "video",
+          "duration": 415,
+          "url": "https://fast.wistia.com/embed/medias/1q9n9cm7jo.m3u8"
+        },
+        {
+          "id": "6985aa4db1e0c0eba30da145",
+          "title": "Feature Encoding & Scaling",
+          "type": "video",
+          "duration": 359,
+          "url": "https://fast.wistia.com/embed/medias/3h7giu3en9.m3u8"
+        },
+        {
+          "id": "6985aa6d2a52cdc1b70d97d5",
+          "title": "Visualizing our Data",
+          "type": "video",
+          "duration": 399,
+          "url": "https://fast.wistia.com/embed/medias/5zosu26xlj.m3u8"
+        },
+        {
+          "id": "6985aaebccb0b0f4140f39f3",
+          "title": "Choose K (Elbow & Silhouette Score)",
+          "type": "video",
+          "duration": 663,
+          "url": "https://fast.wistia.com/embed/medias/96lacl01qh.m3u8"
+        },
+        {
+          "id": "6985ab16b89621cb220d9fb8",
+          "title": "Clustering or Segmentation",
+          "type": "video",
+          "duration": 248,
+          "url": "https://fast.wistia.com/embed/medias/25md1d76aw.m3u8"
+        },
+        {
+          "id": "6985ab47a0568024c906dd45",
+          "title": "Characterization of Clusters",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/ar01oxy80y.m3u8"
+        },
+        {
+          "id": "6985ab88da451bb545033cf5",
+          "title": "Cluster Summary for Profiling",
+          "type": "video",
+          "duration": 945,
+          "url": "https://fast.wistia.com/embed/medias/b0u5dojxnm.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_terminal__6988342264e99",
+      "title": "Terminal",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "698880c893cc012a47021397",
+          "title": "What will we learn?",
+          "type": "video",
+          "duration": 104,
+          "url": "https://fast.wistia.com/embed/medias/7xf0u3zl7k.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf85",
+          "title": "What is the Terminal?",
+          "type": "video",
+          "duration": 282,
+          "url": "https://fast.wistia.com/embed/medias/hhwkkihi76.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf86",
+          "title": "Different Terms related to Terminal",
+          "type": "video",
+          "duration": 348,
+          "url": "https://fast.wistia.com/embed/medias/itgmyln34d.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf87",
+          "title": "(Window Users Only) Installing Git Bash",
+          "type": "video",
+          "duration": 166,
+          "url": "https://fast.wistia.com/embed/medias/8goln6fxvk.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf88",
+          "title": "Basic Commands",
+          "type": "video",
+          "duration": 325,
+          "url": "https://fast.wistia.com/embed/medias/95bg1wvgrm.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf89",
+          "title": "Navigation Commands",
+          "type": "video",
+          "duration": 357,
+          "url": "https://fast.wistia.com/embed/medias/2emioio2l5.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf8a",
+          "title": "Paths in Navigation",
+          "type": "video",
+          "duration": 283,
+          "url": "https://fast.wistia.com/embed/medias/ejxy5woamy.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf8b",
+          "title": "Making Directories",
+          "type": "video",
+          "duration": 275,
+          "url": "https://fast.wistia.com/embed/medias/95qsszk4ws.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf8c",
+          "title": "What are Flags?",
+          "type": "video",
+          "duration": 407,
+          "url": "https://fast.wistia.com/embed/medias/h99l81nejh.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf8d",
+          "title": "Touch Command",
+          "type": "video",
+          "duration": 157,
+          "url": "https://fast.wistia.com/embed/medias/mm9r0z17x4.m3u8"
+        },
+        {
+          "id": "698834222ba46305350ebf8e",
+          "title": "Deleting Files & Folders",
+          "type": "video",
+          "duration": 374,
+          "url": "https://fast.wistia.com/embed/medias/m5rv1i59u8.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_git__69883410f18d8",
+      "title": "Git & Github",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69883410111bcbb0160d5386",
+          "title": "What is Git & Github?",
+          "type": "video",
+          "duration": 507,
+          "url": "https://fast.wistia.com/embed/medias/ju51egbnro.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5387",
+          "title": "Creating a Github Account",
+          "type": "video",
+          "duration": 153,
+          "url": "https://fast.wistia.com/embed/medias/ns2u9cea51.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5388",
+          "title": "Using Github",
+          "type": "video",
+          "duration": 831,
+          "url": "https://fast.wistia.com/embed/medias/89c4umv2z6.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5389",
+          "title": "Using Git",
+          "type": "video",
+          "duration": 171,
+          "url": "https://fast.wistia.com/embed/medias/fcvyie8f92.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538a",
+          "title": "Configuring Git",
+          "type": "video",
+          "duration": 133,
+          "url": "https://fast.wistia.com/embed/medias/472a71icm9.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538b",
+          "title": "Git with VSCode",
+          "type": "video",
+          "duration": 130,
+          "url": "https://fast.wistia.com/embed/medias/y13qt8okw5.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538c",
+          "title": "Clone command",
+          "type": "video",
+          "duration": 359,
+          "url": "https://fast.wistia.com/embed/medias/d21yx0xt39.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538d",
+          "title": "Status command",
+          "type": "video",
+          "duration": 287,
+          "url": "https://fast.wistia.com/embed/medias/ztdol9q64h.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538e",
+          "title": "Add & Commit Commands",
+          "type": "video",
+          "duration": 359,
+          "url": "https://fast.wistia.com/embed/medias/brav6mbnqs.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d538f",
+          "title": "Push command",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/rgra9vy549.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5390",
+          "title": "Init Command",
+          "type": "video",
+          "duration": 137,
+          "url": "https://fast.wistia.com/embed/medias/yqh6t56r7h.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5391",
+          "title": "Pushing Local repo",
+          "type": "video",
+          "duration": 651,
+          "url": "https://fast.wistia.com/embed/medias/mhiivsyhlg.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5392",
+          "title": "Workflow",
+          "type": "video",
+          "duration": 86,
+          "url": "https://fast.wistia.com/embed/medias/vbezadw8rk.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5393",
+          "title": "Git branches",
+          "type": "video",
+          "duration": 382,
+          "url": "https://fast.wistia.com/embed/medias/u2jgmtrk3h.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5394",
+          "title": "Branch Commands",
+          "type": "video",
+          "duration": 178,
+          "url": "https://fast.wistia.com/embed/medias/tttxpkg1sb.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5395",
+          "title": "Merging Branches",
+          "type": "video",
+          "duration": 596,
+          "url": "https://fast.wistia.com/embed/medias/78jasrt865.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5396",
+          "title": "Pull command",
+          "type": "video",
+          "duration": 122,
+          "url": "https://fast.wistia.com/embed/medias/khbwo02fcf.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5397",
+          "title": "Merge Conflicts",
+          "type": "video",
+          "duration": 352,
+          "url": "https://fast.wistia.com/embed/medias/5bm3hdhr7y.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5398",
+          "title": "Fixing Mistakes",
+          "type": "video",
+          "duration": 370,
+          "url": "https://fast.wistia.com/embed/medias/3a8fdwggw6.m3u8"
+        },
+        {
+          "id": "69883411111bcbb0160d5399",
+          "title": "What is Forking?",
+          "type": "video",
+          "duration": 388,
+          "url": "https://fast.wistia.com/embed/medias/7fx4w26zfw.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_1",
+      "title": "Deep Learning (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "698f2efbd3b1fcdbef0a79e6",
+          "title": "What is Deep Learning?",
+          "type": "video",
+          "duration": 384,
+          "url": "https://fast.wistia.com/embed/medias/216z0ljteh.m3u8"
+        },
+        {
+          "id": "698f359ee4d2e2b84b0118e6",
+          "title": "Machine Learning v/s Deep Learning",
+          "type": "video",
+          "duration": 466,
+          "url": "https://fast.wistia.com/embed/medias/eefeq1jk12.m3u8"
+        },
+        {
+          "id": "698f35a8f046b30e760dd395",
+          "title": "What are Neural Networks?",
+          "type": "video",
+          "duration": 357,
+          "url": "https://fast.wistia.com/embed/medias/9f1kj4ml3w.m3u8"
+        },
+        {
+          "id": "698f35b1d9b15bec1f0e2ee5",
+          "title": "Perceptron (in depth)",
+          "type": "video",
+          "duration": 1523,
+          "url": "https://fast.wistia.com/embed/medias/vqwj5d9vio.m3u8"
+        },
+        {
+          "id": "698f35c16f9ac4d6100422b6",
+          "title": "Multi-layered Neural Networks",
+          "type": "video",
+          "duration": 134,
+          "url": "https://fast.wistia.com/embed/medias/nykyspb5jd.m3u8"
+        },
+        {
+          "id": "698f272155fb2490d30026d6",
+          "title": "PyTorch vs TensorFlow vs Keras",
+          "type": "video",
+          "duration": 444,
+          "url": "https://fast.wistia.com/embed/medias/sk87vnk6nb.m3u8"
+        },
+        {
+          "id": "698f273f3e4e2a636b0023f8",
+          "title": "Google Colab (Alternative)",
+          "type": "video",
+          "duration": 285,
+          "url": "https://fast.wistia.com/embed/medias/mrwqalltgc.m3u8"
+        },
+        {
+          "id": "698f2751b713c4eb170f6b87",
+          "title": "Building a Neuron (Code)",
+          "type": "video",
+          "duration": 436,
+          "url": "https://fast.wistia.com/embed/medias/vk4z5igci1.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_2",
+      "title": "Deep Learning (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "6991c7095886b867bf09d8a5",
+          "title": "Forward & Backward Propagation",
+          "type": "video",
+          "duration": 281,
+          "url": "https://fast.wistia.com/embed/medias/0n36b3bq01.m3u8"
+        },
+        {
+          "id": "6991c7123936d213f70b5436",
+          "title": "Loss Functions (Regression)",
+          "type": "video",
+          "duration": 614,
+          "url": "https://fast.wistia.com/embed/medias/zv8bghqnya.m3u8"
+        },
+        {
+          "id": "6991c71cf6d11b3c6902d897",
+          "title": "Loss Functions (Classification)",
+          "type": "video",
+          "duration": 804,
+          "url": "https://fast.wistia.com/embed/medias/fgc16af125.m3u8"
+        },
+        {
+          "id": "6991c741d493813289007f29",
+          "title": "Weight & Bias Updation",
+          "type": "video",
+          "duration": 346,
+          "url": "https://fast.wistia.com/embed/medias/poq0u90b2h.m3u8"
+        },
+        {
+          "id": "6991c75253e24e851f05d286",
+          "title": "Chain Rule of Derivatives in NN",
+          "type": "video",
+          "duration": 563,
+          "url": "https://fast.wistia.com/embed/medias/ze05538bso.m3u8"
+        },
+        {
+          "id": "6991c75bc7a956c479064f53",
+          "title": "Vanishing Gradient Problem",
+          "type": "video",
+          "duration": 700,
+          "url": "https://fast.wistia.com/embed/medias/1o959zghk2.m3u8"
+        },
+        {
+          "id": "6991c7852ca1ecf53704f687",
+          "title": "ReLU & its variants",
+          "type": "video",
+          "duration": 568,
+          "url": "https://fast.wistia.com/embed/medias/8h19g8e8mr.m3u8"
+        },
+        {
+          "id": "6991c790ecceefb93a064607",
+          "title": "Batch vs Iteration vs Epoch",
+          "type": "video",
+          "duration": 363,
+          "url": "https://fast.wistia.com/embed/medias/ua77px5hsc.m3u8"
+        },
+        {
+          "id": "6991da1c1d96a67b600433e5",
+          "title": "Optimizers",
+          "type": "video",
+          "duration": 515,
+          "url": "https://fast.wistia.com/embed/medias/4y4lv7jblq.m3u8"
+        },
+        {
+          "id": "6991da24486b676c5c092415",
+          "title": "Modern Variants of GD",
+          "type": "video",
+          "duration": 995,
+          "url": "https://fast.wistia.com/embed/medias/mos552p914.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_3",
+      "title": "Deep Learning (Part 3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "699859807819088b1604f6c8",
+          "title": "ANN for Regression",
+          "type": "video",
+          "duration": 432,
+          "url": "https://fast.wistia.com/embed/medias/in7cvsvf7o.m3u8"
+        },
+        {
+          "id": "699859ab5d135386b10fbe45",
+          "title": "Loading Dataset",
+          "type": "video",
+          "duration": 848,
+          "url": "https://fast.wistia.com/embed/medias/ffvw5urb1c.m3u8"
+        },
+        {
+          "id": "699859c33f130ee26d035045",
+          "title": "TensorDataset & DataLoader",
+          "type": "video",
+          "duration": 463,
+          "url": "https://fast.wistia.com/embed/medias/dtloxx0g1l.m3u8"
+        },
+        {
+          "id": "699859d711c234e0d90bd806",
+          "title": "Building ANN Model",
+          "type": "video",
+          "duration": 756,
+          "url": "https://fast.wistia.com/embed/medias/zny868mq5s.m3u8"
+        },
+        {
+          "id": "699859e8e4a158e64c0604f7",
+          "title": "Training the ANN",
+          "type": "video",
+          "duration": 1259,
+          "url": "https://fast.wistia.com/embed/medias/d509ctco35.m3u8"
+        },
+        {
+          "id": "699859fade948d582d07f7b5",
+          "title": "Saving & Loading the Best Model",
+          "type": "video",
+          "duration": 704,
+          "url": "https://fast.wistia.com/embed/medias/lpa6zigj9g.m3u8"
+        },
+        {
+          "id": "69985a05b5ba82b4ea0e2376",
+          "title": "Evaluation",
+          "type": "video",
+          "duration": 370,
+          "url": "https://fast.wistia.com/embed/medias/m6y77vfo2i.m3u8"
+        },
+        {
+          "id": "69985aae21f3a1391d006d06",
+          "title": "ANN for Classification",
+          "type": "video",
+          "duration": 758,
+          "url": "https://fast.wistia.com/embed/medias/64te716pgu.m3u8"
+        },
+        {
+          "id": "69985c815ad577025a03ee96",
+          "title": "Model & Evaluation",
+          "type": "video",
+          "duration": 1206,
+          "url": "https://fast.wistia.com/embed/medias/sprb3sqalc.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_4",
+      "title": "Deep Learning (Part 4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "699afcc27276042d8a0bac65",
+          "title": "Neural Network Architectures (FNN)",
+          "type": "video",
+          "duration": 226,
+          "url": "https://fast.wistia.com/embed/medias/qg8wnz1o30.m3u8"
+        },
+        {
+          "id": "699afcd750ceae403909dcc5",
+          "title": "Computer Vision",
+          "type": "video",
+          "duration": 517,
+          "url": "https://fast.wistia.com/embed/medias/zaxxltp7gt.m3u8"
+        },
+        {
+          "id": "699afce8a40a355c850a41e5",
+          "title": "Why do we need CNN for images?",
+          "type": "video",
+          "duration": 813,
+          "url": "https://fast.wistia.com/embed/medias/jvetl0kmma.m3u8"
+        },
+        {
+          "id": "699afdbb53b69ee8f706d595",
+          "title": "CNN Architecture",
+          "type": "video",
+          "duration": 813,
+          "url": "https://fast.wistia.com/embed/medias/7h4o42btml.m3u8"
+        },
+        {
+          "id": "699b0329e8a61dfac109d4c6",
+          "title": "Convolutional Layer",
+          "type": "video",
+          "duration": 397,
+          "url": "https://fast.wistia.com/embed/medias/b0kbufut7s.m3u8"
+        },
+        {
+          "id": "699afdf2d6cbacdd63047655",
+          "title": "Pooling Layer",
+          "type": "video",
+          "duration": 301,
+          "url": "https://fast.wistia.com/embed/medias/veszggcv37.m3u8"
+        },
+        {
+          "id": "699afe327ec6336b2d0a9ad5",
+          "title": "Fully Connected Layer",
+          "type": "video",
+          "duration": 358,
+          "url": "https://fast.wistia.com/embed/medias/uk1imh9d9w.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_5",
+      "title": "Deep Learning (Part 5)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69a170a40c9f96f2ab099b16",
+          "title": "Minor Project [CNN for Image Classification]",
+          "type": "video",
+          "duration": 1739,
+          "url": "https://fast.wistia.com/embed/medias/qxvguyc1x4.m3u8"
+        },
+        {
+          "id": "69a170ade40d46775a08baa5",
+          "title": "Training the CNN",
+          "type": "video",
+          "duration": 477,
+          "url": "https://fast.wistia.com/embed/medias/4uivp2w2ub.m3u8"
+        },
+        {
+          "id": "69a17145543f1b47f10f5383",
+          "title": "Natural Language Processing (NLP)",
+          "type": "video",
+          "duration": 420,
+          "url": "https://fast.wistia.com/embed/medias/adg5faflzz.m3u8"
+        },
+        {
+          "id": "69a17151221f1e8f18007bf5",
+          "title": "Text Processing Techniques",
+          "type": "video",
+          "duration": 438,
+          "url": "https://fast.wistia.com/embed/medias/amz96opaq1.m3u8"
+        },
+        {
+          "id": "69a1716596422412c702cd58",
+          "title": "Text Processing Techniques (Adv.)",
+          "type": "video",
+          "duration": 261,
+          "url": "https://fast.wistia.com/embed/medias/cack1ra0oe.m3u8"
+        },
+        {
+          "id": "69a1783caaea5078e2091c89",
+          "title": "What is TF-IDF ?",
+          "type": "video",
+          "duration": 265,
+          "url": "https://fast.wistia.com/embed/medias/pcteblqcce.m3u8"
+        },
+        {
+          "id": "69a178489f7f7da4ea0cb053",
+          "title": "RNN Architecture",
+          "type": "video",
+          "duration": 795,
+          "url": "https://fast.wistia.com/embed/medias/bilp5pqutm.m3u8"
+        },
+        {
+          "id": "69a1785013f5089b4b07de56",
+          "title": "Types of RNN Architectures",
+          "type": "video",
+          "duration": 304,
+          "url": "https://fast.wistia.com/embed/medias/jd0pgfifvk.m3u8"
+        },
+        {
+          "id": "69a17869e9e6c9abfe015ef6",
+          "title": "Backpropagation in RNN",
+          "type": "video",
+          "duration": 416,
+          "url": "https://fast.wistia.com/embed/medias/18gtdxzvjr.m3u8"
+        },
+        {
+          "id": "69a17876187df66892066d35",
+          "title": "LSTM (Long Short-Term Memory) Network",
+          "type": "video",
+          "duration": 505,
+          "url": "https://fast.wistia.com/embed/medias/yam89ne8vr.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_6",
+      "title": "Deep Learning (Part 6)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69ac33c0ef278471bc05de93",
+          "title": "Minor Project [RNN for Sentiment Analysis]",
+          "type": "video",
+          "duration": 633,
+          "url": "https://fast.wistia.com/embed/medias/gwc6azmjy5.m3u8"
+        },
+        {
+          "id": "69ac341e2398e82ab20e2086",
+          "title": "Pre-processing with Regex",
+          "type": "video",
+          "duration": 685,
+          "url": "https://fast.wistia.com/embed/medias/1s7n9474cc.m3u8"
+        },
+        {
+          "id": "69ac3432345536721a096347",
+          "title": "Remove StopWords with NLTK",
+          "type": "video",
+          "duration": 327,
+          "url": "https://fast.wistia.com/embed/medias/m3hkg263lw.m3u8"
+        },
+        {
+          "id": "69ac344c51d9d941580cb7d7",
+          "title": "Stemming & TF-IDF Vectorization",
+          "type": "video",
+          "duration": 703,
+          "url": "https://fast.wistia.com/embed/medias/nijrwi7p06.m3u8"
+        },
+        {
+          "id": "69ac34670cad8aff3e0e4dc5",
+          "title": "Use DataLoaders & Build RNN",
+          "type": "video",
+          "duration": 988,
+          "url": "https://fast.wistia.com/embed/medias/fql2icxwe2.m3u8"
+        },
+        {
+          "id": "69ac34a031cd5062eb0a9079",
+          "title": "Training & Evaluation",
+          "type": "video",
+          "duration": 517,
+          "url": "https://fast.wistia.com/embed/medias/p27pywzo7f.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_7",
+      "title": "Reinforcement Learning (Part 1)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69ad6bb9f63f5f9c4605d4b5",
+          "title": "Reinforcement Learning",
+          "type": "video",
+          "duration": 788,
+          "url": "https://fast.wistia.com/embed/medias/t6681k32wm.m3u8"
+        },
+        {
+          "id": "69ad6bd72eba93acbe0988a5",
+          "title": "Components in RL",
+          "type": "video",
+          "duration": 455,
+          "url": "https://fast.wistia.com/embed/medias/i85i8ikku0.m3u8"
+        },
+        {
+          "id": "69ad6d0ee32c5d5e9403c655",
+          "title": "Components in Detail",
+          "type": "video",
+          "duration": 561,
+          "url": "https://fast.wistia.com/embed/medias/4lmnjbc9r2.m3u8"
+        },
+        {
+          "id": "69ad6be905e46a83780e7515",
+          "title": "Markov Decision Process (MDP)",
+          "type": "video",
+          "duration": 655,
+          "url": "https://fast.wistia.com/embed/medias/sz5u9kg2cb.m3u8"
+        },
+        {
+          "id": "69ad6bf71cba10335d0662d5",
+          "title": "Understanding with Grid Example",
+          "type": "video",
+          "duration": 809,
+          "url": "https://fast.wistia.com/embed/medias/ke5mfujdrm.m3u8"
+        },
+        {
+          "id": "69ad6c306d8a4dca220770a6",
+          "title": "Policy Optimization in Grid",
+          "type": "video",
+          "duration": 149,
+          "url": "https://fast.wistia.com/embed/medias/bnxj91levm.m3u8"
+        },
+        {
+          "id": "69ad6c05a359ba835d0bc9f5",
+          "title": "Importance of Q-Functions",
+          "type": "video",
+          "duration": 154,
+          "url": "https://fast.wistia.com/embed/medias/nhtajzgc6a.m3u8"
+        },
+        {
+          "id": "69ad6bccade68c2c3d0ef2c5",
+          "title": "Exploration-Exploitation TradeOff",
+          "type": "video",
+          "duration": 501,
+          "url": "https://fast.wistia.com/embed/medias/vucqkf1vus.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_8",
+      "title": "Reinforcement Learning (Part 2)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69b419e435a741d7e80cd388",
+          "title": "Diverse RL Methods",
+          "type": "video",
+          "duration": 523,
+          "url": "https://fast.wistia.com/embed/medias/boshei0512.m3u8"
+        },
+        {
+          "id": "69b419eb69c30800ca059dc7",
+          "title": "Dynamic Programming",
+          "type": "video",
+          "duration": 397,
+          "url": "https://fast.wistia.com/embed/medias/2gv8kizj2h.m3u8"
+        },
+        {
+          "id": "69b419f2d583b86be4003065",
+          "title": "Monte Carlo Methods",
+          "type": "video",
+          "duration": 776,
+          "url": "https://fast.wistia.com/embed/medias/s6qucmie9k.m3u8"
+        },
+        {
+          "id": "69b41a012b8404d3f00d7203",
+          "title": "Temporal Difference (TD) Learning",
+          "type": "video",
+          "duration": 498,
+          "url": "https://fast.wistia.com/embed/medias/zf93qb1ue6.m3u8"
+        },
+        {
+          "id": "69b41a10d1e7849ef6019c45",
+          "title": "SARSA Algorithm",
+          "type": "video",
+          "duration": 686,
+          "url": "https://fast.wistia.com/embed/medias/t937njacgt.m3u8"
+        },
+        {
+          "id": "69b41a198141485b6c0fe834",
+          "title": "Q-learning Algorithm",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/qf8xd9d9h3.m3u8"
+        },
+        {
+          "id": "69b41a29cb04dfb25d01efa5",
+          "title": "Cliff-Walking Problem & Environment",
+          "type": "video",
+          "duration": 837,
+          "url": "https://fast.wistia.com/embed/medias/jzxhc9u4pj.m3u8"
+        },
+        {
+          "id": "69b431059307d253820493d7",
+          "title": "Small Update",
+          "type": "video",
+          "duration": 37,
+          "url": "https://fast.wistia.com/embed/medias/vv89m4same.m3u8"
+        },
+        {
+          "id": "69b41a39c9f5a84e4a07b236",
+          "title": "SARSA Implementation",
+          "type": "video",
+          "duration": 1043,
+          "url": "https://fast.wistia.com/embed/medias/c658fszdgg.m3u8"
+        },
+        {
+          "id": "69b41ad04a7f36d632010616",
+          "title": "What Agent learnt with SARSA?",
+          "type": "video",
+          "duration": 695,
+          "url": "https://fast.wistia.com/embed/medias/i27otj3km5.m3u8"
+        },
+        {
+          "id": "69b55d3271a7d527f8084d85",
+          "title": "Q-learning Implementation",
+          "type": "video",
+          "duration": 568,
+          "url": "https://fast.wistia.com/embed/medias/e2emoa6oqm.m3u8"
+        },
+        {
+          "id": "69b55d3b3323695f4b0107d7",
+          "title": "What Agent learnt with Q-learning?",
+          "type": "video",
+          "duration": 568,
+          "url": "https://fast.wistia.com/embed/medias/lv1oxffnwa.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_reinforcement_learning_part_3",
+      "title": "Reinforcement Learning (Part 3)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69b6a3ef923913c55b074145",
+          "title": "Deep Reinforcement Learning",
+          "type": "video",
+          "duration": 532,
+          "url": "https://fast.wistia.com/embed/medias/uhxr5401d3.m3u8"
+        },
+        {
+          "id": "69b6a3fa6c7fa9a28a0a0d95",
+          "title": "Deep Q-Networks (DQN)",
+          "type": "video",
+          "duration": 300,
+          "url": "https://fast.wistia.com/embed/medias/rg5a112u71.m3u8"
+        },
+        {
+          "id": "69b6a403c24b45e9890852b5",
+          "title": "Experience Replay",
+          "type": "video",
+          "duration": 335,
+          "url": "https://fast.wistia.com/embed/medias/pry7rt1kxz.m3u8"
+        },
+        {
+          "id": "69b6a40e30d506c666066bc5",
+          "title": "Policy & Target Networks",
+          "type": "video",
+          "duration": 603,
+          "url": "https://fast.wistia.com/embed/medias/c4c72iyay6.m3u8"
+        },
+        {
+          "id": "69b6a4216f5ead645c007348",
+          "title": "DQN for Flappy Bird Game",
+          "type": "video",
+          "duration": 502,
+          "url": "https://fast.wistia.com/embed/medias/u09ef1sk10.m3u8"
+        },
+        {
+          "id": "69b6c773ceb13170650ea5f6",
+          "title": "Setting up Env",
+          "type": "video",
+          "duration": 294,
+          "url": "https://fast.wistia.com/embed/medias/4girycavvc.m3u8"
+        },
+        {
+          "id": "69b6a43fcc68dc4c9d038796",
+          "title": "Build our DQN",
+          "type": "video",
+          "duration": 411,
+          "url": "https://fast.wistia.com/embed/medias/7vfuh37q20.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_reinforcement_learning_part_4",
+      "title": "Reinforcement Learning (Part 4)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69b92da0e3c317b9e105f735",
+          "title": "Building Experience Replay",
+          "type": "video",
+          "duration": 583,
+          "url": "https://fast.wistia.com/embed/medias/679bwhdmr1.m3u8"
+        },
+        {
+          "id": "69b92dd32b9133b57a0fbf95",
+          "title": "Defining Hyperparameters",
+          "type": "video",
+          "duration": 890,
+          "url": "https://fast.wistia.com/embed/medias/ogu0nadkbz.m3u8"
+        },
+        {
+          "id": "69b92dfbe8b0a0ab38098f57",
+          "title": "Implement ε-greedy & ε-decay",
+          "type": "video",
+          "duration": 438,
+          "url": "https://fast.wistia.com/embed/medias/jg9kt28e69.m3u8"
+        },
+        {
+          "id": "69b92e13767cca2c5103c283",
+          "title": "Build Target Network & Train DQN",
+          "type": "video",
+          "duration": 693,
+          "url": "https://fast.wistia.com/embed/medias/hierkw1a3z.m3u8"
+        },
+        {
+          "id": "69b92e221c6790615e0936c3",
+          "title": "Final Touches",
+          "type": "video",
+          "duration": 724,
+          "url": "https://fast.wistia.com/embed/medias/wr160nj4x2.m3u8"
+        },
+        {
+          "id": "69b92e5f4ee49f0d530bd245",
+          "title": "Trained FlappyBird RL Agent",
+          "type": "video",
+          "duration": 101,
+          "url": "https://fast.wistia.com/embed/medias/a87p3iw5gu.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_7_",
+      "title": "Deep Learning (Part 7)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69bd56c40bb364ed4408ca85",
+          "title": "Introduction to GenAI",
+          "type": "video",
+          "duration": 249,
+          "url": "https://fast.wistia.com/embed/medias/zraxxq3u1k.m3u8"
+        },
+        {
+          "id": "69bd56eb01aec5337b0f4735",
+          "title": "What are LLMs?",
+          "type": "video",
+          "duration": 508,
+          "url": "https://fast.wistia.com/embed/medias/kok1shojna.m3u8"
+        },
+        {
+          "id": "69bd5710d3a2f235210c8563",
+          "title": "Introduction to Transformers",
+          "type": "video",
+          "duration": 229,
+          "url": "https://fast.wistia.com/embed/medias/vs2kwssbkz.m3u8"
+        },
+        {
+          "id": "69bd571a929051b9cf00f005",
+          "title": "Static vs Contextual Embeddings",
+          "type": "video",
+          "duration": 570,
+          "url": "https://fast.wistia.com/embed/medias/08fzh8aoqb.m3u8"
+        },
+        {
+          "id": "69bd5741c9fa22c3fc03fc25",
+          "title": "Transformer Architecture Overview",
+          "type": "video",
+          "duration": 446,
+          "url": "https://fast.wistia.com/embed/medias/dpmd8has0o.m3u8"
+        },
+        {
+          "id": "69bd57705f45e9365b0baa58",
+          "title": "Encoder & Decoder",
+          "type": "video",
+          "duration": 499,
+          "url": "https://fast.wistia.com/embed/medias/q4dlex2wro.m3u8"
+        },
+        {
+          "id": "69bd577f2a30b557760723d9",
+          "title": "Various Transformer Architectures",
+          "type": "video",
+          "duration": 257,
+          "url": "https://fast.wistia.com/embed/medias/b1f1l6g2h3.m3u8"
+        },
+        {
+          "id": "69bd591d8b23b749f10c3a14",
+          "title": "Attention is All You Need.",
+          "type": "video",
+          "duration": 569,
+          "url": "https://fast.wistia.com/embed/medias/18zjwo6bqw.m3u8"
+        },
+        {
+          "id": "69bd59e316a7f76ab004dc88",
+          "title": "Scaled Dot Product Attention",
+          "type": "video",
+          "duration": 541,
+          "url": "https://fast.wistia.com/embed/medias/1gdz49gar7.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_8_",
+      "title": "Deep Learning (Part 8)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69be95f543865a3b0909fc73",
+          "title": "Self-Attention & Multi-Head Attention",
+          "type": "video",
+          "duration": 402,
+          "url": "https://fast.wistia.com/embed/medias/z4otjh2t0g.m3u8"
+        },
+        {
+          "id": "69be9604d6bf594b4b069235",
+          "title": "What are Residual Connection?",
+          "type": "video",
+          "duration": 288,
+          "url": "https://fast.wistia.com/embed/medias/zofg5ljt7j.m3u8"
+        },
+        {
+          "id": "69be960a688be24f4300ab33",
+          "title": "FNN in Encoder",
+          "type": "video",
+          "duration": 383,
+          "url": "https://fast.wistia.com/embed/medias/pa8ys89q9y.m3u8"
+        },
+        {
+          "id": "69be961615a1400549036c38",
+          "title": "Cross-Attention in Decoder",
+          "type": "video",
+          "duration": 269,
+          "url": "https://fast.wistia.com/embed/medias/2nw0htuxox.m3u8"
+        },
+        {
+          "id": "69be961c3c8f937cdc038aa7",
+          "title": "Masked Attention in Decoder",
+          "type": "video",
+          "duration": 190,
+          "url": "https://fast.wistia.com/embed/medias/nwcui4cw82.m3u8"
+        },
+        {
+          "id": "69be962ac4fc7ac826031655",
+          "title": "Summary: Transformer Architecture",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/u6w5olt62m.m3u8"
+        },
+        {
+          "id": "69be9638e96e33e0e40a51d5",
+          "title": "Pre-trained Transformers",
+          "type": "video",
+          "duration": 422,
+          "url": "https://fast.wistia.com/embed/medias/0cgomtfzky.m3u8"
+        },
+        {
+          "id": "69be9640f3640fa48a0f0d43",
+          "title": "Multiple Platforms",
+          "type": "video",
+          "duration": 129,
+          "url": "https://fast.wistia.com/embed/medias/1qud6zgo9j.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_text_summarizer_minor_project",
+      "title": "Text Summarizer [Minor Project]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c7d635e3da978f57040e85",
+          "title": "Summarizer using HuggingFace Transformer",
+          "type": "video",
+          "duration": 115,
+          "url": "https://fast.wistia.com/embed/medias/2uyiwlirwn.m3u8"
+        },
+        {
+          "id": "69c7d681f4017d41de0c2ff5",
+          "title": "Import & Pre-process Data",
+          "type": "video",
+          "duration": 970,
+          "url": "https://fast.wistia.com/embed/medias/uz9jwlfzbd.m3u8"
+        },
+        {
+          "id": "69c7d6967ae408c1b80db7a8",
+          "title": "Tokenization for T5",
+          "type": "video",
+          "duration": 726,
+          "url": "https://fast.wistia.com/embed/medias/sx5hztok87.m3u8"
+        },
+        {
+          "id": "69c7d6c86e689a5c620bd746",
+          "title": "Fine-tuning our Transformer Model",
+          "type": "video",
+          "duration": 742,
+          "url": "https://fast.wistia.com/embed/medias/tdiltccf26.m3u8"
+        },
+        {
+          "id": "69c7d6e03994928e8602a166",
+          "title": "Saving & Loading our Model",
+          "type": "video",
+          "duration": 208,
+          "url": "https://fast.wistia.com/embed/medias/llsc5hfvcy.m3u8"
+        },
+        {
+          "id": "69c7d6ff535bdc9ca9090d86",
+          "title": "Testing our Summarization Logic",
+          "type": "video",
+          "duration": 735,
+          "url": "https://fast.wistia.com/embed/medias/td6wdd9vjy.m3u8"
+        },
+        {
+          "id": "69c7d713adf64ef03e0670c6",
+          "title": "HTML & CSS Setup for Deployment",
+          "type": "video",
+          "duration": 583,
+          "url": "https://fast.wistia.com/embed/medias/wyhrpafmjf.m3u8"
+        },
+        {
+          "id": "69c7d780568e3792dd0e42c6",
+          "title": "Understanding Client-Server",
+          "type": "video",
+          "duration": 456,
+          "url": "https://fast.wistia.com/embed/medias/8iegmjygj9.m3u8"
+        },
+        {
+          "id": "69c7d7d8a9b4e7ad67070e65",
+          "title": "FastAPI Setup",
+          "type": "video",
+          "duration": 983,
+          "url": "https://fast.wistia.com/embed/medias/0kc8yv418k.m3u8"
+        },
+        {
+          "id": "69c7d7efc8300cb43e06c169",
+          "title": "Add JS Logic & Final Demo",
+          "type": "video",
+          "duration": 653,
+          "url": "https://fast.wistia.com/embed/medias/gvqk2sajou.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_css__69c7df80340fd",
+      "title": "CSS - Part 1 [OPTIONAL]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c7df807ab40c94cc0cb924",
+          "title": "What is CSS?",
+          "type": "video",
+          "duration": 431,
+          "url": "https://fast.wistia.com/embed/medias/da8qe50cyu.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb925",
+          "title": "Basic CSS Format",
+          "type": "video",
+          "duration": 262,
+          "url": "https://fast.wistia.com/embed/medias/owal0r92dy.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb926",
+          "title": "Including CSS",
+          "type": "video",
+          "duration": 891,
+          "url": "https://fast.wistia.com/embed/medias/dmiixztj84.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb927",
+          "title": "Color Property",
+          "type": "video",
+          "duration": 343,
+          "url": "https://fast.wistia.com/embed/medias/dif612ki7m.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb928",
+          "title": "Background Color Property",
+          "type": "video",
+          "duration": 154,
+          "url": "https://fast.wistia.com/embed/medias/cgqak53w6a.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb929",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 183,
+          "url": "https://fast.wistia.com/embed/medias/bv20ba1x3u.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92a",
+          "title": "Color Systems (Name & RGB)",
+          "type": "video",
+          "duration": 770,
+          "url": "https://fast.wistia.com/embed/medias/9t6m5irdth.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92b",
+          "title": "Hex Codes",
+          "type": "video",
+          "duration": 681,
+          "url": "https://fast.wistia.com/embed/medias/3t312i6w7h.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92c",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 114,
+          "url": "https://fast.wistia.com/embed/medias/9fn75nvc5o.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92d",
+          "title": "Text Align Property",
+          "type": "video",
+          "duration": 602,
+          "url": "https://fast.wistia.com/embed/medias/iol9wpt8hu.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92e",
+          "title": "Font Weight & Text Decoration",
+          "type": "video",
+          "duration": 632,
+          "url": "https://fast.wistia.com/embed/medias/x03a2kmu6f.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb92f",
+          "title": "Line Height & Letter Spacing",
+          "type": "video",
+          "duration": 276,
+          "url": "https://fast.wistia.com/embed/medias/3ogseajx53.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb930",
+          "title": "Units in CSS (Pixel)",
+          "type": "video",
+          "duration": 420,
+          "url": "https://fast.wistia.com/embed/medias/cp7sblc0r6.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb931",
+          "title": "Font Family",
+          "type": "video",
+          "duration": 421,
+          "url": "https://fast.wistia.com/embed/medias/fxe4xsiqbf.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb932",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 404,
+          "url": "https://fast.wistia.com/embed/medias/s4jp35k4rx.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_cxzvd__69c7df8067914",
+      "title": "CSS - Part 2 [OPTIONAL]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c7df807ab40c94cc0cb936",
+          "title": "How to download?",
+          "type": "video",
+          "duration": 40,
+          "url": "https://fast.wistia.com/embed/medias/8xulqixmpc.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb937",
+          "title": "Universal Selector",
+          "type": "video",
+          "duration": 395,
+          "url": "https://fast.wistia.com/embed/medias/rhk3yplbt2.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb938",
+          "title": "Element Selector",
+          "type": "video",
+          "duration": 157,
+          "url": "https://fast.wistia.com/embed/medias/nbud61puaf.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb939",
+          "title": "Id Selector",
+          "type": "video",
+          "duration": 250,
+          "url": "https://fast.wistia.com/embed/medias/ximnny6nfv.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93a",
+          "title": "Class Selector",
+          "type": "video",
+          "duration": 270,
+          "url": "https://fast.wistia.com/embed/medias/xsr9ce8q79.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93b",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 325,
+          "url": "https://fast.wistia.com/embed/medias/dei7y2889s.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93c",
+          "title": "Descendant Selector",
+          "type": "video",
+          "duration": 484,
+          "url": "https://fast.wistia.com/embed/medias/dx1bg9703x.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93d",
+          "title": "Sibling Combinator",
+          "type": "video",
+          "duration": 291,
+          "url": "https://fast.wistia.com/embed/medias/7j7kovgtch.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93e",
+          "title": "Child Combinator",
+          "type": "video",
+          "duration": 239,
+          "url": "https://fast.wistia.com/embed/medias/jakuu545gg.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb93f",
+          "title": "Attribute Selector",
+          "type": "video",
+          "duration": 291,
+          "url": "https://fast.wistia.com/embed/medias/6bbyohrbc0.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb940",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 206,
+          "url": "https://fast.wistia.com/embed/medias/ipj4ugm454.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb941",
+          "title": "Pseudo Class",
+          "type": "video",
+          "duration": 981,
+          "url": "https://fast.wistia.com/embed/medias/hk5qww0av0.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb942",
+          "title": "Pseudo Element",
+          "type": "video",
+          "duration": 291,
+          "url": "https://fast.wistia.com/embed/medias/a5szywx9pd.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb943",
+          "title": "Cascading & Specificity",
+          "type": "video",
+          "duration": 882,
+          "url": "https://fast.wistia.com/embed/medias/ipn7l9df1o.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb944",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 377,
+          "url": "https://fast.wistia.com/embed/medias/737l4fg9ac.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb945",
+          "title": "!important in CSS",
+          "type": "video",
+          "duration": 99,
+          "url": "https://fast.wistia.com/embed/medias/jfx1ve90a6.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb946",
+          "title": "Inheritance",
+          "type": "video",
+          "duration": 901,
+          "url": "https://fast.wistia.com/embed/medias/88n8jcb0kr.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_9",
+      "title": "Deep Learning (Part 9)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c92c074f2bb726f404eca6",
+          "title": "Introduction to RAG",
+          "type": "video",
+          "duration": 977,
+          "url": "https://fast.wistia.com/embed/medias/aiyviatj9c.m3u8"
+        },
+        {
+          "id": "69c92c13f3dd00a56b0aca45",
+          "title": "Ingestion Pipeline",
+          "type": "video",
+          "duration": 603,
+          "url": "https://fast.wistia.com/embed/medias/b7ki6r28hj.m3u8"
+        },
+        {
+          "id": "69c92c1bf68bb029c0002598",
+          "title": "Retrieval & Generation Pipeline",
+          "type": "video",
+          "duration": 711,
+          "url": "https://fast.wistia.com/embed/medias/ul3o9u5kdk.m3u8"
+        },
+        {
+          "id": "69c92c28bd5d86d6a4083f98",
+          "title": "RAG with LangChain",
+          "type": "video",
+          "duration": 822,
+          "url": "https://fast.wistia.com/embed/medias/4rsegyc7mh.m3u8"
+        },
+        {
+          "id": "69c92c43d3c1aa34ab0670f5",
+          "title": "Ingestion Implementation (Chunks)",
+          "type": "video",
+          "duration": 621,
+          "url": "https://fast.wistia.com/embed/medias/9ckorhgi61.m3u8"
+        },
+        {
+          "id": "69c92c2f95abe4b21301f948",
+          "title": "Ingestion Implementation (Embedding)",
+          "type": "video",
+          "duration": 387,
+          "url": "https://fast.wistia.com/embed/medias/as9l7rde9b.m3u8"
+        },
+        {
+          "id": "69c92c4ff343f4fdce041556",
+          "title": "Ingestion Implementation (Vector Store)",
+          "type": "video",
+          "duration": 561,
+          "url": "https://fast.wistia.com/embed/medias/zvsuy6711g.m3u8"
+        },
+        {
+          "id": "69c92c96a834d2e1a20b29e3",
+          "title": "Vector Store Core Logic",
+          "type": "video",
+          "duration": 742,
+          "url": "https://fast.wistia.com/embed/medias/ocdz31lc0j.m3u8"
+        },
+        {
+          "id": "69c92c5d8a0ed418be005465",
+          "title": "Retriever Implementation",
+          "type": "video",
+          "duration": 831,
+          "url": "https://fast.wistia.com/embed/medias/j3q9um63q3.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_10",
+      "title": "Deep Learning (Part 10)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69cf9f17c3d86f8d1805eda5",
+          "title": "RAG (Integration with LLMs)",
+          "type": "video",
+          "duration": 556,
+          "url": "https://fast.wistia.com/embed/medias/69xqkzp0z3.m3u8"
+        },
+        {
+          "id": "69cf9f2381dfe71a04074d56",
+          "title": "Creating API Keys",
+          "type": "video",
+          "duration": 278,
+          "url": "https://fast.wistia.com/embed/medias/n0p0jnkmjg.m3u8"
+        },
+        {
+          "id": "69cf9f9ed7dae8de5d0f6754",
+          "title": "RAG with GPT",
+          "type": "video",
+          "duration": 937,
+          "url": "https://fast.wistia.com/embed/medias/12kfgggebe.m3u8"
+        },
+        {
+          "id": "69cfa0076a198bf34d075b13",
+          "title": "RAG with Groq",
+          "type": "video",
+          "duration": 426,
+          "url": "https://fast.wistia.com/embed/medias/i9nd1xgjl9.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_openai_apis",
+      "title": "OpenAI APIs",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69cfa2d9cd91a818d3081287",
+          "title": "Building with OpenAI APIs",
+          "type": "video",
+          "duration": 405,
+          "url": "https://fast.wistia.com/embed/medias/7ii2nz3ytx.m3u8"
+        },
+        {
+          "id": "69cfa43ee11b315dcd036b15",
+          "title": "Working with Responses API",
+          "type": "video",
+          "duration": 482,
+          "url": "https://fast.wistia.com/embed/medias/wl7stgz6uq.m3u8"
+        },
+        {
+          "id": "69cfa2e1cee2e9393e09adf3",
+          "title": "Parameters for Text Generation",
+          "type": "video",
+          "duration": 211,
+          "url": "https://fast.wistia.com/embed/medias/m90cyjcj86.m3u8"
+        },
+        {
+          "id": "69cfa4ddb8994bb1420a2108",
+          "title": "Roles in Responses API",
+          "type": "video",
+          "duration": 487,
+          "url": "https://fast.wistia.com/embed/medias/y2d8ljuykc.m3u8"
+        },
+        {
+          "id": "69cfa2fbbcf86eea060d33d3",
+          "title": "Send Image as Input",
+          "type": "video",
+          "duration": 390,
+          "url": "https://fast.wistia.com/embed/medias/9w1lsdromh.m3u8"
+        },
+        {
+          "id": "69cfa31bf3a0a9d2560111a3",
+          "title": "AI Personal Assistant",
+          "type": "video",
+          "duration": 485,
+          "url": "https://fast.wistia.com/embed/medias/j7zxhddlv2.m3u8"
+        },
+        {
+          "id": "69cfa5d74ae3eefef50cfbc6",
+          "title": "AI Personal Assistant (Summarization)",
+          "type": "video",
+          "duration": 279,
+          "url": "https://fast.wistia.com/embed/medias/9k5tbgppp2.m3u8"
+        },
+        {
+          "id": "69cfa331d53ab5c77e05bcb3",
+          "title": "Generate Images (Responses API)",
+          "type": "video",
+          "duration": 477,
+          "url": "https://fast.wistia.com/embed/medias/ox8th1eodb.m3u8"
+        },
+        {
+          "id": "69cfa33eaa0ab7b43b01fd87",
+          "title": "Generate Images (with Image API)",
+          "type": "video",
+          "duration": 192,
+          "url": "https://fast.wistia.com/embed/medias/jdldoxu53l.m3u8"
+        },
+        {
+          "id": "69cfa3d6460ce51e23015423",
+          "title": "Edit Images (with Image API)",
+          "type": "video",
+          "duration": 191,
+          "url": "https://fast.wistia.com/embed/medias/jeam5bre5r.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_css__69c7df8092839",
+      "title": "CSS - Part 3 [OPTIONAL]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c7df807ab40c94cc0cb94a",
+          "title": "Box Model",
+          "type": "video",
+          "duration": 268,
+          "url": "https://fast.wistia.com/embed/medias/57i7t6mn6q.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb94b",
+          "title": "Height & Width",
+          "type": "video",
+          "duration": 454,
+          "url": "https://fast.wistia.com/embed/medias/1hvqtq4qi6.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb94c",
+          "title": "Border",
+          "type": "video",
+          "duration": 549,
+          "url": "https://fast.wistia.com/embed/medias/vr46h7arss.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb94d",
+          "title": "Border Radius",
+          "type": "video",
+          "duration": 337,
+          "url": "https://fast.wistia.com/embed/medias/vnljlnowqd.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb94e",
+          "title": "Padding Property",
+          "type": "video",
+          "duration": 707,
+          "url": "https://fast.wistia.com/embed/medias/9lnzqddapa.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb94f",
+          "title": "Margin Property",
+          "type": "video",
+          "duration": 384,
+          "url": "https://fast.wistia.com/embed/medias/y5rfpa51a5.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb950",
+          "title": "Practice Qs",
+          "type": "video",
+          "duration": 421,
+          "url": "https://fast.wistia.com/embed/medias/1chwl2h00f.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb951",
+          "title": "Display Property",
+          "type": "video",
+          "duration": 721,
+          "url": "https://fast.wistia.com/embed/medias/bapl29tao4.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb953",
+          "title": "Inline-Block",
+          "type": "video",
+          "duration": 245,
+          "url": "https://fast.wistia.com/embed/medias/dakmmqgrsa.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb954",
+          "title": "Relative Units (Percentage)",
+          "type": "video",
+          "duration": 427,
+          "url": "https://fast.wistia.com/embed/medias/godb0v5j0l.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb955",
+          "title": "Em & Rem in Units",
+          "type": "video",
+          "duration": 766,
+          "url": "https://fast.wistia.com/embed/medias/sss4eko23t.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "delta_css__69c7df80b5643",
+      "title": "CSS - Part 4 [OPTIONAL]",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69c7df807ab40c94cc0cb958",
+          "title": "Alpha & Opacity",
+          "type": "video",
+          "duration": 459,
+          "url": "https://fast.wistia.com/embed/medias/l4vwko4a53.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb959",
+          "title": "Transitions in CSS",
+          "type": "video",
+          "duration": 605,
+          "url": "https://fast.wistia.com/embed/medias/8piberfhkv.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95a",
+          "title": "Transform - Rotate",
+          "type": "video",
+          "duration": 302,
+          "url": "https://fast.wistia.com/embed/medias/s7u6dw7gji.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95b",
+          "title": "Tranform - Scale",
+          "type": "video",
+          "duration": 192,
+          "url": "https://fast.wistia.com/embed/medias/9wlv3pdgc5.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95c",
+          "title": "Transform - Translate",
+          "type": "video",
+          "duration": 113,
+          "url": "https://fast.wistia.com/embed/medias/z1jpfn3dkq.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95d",
+          "title": "Transform - Skew",
+          "type": "video",
+          "duration": 169,
+          "url": "https://fast.wistia.com/embed/medias/828hh9j9ob.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95e",
+          "title": "Box Shadow",
+          "type": "video",
+          "duration": 201,
+          "url": "https://fast.wistia.com/embed/medias/9b9j46hxvv.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb95f",
+          "title": "Background Image",
+          "type": "video",
+          "duration": 271,
+          "url": "https://fast.wistia.com/embed/medias/tifdwx087b.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb960",
+          "title": "Card Hover Effect",
+          "type": "video",
+          "duration": 502,
+          "url": "https://fast.wistia.com/embed/medias/wj6hpxm1kw.m3u8"
+        },
+        {
+          "id": "69c7df807ab40c94cc0cb961",
+          "title": "Position Property",
+          "type": "video",
+          "duration": 855,
+          "url": "https://fast.wistia.com/embed/medias/k0sgdk78uv.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_working_with_flask",
+      "title": "Working with Flask",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69d11beda5d731ab5f083dc7",
+          "title": "Introduction to Flask",
+          "type": "video",
+          "duration": 1318,
+          "url": "https://fast.wistia.com/embed/medias/huilnu5u7g.m3u8"
+        },
+        {
+          "id": "69d11c2f814b288d840fc845",
+          "title": "Rendering Templates & Static Files",
+          "type": "video",
+          "duration": 616,
+          "url": "https://fast.wistia.com/embed/medias/28jbwqpzps.m3u8"
+        },
+        {
+          "id": "69d11c3e6c0cb6b7d804d2c5",
+          "title": "Changing default Structure",
+          "type": "video",
+          "duration": 622,
+          "url": "https://fast.wistia.com/embed/medias/s4q12rhkgj.m3u8"
+        },
+        {
+          "id": "69d11c4cc688b1d9ef0de6d5",
+          "title": "Handling Forms",
+          "type": "video",
+          "duration": 910,
+          "url": "https://fast.wistia.com/embed/medias/fljqis5oxe.m3u8"
+        },
+        {
+          "id": "69d11c6042668c3bab072fd5",
+          "title": "Query Strings",
+          "type": "video",
+          "duration": 350,
+          "url": "https://fast.wistia.com/embed/medias/i29ass6fma.m3u8"
+        },
+        {
+          "id": "69d11c69036ca4765a043567",
+          "title": "APIs with JSON",
+          "type": "video",
+          "duration": 227,
+          "url": "https://fast.wistia.com/embed/medias/35p83dsuao.m3u8"
+        },
+        {
+          "id": "69d11c74b592fc6a18021a23",
+          "title": "Jinja2 Templating",
+          "type": "video",
+          "duration": 561,
+          "url": "https://fast.wistia.com/embed/medias/xng0kcmmtl.m3u8"
+        },
+        {
+          "id": "69d11c823e1fdad349000346",
+          "title": "Templating Inheritance",
+          "type": "video",
+          "duration": 632,
+          "url": "https://fast.wistia.com/embed/medias/xy5umlqbp4.m3u8"
+        },
+        {
+          "id": "69d11c91bb985c4c0602126f",
+          "title": "Message Flashing & Redirects",
+          "type": "video",
+          "duration": 382,
+          "url": "https://fast.wistia.com/embed/medias/l7yciamsvb.m3u8"
+        },
+        {
+          "id": "69d127ba626c5b5c5209f795",
+          "title": "Deploying AI Assistant (with Flask)",
+          "type": "video",
+          "duration": 1357,
+          "url": "https://fast.wistia.com/embed/medias/xfp7727nm5.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_deep_learning_part_11",
+      "title": "Deep Learning (Part 11)",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69d90e4857e8d1fa6e073495",
+          "title": "Introduction to GANs",
+          "type": "video",
+          "duration": 425,
+          "url": "https://fast.wistia.com/embed/medias/efzasefpue.m3u8"
+        },
+        {
+          "id": "69d90e5095752559350d00e6",
+          "title": "GAN Architecture",
+          "type": "video",
+          "duration": 523,
+          "url": "https://fast.wistia.com/embed/medias/p2rm0qzk7i.m3u8"
+        },
+        {
+          "id": "69d90e563dc67278e2000f55",
+          "title": "Generator Network",
+          "type": "video",
+          "duration": 623,
+          "url": "https://fast.wistia.com/embed/medias/kwcrxosu6z.m3u8"
+        },
+        {
+          "id": "69d90e672f84d19aee012299",
+          "title": "Setting up Celeba Dataset",
+          "type": "video",
+          "duration": 907,
+          "url": "https://fast.wistia.com/embed/medias/5r3g1nlg2k.m3u8"
+        },
+        {
+          "id": "69d90e76121899654307e9e5",
+          "title": "Generator Network (Implementation)",
+          "type": "video",
+          "duration": 329,
+          "url": "https://fast.wistia.com/embed/medias/1epvfpovrr.m3u8"
+        },
+        {
+          "id": "69d90e82e452330ea0059257",
+          "title": "Discriminator Network",
+          "type": "video",
+          "duration": 784,
+          "url": "https://fast.wistia.com/embed/medias/dwnofxx92t.m3u8"
+        },
+        {
+          "id": "69d90e8a714a00746f06bbc6",
+          "title": "Discriminator Network (Implementation)",
+          "type": "video",
+          "duration": 511,
+          "url": "https://fast.wistia.com/embed/medias/3fzplf8p59.m3u8"
+        },
+        {
+          "id": "69d91e5b3661543c6606c247",
+          "title": "Training the GAN",
+          "type": "video",
+          "duration": 629,
+          "url": "https://fast.wistia.com/embed/medias/a82wab1dys.m3u8"
+        },
+        {
+          "id": "69d91e698932bc60f305f3d7",
+          "title": "Show Generated Fake Images",
+          "type": "video",
+          "duration": 488,
+          "url": "https://fast.wistia.com/embed/medias/zz8gp1rt8c.m3u8"
+        },
+        {
+          "id": "69d91e7fe767e4249005a396",
+          "title": "Output after 1st & 2nd Epoch",
+          "type": "video",
+          "duration": 216,
+          "url": "https://fast.wistia.com/embed/medias/0i72ke8k6p.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "prime_agentic_ai",
+      "title": "Agentic AI",
+      "isAvailable": true,
+      "lessons": [
+        {
+          "id": "69db9c36990b6e2dc50774a3",
+          "title": "Introduction to Agentic AI",
+          "type": "video",
+          "duration": 978,
+          "url": "https://fast.wistia.com/embed/medias/tiqhi8r70b.m3u8"
+        },
+        {
+          "id": "69db9cf32402fe2743021495",
+          "title": "Agentic AI vs AI Agents",
+          "type": "video",
+          "duration": 219,
+          "url": "https://fast.wistia.com/embed/medias/s6ocnoxymx.m3u8"
+        },
+        {
+          "id": "69db9d37ad3c3e62e0076513",
+          "title": "Agentic AI Frameworks & Platforms",
+          "type": "video",
+          "duration": 849,
+          "url": "https://fast.wistia.com/embed/medias/o3herh5yzy.m3u8"
+        },
+        {
+          "id": "69db9d5f906f422ff80104f3",
+          "title": "Core Concepts of Agentic AI",
+          "type": "video",
+          "duration": 760,
+          "url": "https://fast.wistia.com/embed/medias/03w3din3ji.m3u8"
+        },
+        {
+          "id": "69db9dcc698dc1d67b040296",
+          "title": "Our First Agent (with Agno)",
+          "type": "video",
+          "duration": 1227,
+          "url": "https://fast.wistia.com/embed/medias/8ga9eh2y14.m3u8"
+        },
+        {
+          "id": "69db9ddf353463c7ec064155",
+          "title": "Build Finance Agent",
+          "type": "video",
+          "duration": 679,
+          "url": "https://fast.wistia.com/embed/medias/11ssrfixd6.m3u8"
+        },
+        {
+          "id": "69db9de8d9f10081ac08ce35",
+          "title": "Teams in Agno",
+          "type": "video",
+          "duration": 616,
+          "url": "https://fast.wistia.com/embed/medias/cwfsdiape9.m3u8"
+        },
+        {
+          "id": "69db9df463eca10066022d65",
+          "title": "Agents with Memory",
+          "type": "video",
+          "duration": 744,
+          "url": "https://fast.wistia.com/embed/medias/uflix8lvkh.m3u8"
+        },
+        {
+          "id": "69db9e0adbbdeceb9d04aa75",
+          "title": "Youtube Video Analyzer (Agentic AI Agent)",
+          "type": "video",
+          "duration": 503,
+          "url": "https://fast.wistia.com/embed/medias/dpw44pa996.m3u8"
+        },
+        {
+          "id": "69db9e17ca458289700a87dc",
+          "title": "Deploy Agent with Streamlit",
+          "type": "video",
+          "duration": 1246,
+          "url": "https://fast.wistia.com/embed/medias/jeurl0g03v.m3u8"
+        }
+      ]
+    }
+  ]
+}
