@@ -451,7 +451,7 @@ function CoursePlayer({ course }) {
                       >
                         {clock(n.time)}
                       </button>
-                      <p className="mt-1.5 whitespace-pre-wrap break-words text-sm leading-6">{String(n.text)}</p>
+                      <p className="mt-1.5 whitespace-pre-wrap wrap-break-word text-sm leading-6">{String(n.text)}</p>
                     </div>
                     <Button
                       variant="ghost"
@@ -581,7 +581,7 @@ function Playlist({ course, lessons, current, index, state, completedSet, doneCo
                 type="button"
                 aria-expanded={open}
                 onClick={() => setToggled((t) => ({ ...t, [s.id]: !open }))}
-                className="sticky top-0 z-[2] flex w-full items-center gap-3 bg-card/95 px-4 py-3 text-left backdrop-blur transition hover:bg-muted/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-ring"
+                className="sticky top-0 z-2 flex w-full items-center gap-3 bg-card/95 px-4 py-3 text-left backdrop-blur transition hover:bg-muted/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-ring"
               >
                 <div className="min-w-0 flex-1">
                   <p className={cn("truncate text-[13px] font-bold", s.id === currentSection && "text-primary")}>{s.title}</p>
@@ -645,14 +645,14 @@ function PlaylistRow({ lesson, number, available, active, done, watched, activeR
         onClick={onClick}
         className={cn(
           "group relative flex w-full items-center gap-3 py-2 pl-4 pr-3 text-left transition-colors duration-150 disabled:cursor-not-allowed disabled:opacity-40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-ring",
-          active ? "bg-primary/10" : "hover:bg-primary/[0.06]"
+          active ? "bg-primary/10" : "hover:bg-primary/6"
         )}
       >
         {/* Accent bar: always on for the current lesson, slides in on hover for others */}
         <span
           aria-hidden
           className={cn(
-            "absolute inset-y-1.5 left-0 z-[1] w-[3px] origin-center rounded-r-full bg-primary transition-transform duration-200",
+            "absolute inset-y-1.5 left-0 z-1 w-0.75 origin-center rounded-r-full bg-primary transition-transform duration-200",
             active ? "scale-y-100" : "scale-y-0 group-hover:scale-y-100 group-disabled:scale-y-0"
           )}
         />

@@ -540,8 +540,8 @@ export default function Shell({ children }) {
     <div className="relative min-h-screen">
       {/* Ambient glow */}
       <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
-        <div className="absolute -top-48 left-1/4 h-[520px] w-[520px] rounded-full bg-primary/15 blur-[130px]" />
-        <div className="absolute -right-40 top-1/3 h-[420px] w-[420px] rounded-full bg-accent/10 blur-[130px]" />
+        <div className="absolute -top-48 left-1/4 h-130 w-130 rounded-full bg-primary/15 blur-[130px]" />
+        <div className="absolute -right-40 top-1/3 h-105 w-105 rounded-full bg-accent/10 blur-[130px]" />
       </div>
 
       <a
@@ -609,7 +609,7 @@ export default function Shell({ children }) {
         <aside
           className={cn(
             "scrollbar-thin sticky top-16 hidden h-[calc(100vh-4rem)] shrink-0 overflow-y-auto border-r border-border/60 transition-[width] duration-200 lg:block",
-            collapsed ? "w-[76px]" : "w-64"
+            collapsed ? "w-19" : "w-64"
           )}
         >
           <SidebarNav collapsed={collapsed} pathname={pathname} />

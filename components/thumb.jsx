@@ -75,7 +75,7 @@ export function VideoThumb({
         </span>
       )}
       {progress > 0 && (
-        <span className="absolute inset-x-0 bottom-0 h-[3px] bg-white/25">
+        <span className="absolute inset-x-0 bottom-0 h-0.75 bg-white/25">
           <span className="block h-full bg-primary" style={{ width: `${Math.min(100, progress)}%` }} />
         </span>
       )}
@@ -89,7 +89,7 @@ export function HoverBar({ active = false, className }) {
     <span
       aria-hidden
       className={cn(
-        "pointer-events-none absolute inset-y-2 left-0 z-[1] w-[3px] origin-center rounded-r-full bg-primary transition-transform duration-200",
+        "pointer-events-none absolute inset-y-2 left-0 z-1 w-0.75 origin-center rounded-r-full bg-primary transition-transform duration-200",
         active ? "scale-y-100" : "scale-y-0 group-hover:scale-y-100",
         className
       )}

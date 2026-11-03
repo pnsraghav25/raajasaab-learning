@@ -26,8 +26,8 @@ export default async function LoginPage({ searchParams }) {
   return (
     <main className="relative grid min-h-screen place-items-center overflow-hidden px-4 py-12">
       <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
-        <div className="absolute -top-40 left-1/4 h-[480px] w-[480px] rounded-full bg-primary/20 blur-[120px]" />
-        <div className="absolute -bottom-40 right-1/4 h-[420px] w-[420px] rounded-full bg-accent/15 blur-[120px]" />
+        <div className="absolute -top-40 left-1/4 h-120 w-120 rounded-full bg-primary/20 blur-[120px]" />
+        <div className="absolute -bottom-40 right-1/4 h-120 w-120] rounded-full bg-accent/15 blur-[120px]" />
       </div>
 
       <div className="dl-fade-up w-full max-w-sm">
