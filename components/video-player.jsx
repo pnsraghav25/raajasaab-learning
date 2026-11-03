@@ -397,11 +397,11 @@ export default function VideoPlayer({
           break;
         case "ArrowLeft":
           if (onInteractive && !inside) return;
-          a.seekBy(-5);
+          a.seekBy(-20);
           break;
         case "ArrowRight":
           if (onInteractive && !inside) return;
-          a.seekBy(5);
+          a.seekBy(20);
           break;
         case "ArrowUp":
           if (!inside) return;
