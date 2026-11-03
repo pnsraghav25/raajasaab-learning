@@ -11,6 +11,7 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata = {
   title: "raajasaab-learning · Your learning, uninterrupted",
   description: "A calm, focused course library that remembers exactly where you left off.",
+  robots: { index: false, follow: false }, // private site — keep it out of search engines
 };
 
 export const viewport = {

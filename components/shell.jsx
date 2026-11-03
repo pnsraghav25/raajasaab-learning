@@ -16,6 +16,7 @@ import {
   Home,
   Layers,
   Library,
+  LogOut,
   Menu,
   Moon,
   Play,
@@ -62,10 +63,16 @@ export function Logo({ compact = false }) {
   return (
     <Link
       href="/"
-      className="flex items-center gap-2.5 rounded-xl outline-none focus-visible:ring-2 focus-visible:ring-ring"
+      aria-label="raajasaab-learning home"
+      className="flex shrink-0 items-center gap-2.5 rounded-xl outline-none focus-visible:ring-2 focus-visible:ring-ring"
     >
-      <span className="grid h-9 w-9 place-items-center rounded-xl bg-linear-to-br from-primary to-accent text-white shadow-lg shadow-primary/30">
-        <Play className="h-4 w-4 translate-x-px fill-current" />
+      <span className="relative block h-9 w-9 shrink-0 overflow-hidden rounded-xl">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/hero-new.webp"
+          alt=""
+          className="absolute inset-0 h-full w-full object-contain"
+        />
       </span>
       {!compact && (
         <span className="text-[17px] font-extrabold tracking-tight">
@@ -73,6 +80,28 @@ export function Logo({ compact = false }) {
         </span>
       )}
     </Link>
+  );
+}
+
+/* ------------------------------------------------------------ Sign out */
+/** Plain form POST, so signing out works even if JavaScript fails. */
+export function SignOutButton({ variant = "icon", className }) {
+  return (
+    <form action="/api/logout" method="post" className={cn(variant === "full" && "w-full", className)}>
+      {variant === "icon" ? (
+        <Button type="submit" variant="ghost" size="icon" aria-label="Sign out" title="Sign out">
+          <LogOut className="size-5" />
+        </Button>
+      ) : (
+        <button
+          type="submit"
+          className="flex w-full items-center gap-4 rounded-xl px-3 py-2.5 text-sm text-foreground/80 transition hover:bg-muted hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        >
+          <LogOut className="h-5 w-5 shrink-0" />
+          Sign out
+        </button>
+      )}
+    </form>
   );
 }
 
@@ -184,7 +213,7 @@ export function SettingsPanel({ trigger }) {
       <DialogContent className="max-w-xl">
         <DialogTitle>Make it yours</DialogTitle>
         <DialogDescription className="mt-1.5">
-          Preferences and progress live in this browser only. Your name is a greeting, not a login.
+          Preferences and progress live in this browser only.
         </DialogDescription>
 
         <div className="mt-7 space-y-7">
@@ -194,7 +223,7 @@ export function SettingsPanel({ trigger }) {
               value={state.userName}
               onChange={(e) => update({ userName: e.target.value })}
               placeholder="What should we call you?"
-              aria-label="Your name"
+              aria-label="Display name"
             />
           </SettingsSection>
 
@@ -275,6 +304,15 @@ export function SettingsPanel({ trigger }) {
             </div>
           </SettingsSection>
 
+          <SettingsSection title="Account">
+            <form action="/api/logout" method="post">
+              <Button type="submit" variant="outline" className="w-full">
+                <LogOut />
+                Sign out
+              </Button>
+            </form>
+          </SettingsSection>
+
           <p role="status" aria-live="polite" className="min-h-5 text-sm font-medium text-primary">
             {message}
           </p>
@@ -307,7 +345,7 @@ function Welcome() {
         </div>
         <DialogTitle className="mt-5 text-center text-2xl font-extrabold">Welcome to raajasaab-learning</DialogTitle>
         <DialogDescription className="mt-2 text-center">
-          Tell us what to call you and pick a gentle daily goal. Everything stays on this device.
+          Tell us what to call you and pick a gentle daily goal. Progress stays on this device.
         </DialogDescription>
         <form onSubmit={submit} className="mt-7 space-y-6">
           <label className="block text-sm font-semibold">
@@ -435,6 +473,9 @@ function SidebarNav({ collapsed, pathname }) {
             <Progress value={value} max={goal.value} className="mt-3" label="Daily goal progress" />
             <p className="mt-3 text-[11px] leading-4 text-muted-foreground">Small steps. Real growth.</p>
           </div>
+
+          <div className="my-3 h-px bg-border" />
+          <SignOutButton variant="full" />
         </>
       )}
     </nav>
@@ -548,6 +589,7 @@ export default function Shell({ children }) {
             >
               {state.theme === "dark" ? <Sun className="size-5" /> : <Moon className="size-5" />}
             </Button>
+            <SignOutButton className="hidden sm:block" />
             <SettingsPanel
               trigger={
                 <button
@@ -600,10 +642,10 @@ export default function Shell({ children }) {
             </p>
           )}
           {ready ? <div className="mx-auto max-w-[1800px]">{children}</div> : <LoadingSkeleton />}
-          {/* <footer className="mx-auto mt-16 max-w-[1800px] border-t border-border/60 pt-6 text-xs leading-5 text-muted-foreground">
+          <footer className="mx-auto mt-16 max-w-[1800px] border-t border-border/60 pt-6 text-xs leading-5 text-muted-foreground">
             raajasaab-learning keeps progress on this device only — it&apos;s approximate, not certified completion.
             Video availability depends on the provider&apos;s authorization and restrictions.
-          </footer> */}
+          </footer>
         </main>
       </div>
 

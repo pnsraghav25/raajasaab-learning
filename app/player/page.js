@@ -1,5 +1,7 @@
 import PlayerPage from "@/components/player";
+import { requireUser } from "@/lib/session";
 
-export default function Page() {
+export default async function Page() {
+  await requireUser("/player");
   return <PlayerPage />;
 }

@@ -15,9 +15,12 @@ function walk(dir) {
     if (entry.isDirectory()) walk(p);
     else if (entry.name.toLowerCase().endsWith(".json")) {
       try {
-        // Tolerate invisible characters some editors append after the JSON.
+        // Tolerate a BOM or invisible characters some editors append after the JSON.
         const raw = fs.readFileSync(p, "utf8").replace(/^\uFEFF/, "").replace(/[\u200B-\u200D\uFEFF\s]+$/, "");
-        for (const c of validateCatalogue(JSON.parse(raw))) { map.set(c.id, c); imported += 1; }
+        for (const c of validateCatalogue(JSON.parse(raw))) {
+          map.set(c.id, c);
+          imported += 1;
+        }
       } catch (err) {
         console.error(`✖ ${p}: ${err.message}`);
         process.exitCode = 1;
@@ -28,6 +31,6 @@ function walk(dir) {
 
 walk("video-data");
 if (process.exitCode) process.exit(process.exitCode);
-fs.writeFileSync(file, JSON.stringify([...map.values()], null, 2));
+fs.writeFileSync(file, JSON.stringify([...map.values()], null, 2) + "\n");
 const lessons = [...map.values()].reduce((n, c) => n + c.sections.reduce((m, s) => m + s.lessons.length, 0), 0);
 console.log(`✔ Catalogue: ${map.size} courses, ${lessons} lessons (${imported} from video-data/)`);

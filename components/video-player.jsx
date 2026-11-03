@@ -17,7 +17,6 @@ import {
   RotateCcw,
   RotateCw,
   Settings,
-  SkipBack,
   SkipForward,
   SlidersHorizontal,
   Volume1,
@@ -1108,23 +1107,13 @@ export default function VideoPlayer({
           </div>
 
           <div className="mt-0.5 flex h-10 items-center">
-            {/* <button type="button" className={cn(ctrl, "hidden sm:inline-flex")} disabled={!hasPrevious} onClick={goPrev} aria-label="Previous lesson (P)" title="Previous (P)">
-              <SkipBack className="h-5 w-5 fill-current" />
-            </button> */}
+            {/* Previous / next / ±10s buttons are hidden on purpose — use the buttons below the video,
+                or the keyboard: P / N, J / L. */}
             <button type="button" className={ctrl} onClick={toggle} aria-label={playing ? "Pause (K)" : "Play (K)"} title={playing ? "Pause (K)" : "Play (K)"}>
               {playing ? <Pause className="h-6 w-6 fill-current" /> : <Play className="h-6 w-6 fill-current" />}
             </button>
-            {/* <button type="button" className={ctrl} disabled={!hasNext} onClick={goNext} aria-label="Next lesson (N)" title="Next (N)">
-              <SkipForward className="h-5 w-5 fill-current" />
-            </button>
-            <button type="button" className={cn(ctrl, "hidden md:inline-flex")} onClick={() => seekBy(-10)} aria-label="Back 10 seconds (J)" title="Back 10s (J)">
-              <RotateCcw className="h-[18px] w-[18px]" />
-            </button>
-            <button type="button" className={cn(ctrl, "hidden md:inline-flex")} onClick={() => seekBy(10)} aria-label="Forward 10 seconds (L)" title="Forward 10s (L)">
-              <RotateCw className="h-[18px] w-[18px]" />
-            </button> */}
 
-            {/* Volume — the slider is a flex item inside a fixed 40px-tall row, so it sits exactly on the icon's centre line */}
+            {/* Volume — slider sits in the same 40px-tall row as the icon, so it lines up with its centre */}
             <div className="group/vol flex h-10 items-center">
               <button type="button" className={ctrl} onClick={toggleMute} aria-label={muted ? "Unmute (M)" : "Mute (M)"} title={muted ? "Unmute (M)" : "Mute (M)"}>
                 <VolumeIcon className="h-5 w-5" />
